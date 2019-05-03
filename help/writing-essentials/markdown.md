@@ -2,12 +2,9 @@
 lastModified: 28-6-2018
 title: Cómo utilizar Markdown para escribir documentación
 seo-title: Cómo utilizar Markdown para escribir documentación de Adobe
-description: En este artículo se proporcionan los conceptos básicos y la información
-  de referencia del lenguaje Markdown utilizado para escribir artículos.
-seo-description: En este artículo se proporcionan los conceptos básicos y la información
-  de referencia del lenguaje Markdown utilizado para escribir artículos para la documentación
-  de Adobe.
-translation-type: tm+mt
+description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos.
+seo-description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos para la documentación de Adobe.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -88,7 +85,7 @@ Visualización:
 
 - Primer elemento de una lista desordenada.
 - Otro elemento.
--  Y otro más.
+- Y otro más.
 
 También puede incrustar listas dentro de listas y añadir contenido entre elementos de la lista.
 
@@ -151,8 +148,8 @@ Las tablas sencillas funcionan correctamente en Markdown. Sin embargo, es difíc
 Para obtener más información sobre cómo crear tablas, consulte:
 
 - [Organización de información con tablas de GitHub](https://help.github.com/articles/organizing-information-with-tables/)
-- La aplicación web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
-- [Convertir tablas HTML a Markdown](https://jmalarcon.github.io/markdowntables/)
+- Aplicación web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+- [Conversión de tablas HTML a Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Vínculos
 
@@ -184,7 +181,7 @@ Para obtener más información sobre la vinculación, consulte el artículo [Ví
 
 Visualización:
 
-![Texto al pasar el ratón sobre el](assets/no-localize/adobe_standard_logo.png "logotipo de Adobe")
+![Logotipo de Adobe](assets/no-localize/adobe_standard_logo.png "Texto sobre el que se puede colocar el ratón")
 
 ### Bloques de código
 
@@ -338,7 +335,7 @@ Para los elementos de la interfaz de usuario y los menús de una solución, se u
 
 **Ejemplo:**
 
-Puede [!DNL Adobe Target] crear sus pruebas directamente en una página [!DNL Target]habilitada para -.
+En [!DNL Adobe Target] puede crear pruebas directamente en una página habilitada para [!DNL Target].
 
 **Fuente:**
 
@@ -348,7 +345,7 @@ In [!DNL Adobe Target] you can create your tests directly on a [!DNL Target]-ena
 
 **Ejemplo**
 
-Utilice [!UICONTROL Visual Experience Composer] la opción para [!DNL Target] crear la prueba directamente en una página.
+Use el [!UICONTROL Visual Experience Composer] en [!DNL Target] para crear la prueba directamente en una página.
 
 **Fuente:**
 
@@ -380,8 +377,8 @@ Estas son las codificaciones para las versiones "inteligentes" de estos signos d
 
 - Comilla tipográfica izquierda (apertura): `&#8220;`
 - Comilla tipográfica derecha (cierre): `&#8221;`
-- Cierre de comillas o comillas simples a la derecha (cierre): `&#8217;`
-- Comilla tipográfica izquierda (apertura) simple (poco usada): `&#8216;`
+- Comilla tipográfica derecha simple (cierre) a la derecha o apóstrofo: `&#8217;`
+- Comilla tipográfica izquierda simple (apertura; poco usada): `&#8216;`
 
 ### Antilambdas
 
@@ -398,4 +395,4 @@ El símbolo "et" (&) no se permite en los títulos. Utilice "y" o la codificaci�
 ### Recursos de Markdown
 
 - [Introducción a Markdown](https://daringfireball.net/projects/markdown/syntax)
-- [Conceptos básicos de Markdown en GitHub](https://help.github.com/articles/markdown-basics/)
+- [Fundamentos de Markdown para GitHub](https://help.github.com/articles/markdown-basics/)
