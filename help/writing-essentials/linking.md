@@ -1,23 +1,21 @@
 ---
 lastModified: 28-6-2018
-title: Uso de vínculos en la documentación
-seo-title: Uso de vínculos en la documentación de Adobe Git/Markdown
-description: Este artículo proporciona instrucciones para crear vínculos a contenido
-  e imágenes.
-seo-description: Este artículo proporciona instrucciones para crear vínculos a contenido
-  e imágenes para documentación de Adobe.
-translation-type: tm+mt
+title: Uso de los vínculos en la documentación
+seo-title: Uso de los vínculos en la documentación de Adobe Git/Markdown
+description: En este artículo se explica cómo crear vínculos a contenido e imágenes.
+seo-description: En este artículo se explica cómo crear vínculos a contenido e imágenes para la documentación de Adobe.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
 
 
-# Uso de vínculos en la documentación
+# Uso de los vínculos en la documentación
 
-Este artículo describe el uso de hipervínculos en páginas de documentación. Los vínculos son fáciles de agregar en Markdown con algunas convenciones distintas. Los vínculos envían a los usuarios al contenido en la misma página, en otras páginas vecinas o en sitios y direcciones URL externas.
+En este artículo se describe el uso de los hipervínculos en las páginas de la documentación. Los vínculos son fáciles de agregar en Markdown con algunas convenciones distintas. Los vínculos envían a los usuarios al contenido en la misma página, en otras páginas vecinas o en sitios y direcciones URL externas.
 
 > [!IMPORTANT]
-> Idealmente, todos los vínculos deben ser vínculos seguros (`https` vs `http`) siempre que el objetivo lo admita (que la gran mayoría debería).
+> Por norma general, los vínculos deben ser seguros (`https`, no `http`) siempre que el objetivo los admita (y la gran mayoría debería admitirlos).
 
 ## Vínculo a direcciones URL
 
