@@ -2,16 +2,14 @@
 lastModified: 28-6-2018
 title: Guía de escritura para la documentación de Adobe
 seo-title: Guía de escritura para la documentación de Adobe
-description: Este artículo incluye instrucciones esenciales para contribuir a la documentación
-  de Adobe.
-seo-description: Este artículo incluye instrucciones esenciales para contribuir a
-  la documentación de Adobe.
-translation-type: tm+mt
+description: Este artículo incluye instrucciones esenciales para contribuir a la documentación de Adobe.
+seo-description: Este artículo incluye instrucciones esenciales para contribuir a la documentación de Adobe.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
 
-# Escritura de guía para documentación de Adobe
+# Guía de escritura para la documentación de Adobe
 
 Estas directrices se aplican si está creando documentación nueva o actualizando documentación existente.
 
