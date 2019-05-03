@@ -12,7 +12,7 @@ getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Tutoriales
 tutorials-url: https://helpx.adobe.com/es/experience-cloud/tutorials.html
 test-meta: prueba
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -23,7 +23,7 @@ source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 + [Introducción](introduction.md)
 + Configuración con GitHub {#setup}
    + [Configuración de la cuenta de GitHub](setup/github-signup.md)
-   + [Instalación de herramientas de creación de Git y Markdown](setup/install-tools.md)
+   + [Instalación de las herramientas de creación de Git y Markdown](setup/install-tools.md)
    + [Configuración de un repositorio de Git local](setup/local-repo.md)
    + [Aspectos básicos de la documentación de GitHub](setup/git-fundamentals.md)
    + [Flujo de trabajo de GitHub para cambios importantes](setup/full-workflow.md)
