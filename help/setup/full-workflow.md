@@ -1,13 +1,10 @@
 ---
 lastModified: 28-6-2018
 title: Flujo de trabajo de contribución en GitHub para cambios importantes
-seo-title: Flujo de trabajo de contribución en GitHub para cambios importantes en
-  la documentación de Adobe
-description: Este artículo muestra cómo utilizar el flujo de trabajo de colaborador
-  "principal" para contribuir a la documentación de Adobe.
-seo-description: Este artículo muestra cómo utilizar el flujo de trabajo del colaborador
-  "principal" para contribuir en la documentación de Adobe.
-translation-type: tm+mt
+seo-title: Flujo de trabajo de contribución en GitHub para cambios importantes en la documentación de Adobe
+description: Este artículo muestra cómo utilizar el flujo de trabajo de colaborador "principal" para contribuir a la documentación de Adobe.
+seo-description: Este artículo muestra cómo utilizar el flujo de trabajo del colaborador "principal" para contribuir en la documentación de Adobe.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -55,7 +52,7 @@ Aislar los cambios relacionados en una rama específica permite controlar e intr
 >[!NOTE]
 >No es recomendable realizar los cambios en la rama *maestra*. Imagine que utiliza la rama maestra para introducir un conjunto de cambios para la publicación programada de una función. Finaliza los cambios y está esperando para publicarlos. Mientras tanto, recibe una solicitud urgente para corregir algo, por lo que realiza el cambio en un archivo de la rama maestra y después publica el cambio. En este ejemplo, publica inadvertidamente la corrección *y* los cambios que había retenido para publicar en una fecha específica.
 
-El siguiente paso es crear una nueva ramificación de trabajo en el repositorio local para capturar los cambios propuestos. Cada cliente Git es diferente, así que le aconsejamos que consulte la ayuda de su cliente preferido. Puede ver una descripción general del proceso en la Guía de GitHub sobre el [flujo de GitHub](https://guides.github.com/introduction/flow/).
+El siguiente paso es crear una nueva ramificación de trabajo en el repositorio local para capturar los cambios propuestos. Cada cliente Git es diferente, así que le aconsejamos que consulte la ayuda de su cliente preferido. Puede ver información general del proceso en la Guía de GitHub sobre el [flujo de GitHub](https://guides.github.com/introduction/flow/).
 
 ## Procesamiento de solicitudes de extracción
 
