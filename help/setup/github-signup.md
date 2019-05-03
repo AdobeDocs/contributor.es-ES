@@ -1,21 +1,18 @@
 ---
 lastModified: 15-10-2018
 title: Pasos de configuración de la cuenta de GitHub
-seo-title: Pasos de configuración de cuenta de Github para documentación de Adobe
-  Experience Cloud
-description: Siga el proceso de configuración de cuentas para GitHub, necesario para
-  contribuir a la documentación de Adobe.
-seo-description: Siga el proceso de configuración de cuentas para GitHub, necesario
-  para contribuir a la documentación de Adobe.
+seo-title: Pasos para configurar la cuenta de GitHub para la documentación de Adobe Experience Cloud
+description: Siga el proceso de configuración de cuentas para GitHub, necesario para contribuir a la documentación de Adobe.
+seo-description: Siga el proceso de configuración de cuentas para GitHub, necesario para contribuir a la documentación de Adobe.
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
 
 # Configuración de una cuenta de GitHub
 
-## Configuración de una cuenta de github
+## Configuración de una cuenta de GitHub
 
 Para contribuir con cambios o adiciones a la documentación de Adobe (u otras organizaciones) en GitHub, debe configurar su propia cuenta de GitHub. Es fácil.
 
@@ -25,11 +22,11 @@ Para contribuir con cambios o adiciones a la documentación de Adobe (u otras or
 
 Identifique cualquier afinidad en su perfil de GitHub. La identificación nos ayuda a crear un perfil completo de todas sus actividades.
 
-## Firmar el Acuerdo de licencia de colaborador (CLA)
+## Firma del Acuerdo de licencia para colaboradores (CLA)
 
-Todas las contribuciones de terceros a este proyecto deben estar acompañadas por un contrato firmado de licencia de colaborador, que da permiso a Adobe para redistribuir las contribuciones como parte del proyecto.
+Todas las contribuciones de terceros a este proyecto deben estar acompañadas por un contrato de licencia para colaboradores firmado, que da permiso a Adobe para redistribuir las contribuciones como parte del proyecto.
 
-1. Firme el Contrato de licencia [de colaborador (CLA)](http://opensource.adobe.com/cla.html) si es aceptado.
+1. Si le resulta aceptable, firme el [Acuerdo de licencia para colaboradores (CLA)](http://opensource.adobe.com/cla.html).
 
 ## Empleados de Adobe
 
