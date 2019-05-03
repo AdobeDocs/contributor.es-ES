@@ -1,13 +1,9 @@
 ---
 title: Aspectos básicos de la documentación de Git y GitHub
 seo-title: Aspectos básicos de la documentación de Git y GitHub
-description: En este artículo se ofrece una descripción general de Git, del repositorio
-  de GitHub y de cómo se organiza el contenido, así como las convenciones de nomenclatura
-  utilizadas para la documentación de Adobe.
-seo-description: En este artículo se ofrece una descripción general de Git, del repositorio
-  de GitHub y de cómo se organiza el contenido, así como las convenciones de nomenclatura
-  utilizadas para la documentación de Adobe.
-translation-type: tm+mt
+description: En este artículo se ofrece una descripción general de Git, del repositorio de GitHub y de cómo se organiza el contenido, así como las convenciones de nomenclatura utilizadas para la documentación de Adobe.
+seo-description: En este artículo se ofrece una descripción general de Git, del repositorio de GitHub y de cómo se organiza el contenido, así como las convenciones de nomenclatura utilizadas para la documentación de Adobe.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -22,7 +18,7 @@ Como colaborador del contenido de documentación de Adobe, puede interactuar con
 
 Git es un sistema de código abierto de control de versiones que permite la colaboración. Varios colaboradores pueden trabajar en archivos que residen en *repositorios*.
 
-GitHub es un servicio de alojamiento basado en la web para repositorios Git, como los que se usan para almacenar contenido de [docs.adobe.com](https://docs.adobe.com). En un proyecto, GitHub aloja el repositorio principal desde el cual los colaboradores pueden crear copias para realizar su propio trabajo.
+GitHub es un servicio de alojamiento basado en la Web para repositorios Git, como los que se usan para almacenar contenido de [docs.adobe.com](https://docs.adobe.com). En un proyecto, GitHub aloja el repositorio principal desde el cual los colaboradores pueden crear copias para realizar su propio trabajo.
 
 ## Git
 
@@ -30,8 +26,8 @@ Git ofrece un flujo de trabajo de contribución único y una terminología propi
 
 Git también utiliza una estructura jerárquica para almacenar y administrar el contenido de un proyecto:
 
-- *Repositorio*: también denominado *repo*, es la unidad de almacenamiento más alta. Un repositorio contiene una o más ramas.
-- *Rama*: todos los repositorios contienen una rama predeterminada (generalmente denominada "maestra") y una o más ramas que se van a volver a fusionar en la rama maestra. La rama maestra sirve como la versión y la fuente actual desde la que se publica el contenido. Es el nivel superior desde el que se crean todas las demás ramas del repositorio.
+- *Repositorio*: también denominado *repo*, es la unidad de almacenamiento más alta. Un repositorio puede contener tanto una como varias ramas.
+- *Rama*: todos los repositorios contienen una rama predeterminada (generalmente denominada “maestra”) y una o varias ramas que se van a volver a fusionar con la maestra. La rama maestra sirve como la versión y la fuente actual desde la que se publica el contenido. Es el nivel superior desde el que se crean todas las demás ramas del repositorio.
 
 Los colaboradores interactúan con Git para actualizar y manipular repositorios en los niveles local y GitHub:
 
