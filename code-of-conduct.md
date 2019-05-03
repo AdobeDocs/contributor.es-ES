@@ -1,6 +1,6 @@
 ---
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # Código de conducta de Adobe
@@ -46,4 +46,4 @@ Los administradores del proyecto que no cumplan o hagan cumplir de buena fe el C
 
 ## Atribución
 
-El presente Código de conducta es una adaptación de la versión 1.4 del [Contributor Covenant](https://contributor-covenant.org), disponible en [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+El presente Código de conducta es una adaptación de la versión 1.4 del [Acuerdo del colaborador](https://contributor-covenant.org), disponible en [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/).
