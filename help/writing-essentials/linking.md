@@ -5,7 +5,7 @@ seo-title: Uso de los vínculos en la documentación de Adobe Git/Markdown
 description: En este artículo se explica cómo crear vínculos a contenido e imágenes.
 seo-description: En este artículo se explica cómo crear vínculos a contenido e imágenes para la documentación de Adobe.
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: 9060d24142e0f03283b42a2a4bbc638abe2952aa
 
 ---
 

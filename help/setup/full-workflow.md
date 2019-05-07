@@ -5,7 +5,7 @@ seo-title: Flujo de trabajo de contribución en GitHub para cambios importantes 
 description: Este artículo muestra cómo utilizar el flujo de trabajo de colaborador "principal" para contribuir a la documentación de Adobe.
 seo-description: Este artículo muestra cómo utilizar el flujo de trabajo del colaborador "principal" para contribuir en la documentación de Adobe.
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: cb9e20da64bb04a2b1765338b237825cae7aabeb
 
 ---
 
