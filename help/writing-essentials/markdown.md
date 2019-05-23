@@ -4,10 +4,11 @@ title: Cómo utilizar Markdown para escribir documentación
 seo-title: Cómo utilizar Markdown para escribir documentación de Adobe
 description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos.
 seo-description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos para la documentación de Adobe.
-translation-type: ht
-source-git-commit: cda3618353a35ebb7dd73a64777ca1c788f5b72b
+translation-type: tm+mt
+source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
+
 
 # Cómo utilizar Markdown para escribir documentación técnica
 
@@ -148,8 +149,8 @@ Las tablas sencillas funcionan correctamente en Markdown. Sin embargo, es difíc
 Para obtener más información sobre cómo crear tablas, consulte:
 
 - [Organización de información con tablas de GitHub](https://help.github.com/articles/organizing-information-with-tables/)
-- Aplicación web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
-- [Conversión de tablas HTML a Markdown](https://jmalarcon.github.io/markdowntables/)
+- La aplicación web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+- [Convertir tablas HTML a Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Vínculos
 
@@ -185,9 +186,9 @@ Visualización:
 
 ### Bloques de código
 
-Markdown admite la colocación de bloques de código tanto en línea como en un bloque "delimitado" independiente entre frases. Para obtener más información, consulte [Compatibilidad nativa de Markdown para bloques de código (en inglés).](https://daringfireball.net/projects/markdown/syntax#precode)
+Markdown admite la colocación de bloques de código tanto en línea como en un bloque &quot;delimitado&quot; independiente entre frases. Para obtener más información, consulte [Compatibilidad nativa de Markdown para bloques de código (en inglés).](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Utilice una comilla invertida (\`) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, agregue tres comillas invertidas (\`\`\`) antes y después del bloque de código (denominado "bloque de código delimitado" en Markdown y "componente de bloque de código" en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: \`\`\` javascript
+Utilice una comilla invertida (\`) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, agregue tres comillas invertidas (\`\`\`) antes y después del bloque de código (denominado &quot;bloque de código delimitado&quot; en Markdown y &quot;componente de bloque de código&quot; en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: \`\`\` javascript
 
 Ejemplos:
 
@@ -215,11 +216,11 @@ function test() {
  console.log("notice the blank line before this function?");
 ```
 
-Puede especificar propiedades para los bloques de código a fin de desactivar los números de línea (activado de forma predeterminada) o agregar un ajuste de línea (desactivado de forma predeterminada). Utilice {line-numbers="no"} y {line-wrap="yes"}. Estas propiedades son extensiones personalizadas de Markdown.
+Puede especificar propiedades para los bloques de código a fin de desactivar los números de línea (activado de forma predeterminada) o agregar un ajuste de línea (desactivado de forma predeterminada). Utilice {line-numbers=&quot;no&quot;} y {line-wrap=&quot;yes&quot;}. Estas propiedades son extensiones personalizadas de Markdown.
 
-\`\`\`javascript {line-numbers="no"}
+\`\`\`javascript {line-numbers=&quot;no&quot;}
 function test() {
-console.log("¿se ha fijado en la línea en blanco que hay antes de esta función?");
+console.log(&quot;¿se ha fijado en la línea en blanco que hay antes de esta función?&quot;);
 \`\`\`
 
 ### Listas de definición
@@ -258,7 +259,7 @@ En los artículos de Adobe se utiliza la puntuación estándar para la mayoría 
 - No localizar
 - Propiedades del componente, como asignar un ID de encabezado diferente a un encabezado
 
-Utilice el símbolo de citas de bloque de Markdown (>) al principio de cada línea para enlazar un componente ampliado, como una nota. Si necesita utilizar subcomponentes dentro de componentes, agregue un nivel adicional de citas de bloque (>  >) para esa sección de subcomponentes. Por ejemplo, una NOTA dentro de una sección DONOTLOCALIZE debe comenzar por >    >.
+Utilice el símbolo de citas de bloque de Markdown (&gt;) al principio de cada línea para enlazar un componente ampliado, como una nota. Si necesita utilizar subcomponentes dentro de componentes, agregue un nivel adicional de citas de bloque (&gt;  &gt;) para esa sección de subcomponentes. Por ejemplo, una NOTA dentro de una sección DONOTLOCALIZE debe comenzar por &gt;    &gt;.
 
 Algunos elementos comunes de Markdown, como encabezados y bloques de código, incluyen propiedades ampliadas. Si necesita cambiar las propiedades predeterminadas, agregue los parámetros entre llaves /{ /} después del componente. Las propiedades ampliadas se describen en contexto.
 
@@ -308,7 +309,7 @@ Visualización:
 
 ### Más como esto
 
-El componente "Más como esto" de AEM aparece al final de un artículo. Muestra vínculos relacionados. Cuando se representa el artículo, se le puede dar el mismo formato que a los encabezados de nivel 2 (##) sin que se agreguen al mini-TOC.
+El componente &quot;Más como esto&quot; de AEM aparece al final de un artículo. Muestra vínculos relacionados. Cuando se representa el artículo, se le puede dar el mismo formato que a los encabezados de nivel 2 (##) sin que se agreguen al mini-TOC.
 
 <!--
 ```markdown
@@ -371,9 +372,9 @@ Lo mejor es utilizar guiones (-) en lugar de guiones bajos (_) en los nombres de
 
 ### Apóstrofes y comillas
 
-Si copia texto en un editor de Markdown, el texto puede contener apóstrofos "inteligentes" (curvos) o comillas. Deben codificarse o cambiarse por apóstrofos básicos o comillas. De lo contrario, aparecerán caracteres extraños como este cuando se publique el archivo: Itâ€™s
+Si copia texto en un editor de Markdown, el texto puede contener apóstrofos &quot;inteligentes&quot; (curvos) o comillas. Deben codificarse o cambiarse por apóstrofos básicos o comillas. De lo contrario, aparecerán caracteres extraños como este cuando se publique el archivo: Itâ€™s
 
-Estas son las codificaciones para las versiones "inteligentes" de estos signos de puntuación:
+Estas son las codificaciones para las versiones &quot;inteligentes&quot; de estos signos de puntuación:
 
 - Comilla tipográfica izquierda (apertura): `&#8220;`
 - Comilla tipográfica derecha (cierre): `&#8221;`
@@ -386,13 +387,13 @@ Si utiliza antilambdas en un texto (que no sea código) del archivo, por ejemplo
 
 Por ejemplo, codifique `<script name>` como `&lt;script name&gt;`
 
-### El símbolo "et" en los títulos
+### El símbolo &quot;et&quot; en los títulos
 
-El símbolo "et" (&) no se permite en los títulos. Utilice "y" o la codificación `&amp;`.
+El símbolo &quot;et&quot; (&amp;) no se permite en los títulos. Utilice &quot;y&quot; o la codificación `&amp;`.
 
 ## Consulte también
 
 ### Recursos de Markdown
 
 - [Introducción a Markdown](https://daringfireball.net/projects/markdown/syntax)
-- [Fundamentos de Markdown para GitHub](https://help.github.com/articles/markdown-basics/)
+- [Conceptos básicos de Markdown en GitHub](https://help.github.com/articles/markdown-basics/)
