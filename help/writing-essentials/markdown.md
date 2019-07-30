@@ -4,7 +4,7 @@ title: Cómo utilizar Markdown para escribir documentación
 seo-title: Cómo utilizar Markdown para escribir documentación de Adobe
 description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos.
 seo-description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos para la documentación de Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
@@ -149,8 +149,8 @@ Las tablas sencillas funcionan correctamente en Markdown. Sin embargo, es difíc
 Para obtener más información sobre cómo crear tablas, consulte:
 
 - [Organización de información con tablas de GitHub](https://help.github.com/articles/organizing-information-with-tables/)
-- La aplicación web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
-- [Convertir tablas HTML a Markdown](https://jmalarcon.github.io/markdowntables/)
+- Aplicación web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+- [Conversión de tablas HTML a Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Vínculos
 
@@ -332,7 +332,7 @@ Es necesario declarar palabras, frases y otros elementos en nuestros sistemas de
 
 Para palabras o frases que no deban localizarse, utilice la extensión `[!DNL]` para ajustar la palabra o sección.
 
-Para los elementos de la interfaz de usuario y los menús de una solución, se utiliza la extensión `[!UICONTROL]`.
+Para los elementos de la interfaz de usuario y los menús de una solución, se utiliza la extensión ``.
 
 **Ejemplo:**
 
@@ -396,4 +396,4 @@ El símbolo &quot;et&quot; (&amp;) no se permite en los títulos. Utilice &quot;
 ### Recursos de Markdown
 
 - [Introducción a Markdown](https://daringfireball.net/projects/markdown/syntax)
-- [Conceptos básicos de Markdown en GitHub](https://help.github.com/articles/markdown-basics/)
+- [Fundamentos de Markdown para GitHub](https://help.github.com/articles/markdown-basics/)
