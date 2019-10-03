@@ -7,13 +7,13 @@ user-guide-url: https://www.adobe.com
 solution-title: Experience Cloud
 solution-hub-url: https://helpx.adobe.com/es/support/experience-cloud.html
 solution-image: assets/experience-cloud-logo-24.png
-getting-started-title: Liga de experiencia
+getting-started-title: Experience League
 getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Tutoriales
 tutorials-url: https://helpx.adobe.com/es/experience-cloud/tutorials.html
 test-meta: prueba
-translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+translation-type: tm+mt
+source-git-commit: cc70a5ea1be2a7e7c8d3a685c500b6bf33824cea
 
 ---
 
@@ -31,6 +31,8 @@ source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
    + [Uso de Markdown](writing-essentials/markdown.md)
    + [Guía general de escritura](writing-essentials/general-writing-guidance.md)
    + [Vinculación](writing-essentials/linking.md)
++ Translation feedback {#localization}
+   + [Language Support for Adobe Experience Cloud Product Documentation](localization/machine-translation.md)
 + [Recursos de aprendizaje de Git y GitHub](resources.md)
 + Conducta y contribuciones {#conduct-contributions}
    + [Código de conducta](conduct/code-of-conduct.md)
