@@ -3,8 +3,8 @@ title: Guía del colaborador para la documentación de Adobe
 seo-title: Información general sobre la Guía del colaborador para la documentación técnica de Adobe Experience Cloud
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: La guía describe cómo puede contribuir al Documentación técnica de [!UICONTROL Adobe Experience Cloud].
-translation-type: ht
-source-git-commit: cda3618353a35ebb7dd73a64777ca1c788f5b72b
+translation-type: tm+mt
+source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
 
 ---
 
@@ -32,13 +32,13 @@ En esta guía se describe todo lo que necesita saber para interactuar con este c
 > All repositories that publish to docs.adobe.com have adopted the [Adobe Open Source Code of Conduct](../code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](../contributing.md) article.
 >
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
---->
+-->
 
 ## Realice ediciones rápidas en documentos existentes
 
 Realizar ediciones rápidas es una buena manera de solucionar pequeños errores y omisiones en los documentos. Si un artículo incluye un botón de edición como se muestra a continuación, puede realizar una corrección rápida. Cuando edita el documento, envía una solicitud de extracción (PR) para enviarnos la solución/sugerencia y nosotros podremos vetarla, aprobarla y publicarla.
 
-1. Si le resulta aceptable, firme el [Acuerdo de licencia para colaboradores (CLA)](http://opensource.adobe.com/cla.html).
+1. Sign the [Contributor License Agreement (CLA)](http://opensource.adobe.com/cla.html) if acceptible.
 
    Solo es necesario que envíe el CLA de Adobe una vez.
 1. Haga clic en **`Edit this page`**, en la columna derecha, para ir al archivo Markdown de origen en GitHub.
