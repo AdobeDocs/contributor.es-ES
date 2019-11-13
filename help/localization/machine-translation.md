@@ -1,6 +1,6 @@
 ---
-title: Language Support for Adobe Experience Cloud Product Documentation
-seo-title: Language Support for Adobe Experience Cloud Product Documentation
+title: Compatibilidad de idiomas con la documentación del producto de Adobe Experience Cloud
+seo-title: Compatibilidad de idiomas con la documentación del producto de Adobe Experience Cloud
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: La guía describe cómo puede contribuir al Documentación técnica de [!UICONTROL Adobe Experience Cloud].
 translation-type: tm+mt
@@ -9,13 +9,13 @@ source-git-commit: 6c4ff238f6fa4287b9032a123959db3666cb463c
 ---
 
 
-# Language Support for Adobe Experience Cloud Product Documentation
+# Compatibilidad de idiomas con la documentación del producto de Adobe Experience Cloud
 
-Adobe recognizes that you rely on product documentation, help, and support content to be readily available in languages supported by Adobe products. To realize this goal, Adobe offers a unique translation experience that enables you to select the language of your choice and to provide feedback on the quality of translated content.
+Adobe reconoce que se basa en la documentación del producto, la ayuda y el contenido de asistencia técnica para estar fácilmente disponible en los idiomas compatibles con los productos de Adobe. Para lograr este objetivo, Adobe ofrece una experiencia de traducción única que le permite seleccionar el idioma que desee y proporcionar comentarios sobre la calidad del contenido traducido.
 
 ## Seleccionar un idioma
 
-You can view Adobe Experience Cloud product documentation in most languages.
+Puede ver la documentación del producto de Adobe Experience Cloud en la mayoría de los idiomas.
 
 1. Vaya a la documentación [del](https://helpx.adobe.com/support/experience-cloud.html)producto de Experience Cloud.
 
@@ -23,7 +23,7 @@ You can view Adobe Experience Cloud product documentation in most languages.
 
 1. Haga clic en el Selector de idioma (icono mundial) y, a continuación, elija un idioma.
 
-   ![Language selector](assets/language-dropdown.png)
+   ![Selector de idioma](assets/language-dropdown.png)
 
    La página se muestra en el idioma seleccionado.
 
@@ -33,9 +33,9 @@ You can view Adobe Experience Cloud product documentation in most languages.
 
    ![Mensaje de traducción](assets/machine-translation-message.png)
 
-   El contenido puede representarse en su idioma automáticamente o puede hacer clic en un vínculo para activar la traducción. (Este escenario puede ocurrir cuando hace clic en el hipervínculo para volver al origen inglés desde la página traducida. Le ofrece la opción de ver la página traducida a petición). Puede volver en cualquier momento a la fuente en inglés.
+   El contenido puede representarse en su idioma automáticamente o puede hacer clic en un vínculo para activar la traducción. (Este escenario puede ocurrir cuando se hace clic en el hipervínculo para volver al origen inglés desde la página traducida. Le ofrece la opción de ver la página traducida a petición). Puede volver en cualquier momento a la fuente en inglés.
 
-   Ocasionalmente, el contenido de la fuente en inglés podría haberse actualizado y publicado recientemente antes de que se completaran las traducciones. Al hacer clic en su idioma en el menú desplegable, verá una notificación — en la barra horizontal azul claro situada en la parte superior de la página — informando que la página se tradujo automáticamente de la versión anterior, con contenido actualizado que estará disponible pronto. Se le ofrecerá la opción de ver el contenido de origen en inglés más reciente en una nueva ventana del explorador, si lo prefiere.
+   Ocasionalmente, el contenido de la fuente en inglés podría haberse actualizado y publicado recientemente antes de que se completaran las traducciones. Al hacer clic en su idioma en el menú desplegable, verá una notificación — en la barra horizontal de color azul claro situada en la parte superior de la página — informando que la página se tradujo automáticamente de la versión anterior, con contenido actualizado que estará disponible pronto. Se le ofrecerá la opción de ver el contenido de origen en inglés más reciente en una nueva ventana del explorador, si lo prefiere.
 
 ## Por qué utilizar la traducción automática
 
@@ -43,17 +43,17 @@ Adobe aprovecha las capacidades de traducción automática para publicar conteni
 
 La traducción automática es omnipresente en Internet y su uso es generalmente aceptado como una poderosa herramienta de recopilación de información. Se ha adoptado ampliamente para el contenido de la base de conocimiento, donde puede haber poca o ninguna intervención humana. Aunque en los últimos años se han producido importantes avances tecnológicos, las traducciones generadas automáticamente pueden contener inexactitudes y errores ocasionales en el lenguaje y el significado.
 
-### Automatic Translation via the Browser
+### Traducción automática mediante el explorador
 
-If you have set your browser preferences to automatically translate any page into your language, be aware that the resulting translations will differ from those obtained through the Adobe page. That is because the service offered by the browser may be stock translations, while the Adobe translations will have been customized to adhere to Adobe style guidelines and terminology. To obtain optimal automatic translation results, we recommend that you either disable the browser option for this specific site in your browser preferences, or click Never translate when it displays.****
+Si ha configurado las preferencias del explorador para que traduzca automáticamente cualquier página a su idioma, tenga en cuenta que las traducciones resultantes diferirán de las obtenidas a través de la página de Adobe. Esto se debe a que el servicio ofrecido por el navegador puede ser traducciones en existencias, mientras que las traducciones de Adobe se han personalizado para cumplir con las directrices y la terminología de estilo de Adobe. Para obtener resultados de traducción automática óptimos, le recomendamos que desactive la opción del explorador para este sitio específico en las preferencias del explorador o haga clic en **Nunca traducir** cuando se muestre.
 
 ### Problemas conocidos
 
-You might occasionally experience issues with the automatic translation output, such as incomplete translations, corrupted characters or page layout issues. These are caused by any of the various authoring, publishing, or translation technology tools Adobe uses. Haremos todo lo posible para enumerar a continuación los problemas conocidos.
+En ocasiones, es posible que se produzcan problemas con el resultado de traducción automática, como traducciones incompletas, caracteres dañados o problemas de diseño de página. Esto se debe a cualquiera de las distintas herramientas de tecnología de creación, publicación o traducción que utiliza Adobe. Haremos todo lo posible para enumerar a continuación los problemas conocidos.
 
 | **ID DE PROBLEMA** | **DESCRIPCIÓN** | **ESTADO** |
 |--------------|-------------------------------------------------------------------------------------|------------|
-| G11N3558 | Some Audience Manager pages are half English and half translated (French, Spanish). | OPEN |
+| G11N3558 | Algunas páginas de Audience Manager están mitad en inglés y mitad traducidas (francés, español). | ABRIR |
 
 ### Comentarios
 
@@ -61,6 +61,6 @@ Siempre que el contenido se traduzca automáticamente, ya sea de forma predeterm
 
 ![Comentarios](assets/machine-translation-feedback.png)
 
-En el futuro, planeamos permitirle proporcionar comentarios más extensos, en forma de registro de un problema, realizar mejoras sugeridas e incluso solicitar idiomas adicionales. Some of these features are already available on the English pages. A largo plazo, creemos que esto ayudará a Adobe a mejorar la experiencia del usuario en estas páginas.
+En el futuro, planeamos permitirle proporcionar comentarios más extensos, en forma de registro de un problema, realizar mejoras sugeridas e incluso solicitar idiomas adicionales. Algunas de estas funciones ya están disponibles en las páginas en inglés. A largo plazo, creemos que esto ayudará a Adobe a mejorar la experiencia del usuario en estas páginas.
 
-![Improve this page](assets/feedback.png)
+![Mejorar esta página](assets/feedback.png)
