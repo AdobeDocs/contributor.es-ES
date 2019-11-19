@@ -3,7 +3,7 @@ title: Guía del colaborador para la documentación de Adobe
 seo-title: Información general sobre la Guía del colaborador para la documentación técnica de Adobe Experience Cloud
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: La guía describe cómo puede contribuir al Documentación técnica de [!UICONTROL Adobe Experience Cloud].
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
 
 ---
@@ -38,7 +38,7 @@ En esta guía se describe todo lo que necesita saber para interactuar con este c
 
 Realizar ediciones rápidas es una buena manera de solucionar pequeños errores y omisiones en los documentos. Si un artículo incluye un botón de edición como se muestra a continuación, puede realizar una corrección rápida. Cuando edita el documento, envía una solicitud de extracción (PR) para enviarnos la solución/sugerencia y nosotros podremos vetarla, aprobarla y publicarla.
 
-1. Sign the [Contributor License Agreement (CLA)](http://opensource.adobe.com/cla.html) if acceptible.
+1. Si le resulta aceptable, firme el [Acuerdo de licencia para colaboradores (CLA)](http://opensource.adobe.com/cla.html).
 
    Solo es necesario que envíe el CLA de Adobe una vez.
 1. Haga clic en **`Edit this page`**, en la columna derecha, para ir al archivo Markdown de origen en GitHub.
@@ -49,8 +49,8 @@ Realizar ediciones rápidas es una buena manera de solucionar pequeños errores 
 
    ![Ubicación del icono de lápiz](assets/edit-icon.png)
 
-1. Realice los cambios en el editor web. Puede hacer clic en la pestaña **Vista previa de cambios** para comprobar el formato del cambio.
-1. Una vez que haya realizado los cambios, desplácese hasta la parte inferior de la página. Introduzca un título y una descripción para su PR y haga clic en **Proponer cambio de archivo**, como se muestra en la siguiente ilustración:
+1. Realice los cambios en el editor web. Puede hacer clic en la pestaña **Preview changes** para comprobar el formato del cambio.
+1. Una vez que haya realizado los cambios, desplácese hasta la parte inferior de la página. Introduzca un título y una descripción para su PR y haga clic en **Propose file change**, como se muestra en la siguiente ilustración:
 
    ![Propuesta de cambio](assets/submit-pull-request.png)
 
@@ -71,7 +71,7 @@ Otra manera de comunicarnos fácilmente un problema en algún contenido es "Regi
 
    Si hace clic en este vínculo, podrá registrar una solicitud rápida mediante la interfaz de problemas de GitHub.
 
-1. La dirección URL de la página con el problema se rellenará automáticamente en el campo de descripción. Añada el título, escriba una breve descripción del problema y haga clic en *Enviar nuevo problema*.
+1. La dirección URL de la página con el problema se rellenará automáticamente en el campo de descripción. Añada el título, escriba una breve descripción del problema y haga clic en *Submit new issue*.
 
    ![](assets/git_issue_example.png)
 
