@@ -3,7 +3,7 @@ title: Compatibilidad de idiomas para la documentación de productos de Adobe Ex
 seo-title: Compatibilidad de idiomas para la documentación de productos de Adobe Experience Cloud
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: La guía describe cómo puede contribuir al Documentación técnica de [!UICONTROL Adobe Experience Cloud].
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9db7dd1fb9b22bc35f887d0441a1837813efc9cc
 
 ---
@@ -17,9 +17,9 @@ Adobe conoce la importancia de la documentación del producto, la ayuda y asiste
 
 Puede ver la documentación de productos de Adobe Experience Cloud en la mayoría de los idiomas.
 
-1. Vaya a la documentación [del](https://helpx.adobe.com/support/experience-cloud.html)producto de Experience Cloud.
+1. Vaya a la [documentación del producto](https://helpx.adobe.com/es/support/experience-cloud.html) de Experience Cloud.
 
-1. Busque una página de ayuda (por ejemplo, [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html)).
+1. Busque una página de ayuda (por ejemplo, [Analytics](https://docs.adobe.com/content/help/es-ES/analytics/landing/home.html)).
 
 1. Haga clic en el selector de idioma (icono del globo terráqueo) y, a continuación, seleccione un idioma.
 
@@ -70,8 +70,8 @@ de estas páginas.
 
 ![Mejorar esta página](assets/feedback.png)
 
-### Renuncia de responsabilidad de traducción
+### Aviso de descargo de responsabilidad de traducción
 
-Adobe utiliza un programa de traducción automática para traducir texto a varios idiomas. Tenga en cuenta que las traducciones computarizadas son traducciones literales y pueden contener errores. Adobe no garantiza la precisión, fiabilidad o puntualidad de las traducciones proporcionadas. Adobe no se responsabilizará de las pérdidas o daños ocasionados por la confianza en la exactitud o fiabilidad de la información traducida. Si hay diferencias entre el inglés y otro idioma, la versión en inglés controla.
+Adobe utiliza un programa de traducción automática para traducir textos a varios idiomas. Tenga en cuenta que las traducciones automáticas son literales y pueden contener errores. Adobe no garantiza la precisión, fiabilidad o puntualidad de las traducciones proporcionadas. Adobe no se responsabilizará de las pérdidas o daños ocasionados por depender de la precisión o fiabilidad de la información traducida. Si hay diferencias entre el inglés y otro idioma, la versión en inglés prevalecerá.
 
-Si desea informar de un error o una inexactitud en la traducción, le recomendamos que se ponga en contacto con nosotros.
+Si desea comunicar un error o una inexactitud en la traducción, le recomendamos que se ponga en contacto con nosotros.
