@@ -1,11 +1,11 @@
 ---
-lastModified: 28-6-2018
+lastModified: 2018-06-28T00:00:00Z
 title: Cómo utilizar Markdown para escribir documentación
 seo-title: Cómo utilizar Markdown para escribir documentación de Adobe
 description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos.
 seo-description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos para la documentación de Adobe.
-translation-type: ht
-source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
+translation-type: tm+mt
+source-git-commit: 883f9d7a9a232fdb69db09d5e9409575c7f3bdd0
 
 ---
 
@@ -58,7 +58,7 @@ This is not \*italicized\* type.
 
 ### Listas numeradas y listas con viñetas
 
-Para crear listas numeradas, empiece una línea con 1. o 1), pero no utilice ambos formatos dentro de la misma lista, puesto que se iniciará una nueva lista. No es necesario especificar los números. GitHub lo hace por usted.
+To create numbered lists, begin a line with `1.` or `1)`, but don&#39;t use both formats within the same list. No es necesario especificar los números. GitHub lo hace por usted.
 
 ```markdown
 1. This is step 1.
@@ -73,20 +73,20 @@ Visualización:
 1. Este es otro paso, el tercero.
 
 <!-- markdownlint-disable MD037 -->
-Para crear listas de viñetas, empiece una línea con \*, - o +, pero no mezcle los formatos dentro de la misma lista. (Si combina los formatos, como \* y \+, se inicia una lista nueva).
+Para crear listas de viñetas, empiece una línea con \*, - o +, pero no mezcle los formatos dentro de la misma lista. (No mezcle formatos de viñetas, como \* y \+, dentro del mismo documento).
 <!-- markdownlint-disable MD037 -->
 
 ```markdown
-- First item in an unordered list.
-- Another item.
-- Here we go again.
+* First item in an unordered list.
+* Another item.
+* Here we go again.
 ```
 
 Visualización:
 
-- Primer elemento de una lista desordenada.
-- Otro elemento.
-- Y otro más.
+* Primer elemento de una lista desordenada.
+* Otro elemento.
+* Y otro más.
 
 También puede incrustar listas dentro de listas y añadir contenido entre elementos de la lista.
 
@@ -97,9 +97,9 @@ También puede incrustar listas dentro de listas y añadir contenido entre eleme
    ![screen](assets/no-localize/adobe_standard_logo.png)
 1. Make sure that your table looks like this: 
 
-    | Hello | World |
-    |---|---|
-    | How | are you? |  
+   | Hello | World |
+   |---|---|
+   | How | are you? |  
 1. This is the fourth step.
 
    >[!NOTE]
@@ -132,25 +132,25 @@ Las tablas no forman parte de la especificación principal de Markdown, pero Ado
 
 ```markdown
 | Header | Another header | Yet another header |
-|------------|:---------------:|-----------------------:|
-| row 1 | centered column 2 | right-aligned column 3 |
+|--- |--- |--- |
+| row 1 | column 2 | column 3 |
 | row 2 | row 2 column 2 | row 2 column 3 |
 ```
 
 Visualización:
 
 | Encabezado | Otro encabezado | Y otro encabezado |
-|------------|:---------------:|-----------------------:|
-| fila 1 | columna centrada 2 | columna alineada a la derecha 3 |
+|--- |--- |--- |
+| fila 1 | columna 2 | columna 3 |
 | fila 2 | fila 2 columna 2 | fila 2 columna 3 |
 
 Las tablas sencillas funcionan correctamente en Markdown. Sin embargo, es difícil trabajar con tablas que incluyen varios párrafos o listas dentro de una celda. Para dicho contenido, recomendamos utilizar un formato diferente, como encabezados y texto.
 
 Para obtener más información sobre cómo crear tablas, consulte:
 
-- [Organización de información con tablas de GitHub](https://help.github.com/articles/organizing-information-with-tables/)
-- Aplicación web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
-- [Conversión de tablas HTML a Markdown](https://jmalarcon.github.io/markdowntables/)
+* [Organización de información con tablas de GitHub](https://help.github.com/articles/organizing-information-with-tables/)
+* La aplicación web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+* [Convertir tablas HTML a Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Vínculos
 
@@ -159,12 +159,12 @@ La sintaxis Markdown para un vínculo en línea consiste en la parte `[link text
 `[link text](file-name.md)`
 
 ```markdown
-[Adobe](https://www.adobe.com) or <https://www.adobe.com>
+[Adobe](https://www.adobe.com)
 ```
 
 Visualización:
 
-[Adobe](https://www.adobe.com) o <https://www.adobe.com>
+[Adobe](https://www.adobe.com)
 
 Para vínculos a artículos (referencias cruzadas) dentro del repositorio, utilice vínculos relativos. Puede utilizar todos los operandos de vínculos relativos, como ./ (directorio actual), ../ (atrás un directorio) y ../../ (atrás dos directorios).
 
@@ -254,12 +254,12 @@ Los comentarios (observaciones) no aparecen en los artículos de ayuda públicos
 
 En los artículos de Adobe se utiliza la puntuación estándar para la mayoría de los formatos de artículo, como párrafos, vínculos, listas y encabezados. Para obtener un formato enriquecido, los artículos pueden utilizar funciones ampliadas de Markdown, como:
 
-- Bloques de notas
-- Vídeos incrustados
-- No localizar
-- Propiedades del componente, como asignar un ID de encabezado diferente a un encabezado
+* Bloques de notas
+* Vídeos incrustados
+* No localizar
+* Propiedades del componente, como asignar un ID de encabezado diferente a un encabezado
 
-Utilice el símbolo de citas de bloque de Markdown (&gt;) al principio de cada línea para enlazar un componente ampliado, como una nota. Si necesita utilizar subcomponentes dentro de componentes, agregue un nivel adicional de citas de bloque (&gt;  &gt;) para esa sección de subcomponentes. Por ejemplo, una NOTA dentro de una sección DONOTLOCALIZE debe comenzar por &gt;    &gt;.
+Utilice el símbolo de citas de bloque de Markdown (>) al principio de cada línea para enlazar un componente ampliado, como una nota. Si necesita utilizar subcomponentes dentro de componentes, agregue un nivel adicional de citas de bloque (>  >) para esa sección de subcomponentes. Por ejemplo, una NOTA dentro de una sección DONOTLOCALIZE debe comenzar por >    >.
 
 Algunos elementos comunes de Markdown, como encabezados y bloques de código, incluyen propiedades ampliadas. Si necesita cambiar las propiedades predeterminadas, agregue los parámetros entre llaves /{ /} después del componente. Las propiedades ampliadas se describen en contexto.
 
@@ -267,10 +267,10 @@ Algunos elementos comunes de Markdown, como encabezados y bloques de código, in
 
 Puede elegir entre cuatro tipos de bloques de notas para llamar la atención sobre un contenido específico:
 
-- `[!NOTE]`
-- `[!CAUTION]`
-- `[!TIP]`
-- `[!IMPORTANT]`
+* `[!NOTE]`
+* `[!CAUTION]`
+* `[!TIP]`
+* `[!IMPORTANT]`
 
 En general, los bloques de notas deben usarse con moderación porque pueden resultar molestos. Aunque también se admiten bloques de código, imágenes, listas y vínculos, intente que los bloques de notas sean simples y directos.
 
@@ -311,19 +311,18 @@ Visualización:
 
 El componente &quot;Más como esto&quot; de AEM aparece al final de un artículo. Muestra vínculos relacionados. Cuando se representa el artículo, se le puede dar el mismo formato que a los encabezados de nivel 2 (##) sin que se agreguen al mini-TOC.
 
-<!--
 ```markdown
->[!MORE]
+>[!MORELIKETHIS]
 >* [Article 1](https://helpx.adobe.com/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/support/audience-manager.html){target="new-window"}
+>* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 ```
 
-Displayed:
+Visualización:
 
->[!MORE]
->* [Article 1](https://helpx.adobe.com/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/support/audience-manager.html){target="new-window"}
--->
+>[!MORELIKETHIS]
+>* [Artículo 1](https://helpx.adobe.com/support/analytics.html)
+>* [Artículo 2](https://helpx.adobe.com/support/audience-manager.html)
+
 
 ### DNL (no localizar) y UICONTROL
 
@@ -361,13 +360,13 @@ Use the [!UICONTROL Visual Experience Composer] in [!DNL Target] to create your 
 El texto alternativo que contiene guiones bajos no se representa correctamente. Por ejemplo, en lugar de poner esto:
 
 ```markdown
-![Settings_Step_2] (/assets/settings_step_2.png)
+![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
 Lo mejor es utilizar guiones (-) en lugar de guiones bajos (_) en los nombres de archivo.
 
 ```markdown
-![Settings-Step-2] (/assets/settings-step-2.png)
+![Settings-Step-2](/assets/settings-step-2.png)
 ```
 
 ### Apóstrofes y comillas
@@ -376,10 +375,10 @@ Si copia texto en un editor de Markdown, el texto puede contener apóstrofos &qu
 
 Estas son las codificaciones para las versiones &quot;inteligentes&quot; de estos signos de puntuación:
 
-- Comilla tipográfica izquierda (apertura): `&#8220;`
-- Comilla tipográfica derecha (cierre): `&#8221;`
-- Comilla tipográfica derecha simple (cierre) a la derecha o apóstrofo: `&#8217;`
-- Comilla tipográfica izquierda simple (apertura; poco usada): `&#8216;`
+* Comilla tipográfica izquierda (apertura): `&#8220;`
+* Comilla tipográfica derecha (cierre): `&#8221;`
+* Comilla tipográfica derecha simple (cierre) a la derecha o apóstrofo: `&#8217;`
+* Comilla tipográfica izquierda simple (apertura; poco usada): `&#8216;`
 
 ### Antilambdas
 
@@ -395,5 +394,5 @@ El símbolo &quot;et&quot; (&amp;) no se permite en los títulos. Utilice &quot;
 
 ### Recursos de Markdown
 
-- [Introducción a Markdown](https://daringfireball.net/projects/markdown/syntax)
-- [Fundamentos de Markdown para GitHub](https://help.github.com/articles/markdown-basics/)
+* [Introducción a Markdown](https://daringfireball.net/projects/markdown/syntax)
+* [Conceptos básicos de Markdown en GitHub](https://help.github.com/articles/markdown-basics/)
