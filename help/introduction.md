@@ -3,7 +3,7 @@ title: Guía del colaborador para la documentación de Adobe
 seo-title: Información general sobre la Guía del colaborador para la documentación técnica de Adobe Experience Cloud
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: La guía describe cómo puede contribuir al Documentación técnica de [!UICONTROL Adobe Experience Cloud].
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: afcd9363375adbc21a0e9a027d3f5ce59e08cd70
 
 ---
@@ -38,10 +38,10 @@ En esta guía se describe todo lo que necesita saber para interactuar con este c
 
 Realizar ediciones rápidas es una buena manera de solucionar pequeños errores y omisiones en los documentos. Si un artículo incluye un botón de edición como se muestra a continuación, puede realizar una corrección rápida. Cuando edita el documento, envía una solicitud de extracción (PR) para enviarnos la solución/sugerencia y nosotros podremos vetarla, aprobarla y publicarla.
 
-1. Sign the [Contributor License Agreement (CLA)](http://opensource.adobe.com/cla.html) if acceptable.
+1. Si le parece aceptable, firme el [Acuerdo de licencia para colaboradores (CLA)](http://opensource.adobe.com/cla.html).
 
    Solo es necesario que envíe el CLA de Adobe una vez.
-1. Haga clic en **`Edit this page`**en la columna derecha para ir al archivo Markdown de origen en GitHub.
+1. Haga clic en **`Edit this page`** en la columna derecha para ir al archivo Markdown de origen en GitHub.
 1. Haga clic en el icono de lápiz para editar el artículo.
 
    > [!NOTE]
@@ -54,7 +54,7 @@ Realizar ediciones rápidas es una buena manera de solucionar pequeños errores 
 
    ![Propuesta de cambio](assets/submit-pull-request.png)
 
-   >[!NOTE] Si recibe un mensaje de error de validación relativo a la firma del Acuerdo de licencia para colaboradores (CLA), haga clic en **Detalles** para abrir el acuerdo de licencia. Firme el acuerdo, si es aceptable. A continuación, cierre y abra la solicitud de extracción, y continúe.
+   >[!NOTE] Si recibe un mensaje de error de validación relativo a la firma del Acuerdo de licencia para colaboradores (CLA), haga clic en **Detalles** para abrir el acuerdo de licencia. Si acepta las condiciones, firme el acuerdo. A continuación, cierre y abra la solicitud de extracción, y continúe.
 
 Es así de sencillo. ¡Gracias! Los integrantes del equipo de documentación revisarán y fusionarán la solicitud de extracción.
 
