@@ -4,7 +4,7 @@ title: Cómo utilizar Markdown para escribir documentación
 seo-title: Cómo utilizar Markdown para escribir documentación de Adobe
 description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos.
 seo-description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos para la documentación de Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 883f9d7a9a232fdb69db09d5e9409575c7f3bdd0
 
 ---
@@ -58,7 +58,7 @@ This is not \*italicized\* type.
 
 ### Listas numeradas y listas con viñetas
 
-To create numbered lists, begin a line with `1.` or `1)`, but don&#39;t use both formats within the same list. No es necesario especificar los números. GitHub lo hace por usted.
+Para crear listas numeradas, empiece una línea con `1.` or `1)`, pero no mezcle los formatos dentro de la misma lista. No es necesario especificar los números. GitHub lo hace por usted.
 
 ```markdown
 1. This is step 1.
@@ -141,7 +141,7 @@ Visualización:
 
 | Encabezado | Otro encabezado | Y otro encabezado |
 |--- |--- |--- |
-| fila 1 | columna 2 | columna 3 |
+| fila 1 | columna 2 | columna 3 |
 | fila 2 | fila 2 columna 2 | fila 2 columna 3 |
 
 Las tablas sencillas funcionan correctamente en Markdown. Sin embargo, es difícil trabajar con tablas que incluyen varios párrafos o listas dentro de una celda. Para dicho contenido, recomendamos utilizar un formato diferente, como encabezados y texto.
@@ -188,7 +188,7 @@ Visualización:
 
 Markdown admite la colocación de bloques de código tanto en línea como en un bloque &quot;delimitado&quot; independiente entre frases. Para obtener más información, consulte [Compatibilidad nativa de Markdown para bloques de código (en inglés).](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Utilice una comilla invertida (\`) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, agregue tres comillas invertidas (\`\`\`) antes y después del bloque de código (denominado &quot;bloque de código delimitado&quot; en Markdown y &quot;componente de bloque de código&quot; en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: \`\`\` javascript
+Utilice una comilla invertida (\`) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, agregue tres comillas invertidas (\`\`\`) antes y después del bloque de código (denominado &quot;bloque de código delimitado&quot; en Markdown y &quot;componente de bloque de código&quot; en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: \`\`\`javascript
 
 Ejemplos:
 
@@ -320,8 +320,8 @@ El componente &quot;Más como esto&quot; de AEM aparece al final de un artículo
 Visualización:
 
 >[!MORELIKETHIS]
->* [Artículo 1](https://helpx.adobe.com/support/analytics.html)
->* [Artículo 2](https://helpx.adobe.com/support/audience-manager.html)
+>* [Artículo 1](https://helpx.adobe.com/es/support/analytics.html)
+>* [Artículo 2](https://helpx.adobe.com/es/support/audience-manager.html)
 
 
 ### DNL (no localizar) y UICONTROL
@@ -331,7 +331,7 @@ Es necesario declarar palabras, frases y otros elementos en nuestros sistemas de
 
 Para palabras o frases que no deban localizarse, utilice la extensión `[!DNL]` para ajustar la palabra o sección.
 
-Para los elementos de la interfaz de usuario y los menús de una solución, se utiliza la extensión ``.
+Para los elementos de la interfaz de usuario y los menús de una solución, se utiliza la extensión ``.
 
 **Ejemplo:**
 
