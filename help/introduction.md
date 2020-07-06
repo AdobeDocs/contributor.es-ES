@@ -3,8 +3,11 @@ title: Guía del colaborador para la documentación de Adobe
 seo-title: Información general sobre la Guía del colaborador para la documentación técnica de Adobe Experience Cloud
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: La guía describe cómo puede contribuir al Documentación técnica de [!UICONTROL Adobe Experience Cloud].
-translation-type: ht
-source-git-commit: afcd9363375adbc21a0e9a027d3f5ce59e08cd70
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '840'
+ht-degree: 100%
 
 ---
 
@@ -44,8 +47,9 @@ Realizar ediciones rápidas es una buena manera de solucionar pequeños errores 
 1. Haga clic en **`Edit this page`** en la columna derecha para ir al archivo Markdown de origen en GitHub.
 1. Haga clic en el icono de lápiz para editar el artículo.
 
-   > [!NOTE]
-   > Si el icono de lápiz está deshabilitado, debe iniciar sesión en su cuenta de GitHub o crear una nueva.
+   >[!NOTE]
+   >
+   >Si el icono de lápiz está deshabilitado, debe iniciar sesión en su cuenta de GitHub o crear una nueva.
 
    ![Ubicación del icono de lápiz](assets/edit-icon.png)
 
@@ -54,7 +58,9 @@ Realizar ediciones rápidas es una buena manera de solucionar pequeños errores 
 
    ![Propuesta de cambio](assets/submit-pull-request.png)
 
-   >[!NOTE] Si recibe un mensaje de error de validación relativo a la firma del Acuerdo de licencia para colaboradores (CLA), haga clic en **Detalles** para abrir el acuerdo de licencia. Si acepta las condiciones, firme el acuerdo. A continuación, cierre y abra la solicitud de extracción, y continúe.
+   >[!NOTE]
+   >
+   >Si recibe un mensaje de error de validación relativo a la firma del Acuerdo de licencia para colaboradores (CLA), haga clic en **Detalles** para abrir el acuerdo de licencia. Si acepta las condiciones, firme el acuerdo. A continuación, cierre y abra la solicitud de extracción, y continúe.
 
 Es así de sencillo. ¡Gracias! Los integrantes del equipo de documentación revisarán y fusionarán la solicitud de extracción.
 
@@ -66,8 +72,9 @@ Otra manera de comunicarnos fácilmente un problema en algún contenido es &quot
 
    ![](assets/git_log_issue.png)
 
-   > [!NOTE]
-   > Para registrar un problema, debe iniciar sesión en su cuenta de GitHub o crear una nueva cuenta.
+   >[!NOTE]
+   >
+   >Para registrar un problema, debe iniciar sesión en su cuenta de GitHub o crear una nueva cuenta.
 
    Si hace clic en este vínculo, podrá registrar una solicitud rápida mediante la interfaz de problemas de GitHub.
 
