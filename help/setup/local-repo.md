@@ -3,8 +3,11 @@ title: Configurar el repositorio de Git localmente
 seo-title: Configure el repositorio de Git localmente para la documentación de Adobe
 description: Este artículo proporciona indicaciones para crear su repositorio local de Git y contribuir a la documentación de Adobe, incluidos los procesos de ramificación y clonación.
 seo-description: Este artículo proporciona indicaciones para crear su repositorio local de Git y contribuir a la documentación de Adobe, incluidos los procesos de ramificación y clonación.
-translation-type: ht
-source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '682'
+ht-degree: 97%
 
 ---
 
@@ -28,7 +31,7 @@ Para contribuir a la documentación de Adobe, puede ramificar el repositorio apr
 
 ## Determine el repositorio
 
-El repositorio adecuado se ramifica a su cuenta de GitHub para obtener permisos de lectura y escritura con el fin de almacenar los cambios propuestos. La documentación de [!UICONTROL Adobe Experience Cloud] reside en varios repositorios distintos en [github.com](https://www.github.com/adobedocs).
+El repositorio adecuado se ramifica a su cuenta de GitHub para obtener permisos de lectura y escritura con el fin de almacenar los cambios propuestos. [!UICONTROL Adobe Experience Cloud] la documentación reside en varios repositorios diferentes en [github.com](https://www.github.com/adobedocs).
 
 1. Si no está seguro del repositorio que debe utilizar, visite el artículo con su explorador Web. Seleccione el vínculo **Editar** (icono de lápiz) en la esquina superior derecha del artículo. (Si no ve un vínculo Editar, significa que ese contenido aún no está disponible en GitHub).
 
@@ -58,8 +61,9 @@ Se requiere una ramificación personal, ya que todos los repositorios de documen
 
    Algunos de los repositorios pueden ser grandes. Elija una ubicación con espacio disponible en el disco.
 
-   > [!NOTE]
-   > Evite seleccionar una ruta de carpeta local anidada dentro de otra ubicación de carpeta del repositorio de Git. Aunque es aceptable almacenar las carpetas clonadas de Git contiguas, anidar carpetas de Git dentro de otras causa errores para el seguimiento de archivos.
+   >[!NOTE]
+   >
+   >Evite seleccionar una ruta de carpeta local anidada dentro de otra ubicación de carpeta del repositorio de Git. Aunque es aceptable almacenar las carpetas clonadas de Git contiguas, anidar carpetas de Git dentro de otras causa errores para el seguimiento de archivos.
 
 ## Crear un clon local del repositorio
 
@@ -73,4 +77,4 @@ Estos pasos dan por sentado que está utilizando GitHub Desktop. Si utiliza otro
 
 1. Utilice GitHub Desktop para mantener los archivos locales sincronizados con el repositorio ramificado.
 
-Para obtener más información, consulte la [Documentación de GitHub Desktop](https://help.github.com/desktop/).
+Para obtener más información, consulte [Documentación de GitHub Desktop](https://help.github.com/desktop/).
