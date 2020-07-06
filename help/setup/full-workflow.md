@@ -1,11 +1,14 @@
 ---
-lastModified: 28-6-2018
+lastModified: 2018-06-28T00:00:00Z
 title: Flujo de trabajo de contribución en GitHub para cambios importantes
 seo-title: Flujo de trabajo de contribución en GitHub para cambios importantes en la documentación de Adobe
 description: Este artículo muestra cómo utilizar el flujo de trabajo de colaborador "principal" para contribuir a la documentación de Adobe.
 seo-description: Este artículo muestra cómo utilizar el flujo de trabajo del colaborador "principal" para contribuir en la documentación de Adobe.
-translation-type: ht
-source-git-commit: cb9e20da64bb04a2b1765338b237825cae7aabeb
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '1006'
+ht-degree: 99%
 
 ---
 
@@ -29,10 +32,10 @@ Antes de comenzar, vamos a revisar algunos de los términos de Git/GitHub usados
 
 | Nombre | Descripción |
 |-----------|-------------|
-| Fork (Ramificación) | Una ramificación es una copia de un repositorio principal de GitHub. En la práctica, una ramificación es otro repositorio más. Sin embargo, es especial en el sentido de que GitHub mantiene una conexión bidireccional con el repositorio principal/maestro. A veces se utiliza como verbo, como en "Primero debe ramificar el repositorio". |
-| Remote (remoto) | Una conexión con nombre a un repositorio remoto, como el remoto "origin" o "upstream". Git hace referencia a estos elementos como remotos porque se utilizan para hacer referencia a un repositorio alojado en otro equipo. En este flujo de trabajo, un remoto es siempre un repositorio de GitHub. |
-| Origin (origen) | Nombre asignado a la conexión entre el repositorio local y el repositorio desde el cual se clona. En este flujo de trabajo, el origen representa la conexión con la ramificación. A veces se utiliza como un alias para el repositorio de origen, como en "Recuerde insertar los cambios en el origen". |
-| Upstream (ascendente) | Al igual que el origen remoto, upstream es una conexión con nombre a otro repositorio. En este flujo de trabajo, upstream representa la conexión entre el repositorio local y el repositorio principal, desde el cual se creó la ramificación. A veces se utiliza como un alias para el propio repositorio de upstream, como en "Recordar extraer los cambios desde upstream". |
+| Fork (Ramificación) | Una ramificación es una copia de un repositorio principal de GitHub. En la práctica, una ramificación es otro repositorio más. Sin embargo, es especial en el sentido de que GitHub mantiene una conexión bidireccional con el repositorio principal/maestro. A veces se utiliza como verbo, como en &quot;Primero debe ramificar el repositorio&quot;. |
+| Remote (remoto) | Una conexión con nombre a un repositorio remoto, como el remoto &quot;origin&quot; o &quot;upstream&quot;. Git hace referencia a estos elementos como remotos porque se utilizan para hacer referencia a un repositorio alojado en otro equipo. En este flujo de trabajo, un remoto es siempre un repositorio de GitHub. |
+| Origin (origen) | Nombre asignado a la conexión entre el repositorio local y el repositorio desde el cual se clona. En este flujo de trabajo, el origen representa la conexión con la ramificación. A veces se utiliza como un alias para el repositorio de origen, como en &quot;Recuerde insertar los cambios en el origen&quot;. |
+| Upstream (ascendente) | Al igual que el origen remoto, upstream es una conexión con nombre a otro repositorio. En este flujo de trabajo, upstream representa la conexión entre el repositorio local y el repositorio principal, desde el cual se creó la ramificación. A veces se utiliza como un alias para el propio repositorio de upstream, como en &quot;Recordar extraer los cambios desde upstream&quot;. |
 
 Si no está familiarizado con conceptos de Git y GitHub, como un repositorio o rama, revise primero los [aspectos básicos de Git y GitHub](git-fundamentals.md).
 
@@ -50,9 +53,10 @@ Recuerde de los [aspectos básicos de Git y GitHub](git-fundamentals.md) que un 
 Aislar los cambios relacionados en una rama específica permite controlar e introducir dichos cambios de forma independiente, dirigiéndolos a un tiempo de lanzamiento específico en el ciclo de publicación. En realidad, según el tipo de trabajo que realice, puede acabar fácilmente con varias ramas de trabajo en su repositorio. No es raro trabajar en varias ramas al mismo tiempo, representando cada una de ellas un proyecto diferente.
 
 >[!NOTE]
+>
 >No es recomendable realizar los cambios en la rama *maestra*. Imagine que utiliza la rama maestra para introducir un conjunto de cambios para la publicación programada de una función. Finaliza los cambios y está esperando para publicarlos. Mientras tanto, recibe una solicitud urgente para corregir algo, por lo que realiza el cambio en un archivo de la rama maestra y después publica el cambio. En este ejemplo, publica inadvertidamente la corrección *y* los cambios que había retenido para publicar en una fecha específica.
 
-El siguiente paso es crear una nueva ramificación de trabajo en el repositorio local para capturar los cambios propuestos. Cada cliente Git es diferente, así que le aconsejamos que consulte la ayuda de su cliente preferido. Puede ver información general del proceso en la Guía de GitHub sobre el [flujo de GitHub](https://guides.github.com/introduction/flow/).
+El siguiente paso es crear una nueva ramificación de trabajo en el repositorio local para capturar los cambios propuestos. Cada cliente Git es diferente, así que le aconsejamos que consulte la ayuda de su cliente preferido. Puede ver una descripción general del proceso en la Guía de GitHub sobre el [flujo de GitHub](https://guides.github.com/introduction/flow/).
 
 ## Procesamiento de solicitudes de extracción
 
