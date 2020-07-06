@@ -4,8 +4,11 @@ title: Cómo utilizar Markdown para escribir documentación
 seo-title: Cómo utilizar Markdown para escribir documentación de Adobe
 description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos.
 seo-description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos para la documentación de Adobe.
-translation-type: ht
-source-git-commit: 883f9d7a9a232fdb69db09d5e9409575c7f3bdd0
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '1377'
+ht-degree: 100%
 
 ---
 
@@ -105,6 +108,7 @@ También puede incrustar listas dentro de listas y añadir contenido entre eleme
    >[!NOTE]
    >
    >This is note text.
+
 1. Do another step.
 ```
 
@@ -124,6 +128,7 @@ Visualización:
    >[!NOTE]
    >
    >Este es el texto de la nota.
+
 1. Realice otro paso.
 
 ### Tablas
@@ -277,22 +282,26 @@ En general, los bloques de notas deben usarse con moderación porque pueden resu
 
 ```markdown
 >[!NOTE]
+>
 >This is a standard NOTE block.
 ```
 
 Visualización:
 
 >[!NOTE]
+>
 >Este es un bloque NOTE estándar.
 
 ```markdown
 >[!TIP]
+>
 >This is a standard tip.
 ```
 
 Visualización:
 
 >[!TIP]
+>
 >Esta es una sugerencia estándar.
 
 ### Vídeos
