@@ -3,11 +3,11 @@ title: Configurar el repositorio de Git localmente
 seo-title: Configure el repositorio de Git localmente para la documentación de Adobe
 description: Este artículo proporciona indicaciones para crear su repositorio local de Git y contribuir a la documentación de Adobe, incluidos los procesos de ramificación y clonación.
 seo-description: Este artículo proporciona indicaciones para crear su repositorio local de Git y contribuir a la documentación de Adobe, incluidos los procesos de ramificación y clonación.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d69ca7ee25e2a79151779687ef58d67a800f92e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '682'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -31,9 +31,9 @@ Para contribuir a la documentación de Adobe, puede ramificar el repositorio apr
 
 ## Determine el repositorio
 
-El repositorio adecuado se ramifica a su cuenta de GitHub para obtener permisos de lectura y escritura con el fin de almacenar los cambios propuestos. [!UICONTROL Adobe Experience Cloud] la documentación reside en varios repositorios diferentes en [github.com](https://www.github.com/adobedocs).
+El repositorio adecuado se ramifica a su cuenta de GitHub para obtener permisos de lectura y escritura con el fin de almacenar los cambios propuestos. La documentación de [!UICONTROL Adobe Experience Cloud] reside en varios repositorios distintos en [github.com](https://www.github.com/adobedocs).
 
-1. Si no está seguro del repositorio que debe utilizar, visite el artículo con su explorador Web. Seleccione el vínculo **Editar** (icono de lápiz) en la esquina superior derecha del artículo. (Si no ve un vínculo Editar, significa que ese contenido aún no está disponible en GitHub).
+1. Si no está seguro del repositorio que debe utilizar, visite el artículo con su explorador Web. Seleccione el vínculo **Editar** (icono de lápiz) en la esquina superior derecha del artículo. (Si no ve un vínculo Editar, significa que ese contenido aún no está disponible en GitHub.)
 
 Para contribuir a la documentación de Adobe, puede crear y editar archivos Markdown localmente mediante la clonación del repositorio de documentación correspondiente. A continuación, utilice solicitudes de extracción para fusionar cambios en el repositorio compartido central de solo lectura.
 
@@ -71,7 +71,7 @@ Al crear un clon del repositorio ramificado, se descarga una copia de los archiv
 
 Estos pasos dan por sentado que está utilizando GitHub Desktop. Si utiliza otro cliente, realice los ajustes correspondientes.
 
-1. Haga clic en **Clonar o descargar** y, a continuación, elija **Abrir en Desktop** para extraer una copia del repositorio (su ramificación) en su ordenador, en el directorio actual.
+1. Haga clic en **Clone or download** y, a continuación, elija **Open in Desktop** para extraer una copia del repositorio (su ramificación) en su ordenador, en el directorio actual.
 
   ![Clonar repo](assets/clone-pulldown.png)
 
