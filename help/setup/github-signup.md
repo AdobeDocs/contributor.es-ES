@@ -5,11 +5,11 @@ seo-title: Pasos para configurar la cuenta de GitHub para la documentación de A
 description: Siga el proceso de configuración de cuentas para GitHub, necesario para contribuir a la documentación de Adobe.
 seo-description: Siga el proceso de configuración de cuentas para GitHub, necesario para contribuir a la documentación de Adobe.
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '235'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
