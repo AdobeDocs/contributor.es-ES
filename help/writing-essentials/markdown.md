@@ -4,9 +4,9 @@ title: Cómo utilizar Markdown para escribir documentación
 seo-title: Cómo utilizar Markdown para escribir documentación de Adobe
 description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos.
 seo-description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos para la documentación de Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 27ba164070996d192c84493d83232484d2badb28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1329'
 ht-degree: 100%
 
@@ -171,7 +171,7 @@ Visualización:
 
 [Adobe](https://www.adobe.com)
 
-Para vínculos a artículos (referencias cruzadas) dentro del repositorio, utilice vínculos relativos. Puede utilizar todos los operandos de vínculos relativos, como./ (directorio actual), ../ (atrás un directorio) y ../../ (atrás dos directorios).
+Para vínculos a artículos (referencias cruzadas) dentro del repositorio, utilice vínculos relativos. Puede utilizar todos los operandos de vínculos relativos, como ./ (directorio actual), ../ (atrás un directorio) y ../../ (atrás dos directorios).
 
 ```markdown
 See [Overview example article](../../overview.md)
@@ -187,7 +187,7 @@ Para obtener más información sobre la vinculación, consulte el artículo [Ví
 
 Visualización:
 
-![Logotipo de Adobe](assets/no-localize/adobe_standard_logo.png "Texto sobre el que se puede colocar el ratón")
+![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
 ### Bloques de código
 
@@ -322,8 +322,8 @@ El componente &quot;Más como esto&quot; de AEM aparece al final de un artículo
 Visualización:
 
 >[!MORELIKETHIS]
->* [Article 1](https://helpx.adobe.com/es/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/es/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 
 
 ### DNL (no localizar) y UICONTROL
