@@ -4,9 +4,9 @@ title: Cómo utilizar Markdown para escribir documentación
 seo-title: Cómo utilizar Markdown para escribir documentación de Adobe
 description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos.
 seo-description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos para la documentación de Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4ebbbde3337183a19fd3a59ae091b621a092e6f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1322'
 ht-degree: 100%
 
@@ -307,7 +307,7 @@ Los vídeos incrustados no se representan de forma nativa en Markdown, pero pued
 
 Visualización:
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12&captions=spa)
 
 ### Más como esto
 
@@ -322,8 +322,8 @@ El componente &quot;Más como esto&quot; de AEM aparece al final de un artículo
 Visualización:
 
 >[!MORELIKETHIS]
->* [Article 1](https://helpx.adobe.com/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/es/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/es/support/audience-manager.html)
 
 
 ### DNL (no localizar) y UICONTROL
