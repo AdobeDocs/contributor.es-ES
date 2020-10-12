@@ -4,10 +4,10 @@ title: Flujo de trabajo de contribución en GitHub para cambios importantes
 seo-title: Flujo de trabajo de contribución en GitHub para cambios importantes en la documentación de Adobe
 description: Este artículo muestra cómo utilizar el flujo de trabajo de colaborador "principal" para contribuir a la documentación de Adobe.
 seo-description: Este artículo muestra cómo utilizar el flujo de trabajo de colaborador "principal" para contribuir a la documentación de Adobe.
-translation-type: ht
-source-git-commit: c788a71cecf7b69698b649b6053e6740bcc22730
-workflow-type: ht
-source-wordcount: '1006'
+translation-type: tm+mt
+source-git-commit: 6ec1d13f80698cb5963c07656ef8183db735ff75
+workflow-type: tm+mt
+source-wordcount: '976'
 ht-degree: 100%
 
 ---
@@ -75,5 +75,3 @@ Cuando en la solicitud de extracción no existen problemas y se desactiva, los c
 ### Publicación
 
 Recuerde, la solicitud de extracción debe fusionarse con un revisor de PR antes de que los cambios se puedan incluir en la siguiente ejecución de la publicación programada. Normalmente, las solicitudes de extracción se revisan o fusionan en el orden de envío. Si la solicitud de extracción requiere la fusión para la ejecución de una publicación específica, deberá trabajar con antelación con el revisor de PR para asegurarse de que la fusión se produzca antes de la publicación.
-
-Una vez que las contribuciones se aprueban y fusionan, el proceso de publicación docs.microsoft.com las recoge. El tiempo de publicación puede variar dependiendo del equipo que administre el repositorio al que esté contribuyendo.
