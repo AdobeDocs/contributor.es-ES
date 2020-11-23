@@ -3,11 +3,11 @@ title: Guía del colaborador para la documentación de Adobe
 seo-title: Información general sobre la Guía del colaborador para la documentación técnica de Adobe Experience Cloud
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: La guía describe cómo puede contribuir a la documentación técnica de [!UICONTROL Adobe Experience Cloud].
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8943af2fdf406b2e33db037bb60dfea97df2959a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '837'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ Realizar ediciones rápidas es una buena manera de solucionar pequeños errores 
 1. Si le parece aceptable, firme el [Acuerdo de licencia para colaboradores (CLA)](http://opensource.adobe.com/cla.html).
 
    Solo es necesario que envíe el CLA de Adobe una vez.
-1. Click the **`Edit this page`** icon in the right column to go to the markdown source file on GitHub.
+1. Haga clic en el icono **`Edit this page`** en la columna derecha para ir al archivo Markdown de origen en GitHub.
 
    ![Editar el icono de esta página](/help/assets/git_edit.png)
 
@@ -71,13 +71,13 @@ Es así de sencillo. ¡Gracias! Los integrantes del equipo de documentación rev
 
 Otra manera de comunicarnos fácilmente un problema en algún contenido es &quot;Registrar un problema&quot;.
 
-1. If you see a problem with a piece of content, click the **`Log an Issue`** icon in the right column.
+1. Si encuentra algún problema en un fragmento de contenido, haga clic en el icono **`Log an Issue`** en la columna derecha.
 
    ![](assets/git_log_issue.png)
 
    >[!NOTE]
    >
-   >Deberá iniciar sesión en su cuenta de GitHub o crear una nueva cuenta para registrar un problema.
+   >Para registrar un problema, debe acceder a su cuenta de GitHub o crear una nueva cuenta.
 
    Si hace clic en este vínculo, podrá registrar una solicitud rápida mediante la interfaz de problemas de GitHub.
 
