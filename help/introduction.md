@@ -3,11 +3,11 @@ title: Guía del colaborador para la documentación de Adobe
 seo-title: Información general sobre la Guía del colaborador para la documentación técnica de Adobe Experience Cloud
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: La guía describe cómo puede contribuir a la documentación técnica de [!UICONTROL Adobe Experience Cloud].
-translation-type: ht
-source-git-commit: 8943af2fdf406b2e33db037bb60dfea97df2959a
-workflow-type: ht
-source-wordcount: '837'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## ¿Qué es la documentación colaborativa?
 
-Durante 2019, toda la documentación técnica y el contenido de capacitación de Adobe Experience Cloud se migrará a una nueva plataforma basada en los principios de código abierto y en la que se utilizarán GitHub, Markdown y las soluciones de Adobe Experience Cloud, incluidas Adobe Experience Manager, Analytics, Launch y Target.
+La documentación técnica y el contenido de habilitación de Adobe Experience Cloud y otros productos de Adobe Enterprise se han convertido en una nueva plataforma. Esta nueva plataforma se basa en principios de código abierto que utilizan las soluciones Github, Markdown y Adobe Experience Cloud.
 
 Este modelo de código abierto mejora la calidad del contenido y la comunicación entre clientes, equipos de documentación y equipos de producto. Ahora, en cada una de las páginas es posible valorar la utilidad del contenido, registrar problemas e incluso contribuir con sugerencias de contenido mediante solicitudes de extracción (PR) Git. Los equipos de documentación de Adobe supervisan diariamente las contribuciones y los problemas, y realizan las actualizaciones, las modificaciones y los ajustes necesarios.
 
