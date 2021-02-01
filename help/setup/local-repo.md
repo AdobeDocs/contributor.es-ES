@@ -1,13 +1,11 @@
 ---
 title: Configurar el repositorio de Git localmente
-seo-title: Configure el repositorio de Git localmente para la documentación de Adobe
 description: Este artículo proporciona indicaciones para crear su repositorio local de Git y contribuir a la documentación de Adobe, incluidos los procesos de ramificación y clonación.
-seo-description: Este artículo proporciona indicaciones para crear su repositorio local de Git y contribuir a la documentación de Adobe, incluidos los procesos de ramificación y clonación.
-translation-type: ht
-source-git-commit: d69ca7ee25e2a79151779687ef58d67a800f92e6
-workflow-type: ht
-source-wordcount: '682'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
