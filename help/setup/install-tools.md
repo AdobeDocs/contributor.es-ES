@@ -1,14 +1,11 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
 title: Instalación de las herramientas de creación
-seo-title: Instalación de las herramientas de creación de Git y GitHub para la documentación de Adobe
 description: Este artículo le ayuda a descargar e instalar las herramientas del cliente que necesitará para Git/GitHub y para editar archivos Markdown.
-seo-description: Este artículo le ayuda a descargar e instalar las herramientas del cliente que necesita para Git/GitHub y para editar archivos Markdown para la documentación de Adobe.
-translation-type: ht
-source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: ht
-source-wordcount: '378'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
