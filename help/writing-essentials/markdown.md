@@ -1,11 +1,11 @@
 ---
 title: Cómo utilizar Markdown para escribir documentación
 description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1240'
+ht-degree: 100%
 
 ---
 
@@ -223,7 +223,7 @@ Algunos elementos comunes de Markdown, como encabezados y bloques de código, in
 
 ### Bloques de notas
 
-Puede elegir entre estos tipos de bloques de notas para llamar la atención sobre contenido específico:
+Puede elegir entre estos tipos de bloques de notas para llamar la atención sobre un contenido específico:
 
 * `[!NOTE]`
 * `[!TIP]`
@@ -271,7 +271,7 @@ Los vídeos incrustados no se representan de forma nativa en Markdown, pero pued
 
 Visualización:
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12&captions=spa)
 
 ### Más como esto
 
@@ -350,7 +350,7 @@ Estas son las codificaciones para las versiones &quot;inteligentes&quot; de esto
 
 Si utiliza antilambdas en un texto (que no sea código) del archivo, por ejemplo, para denotar un marcador de posición, debe codificarlos manualmente. De lo contrario, Markdown considera que se trata de una etiqueta HTML.
 
-Por ejemplo, codifique `<script name>` como  `&lt;script name&gt;`
+Por ejemplo, codifique `<script name>` como `&lt;script name&gt;`
 
 ### El símbolo &quot;et&quot; en los títulos
 
