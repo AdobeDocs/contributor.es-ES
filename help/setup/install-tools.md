@@ -1,11 +1,11 @@
 ---
 title: Instalación de las herramientas de creación
 description: Este artículo le ayuda a descargar e instalar las herramientas del cliente que necesitará para Git/GitHub y para editar archivos Markdown.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '345'
+ht-degree: 100%
 
 ---
 
