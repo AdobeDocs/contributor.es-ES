@@ -1,11 +1,11 @@
 ---
 title: Compatibilidad de idiomas para la documentación de productos de Adobe Experience Cloud
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fe6adf7414680d4835a6402be2e8d1a5547cc7d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '828'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Puede ver la documentación de productos de Adobe Experience Cloud en la mayorí
 
    ![Página traducida](assets/french.png)
 
-   En los casos en que la versión en su idioma aún no esté disponible, Adobe puede traducir automáticamente su contenido. El servicio de traducción automática del Adobe muestra un mensaje en la parte superior de la barra de navegación derecha:
+   En los casos en que la versión en su idioma aún no esté disponible, Adobe puede traducir automáticamente su contenido. El servicio de traducción automática de Adobe muestra un mensaje en la parte superior de la barra de navegación derecha:
 
    ![Mensaje de traducción](assets/machine-translation-message.png)
 
