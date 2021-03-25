@@ -1,11 +1,11 @@
 ---
 title: Cómo utilizar Markdown para escribir documentación
 description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b8090869aa7b5a2ab62f7af09e1b5e289d8a392b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1491'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -176,7 +176,7 @@ Visualización:
 
 ![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
-**NOTA:** Para imágenes que no deban localizarse, cree una  `do-not-localize` carpeta independiente en la carpeta de recursos. Normalmente, las imágenes sin texto o las imágenes que solo contienen contenido de muestra se colocan allí. Esto elimina cualquier &quot;ruido&quot; de la carpeta de recursos y reduce la cantidad de preguntas.
+**NOTA:** Para aquellas imágenes que no deban localizarse, cree una carpeta independiente `do-not-localize` en la carpeta de recursos. Por lo general, las imágenes sin texto o las imágenes que solo contienen contenido de muestra se colocan allí. Esto elimina el ruido de la carpeta de recursos y reduce la cantidad de preguntas.
 
 ### Bloques de código
 
@@ -294,16 +294,16 @@ Visualización:
 
 ### UICONTROL y DNL
 
-Todo el contenido de ayuda de Markdown se localiza inicialmente mediante traducción automática. Si la ayuda nunca se ha localizado, conservamos la traducción automática. Sin embargo, si el contenido de ayuda se ha localizado en el pasado, el contenido traducido por el equipo actuará como marcador de posición mientras el contenido esté en proceso de traducción humana.
+Todo el contenido de ayuda de Markdown se traduce inicialmente mediante traducción automática. Si la ayuda nunca se ha traducido antes, se conserva la traducción automática. Pero si el contenido de ayuda se había traducido anteriormente, el contenido derivado de la traducción automática actuará como referencia mientras el contenido esté en proceso de traducción humana.
 
 **``**
 
-Durante la traducción automática, los elementos etiquetados con `` se comprueban con una base de datos de localización para la traducción adecuada. En caso de que la interfaz de usuario no esté localizada, esta etiqueta permitirá que el sistema deje la referencia de la interfaz de usuario en inglés para ese idioma en particular (por ejemplo, Referencias de Analytics en italiano).
+Durante la traducción automática, los elementos etiquetados con `` se contrastan con el contenido de una base de datos de localización para garantizar su correcta interpretación. En caso de que la IU no esté traducida, esta etiqueta permite que el sistema deje la referencia de la IU en inglés para ese idioma en particular (por ejemplo, las referencias de Analytics en italiano).
 
 **Ejemplo:**
 
 1. Vaya a la pantalla **[!UICONTROL Run Process]**.
-1. Seleccione **[!UICONTROL File > Print > Print All]** para imprimir todos los archivos en el servidor.
+1. Seleccione **[!UICONTROL File > Print > Print All]** para imprimir todos los archivos del servidor.
 1. Aparece el cuadro de diálogo [!UICONTROL Processing Rules].
 
 **Fuente:**
@@ -314,15 +314,15 @@ Durante la traducción automática, los elementos etiquetados con `` se comprueb
 1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
 
-**NOTA:** De las tres opciones de etiquetado, esta es la más crucial para ofrecer alta calidad y es obligatoria.
+**NOTA:** De las tres opciones de etiquetado, esta es la más importante para ofrecer alta calidad y es obligatoria.
 
 **`[!DNL]`**
 
-Como regla general, utilizamos una lista &quot;No traducir&quot; para indicar a los motores de traducción automática qué conservar en inglés. Los elementos más importantes serían los nombres de soluciones largos como &quot;Adobe Analytics&quot;, &quot;Adobe Campaign&quot; y &quot;Adobe Target&quot;. Sin embargo, puede haber casos en los que sea necesario obligar al motor a utilizar el inglés porque el término en cuestión puede utilizarse de forma específica o general. Este caso más obvio sería nombres cortos para las soluciones como &quot;Analytics&quot;, &quot;Campaign&quot;, &quot;Target&quot;, etc. Sería difícil para una máquina entender que estos son nombres de soluciones y no términos generales. La etiqueta también puede utilizarse para nombres o funciones de terceros que siempre permanecen en inglés o para secciones de texto más cortas como una frase o frase que debe permanecer en inglés.
+Como regla general, se utiliza la lista No traducir para indicar a los motores de traducción automática qué elementos deben conservarse en inglés. Por lo común, dichos elementos serían los nombres de soluciones largos como Adobe Analytics, Adobe Campaign y Adobe Target. Sin embargo, puede haber casos en los que sea necesario forzar a que el motor utilice un término determinado en inglés porque se emplea así de forma específica. Los ejemplos más obvios de este caso serían los nombres cortos de las soluciones, como Analytics, Campaign, Target, etc. Sería difícil para una máquina discernir si estos nombres hacen referencia a soluciones o son términos generales. La etiqueta también puede utilizarse para nombres o funciones de terceros que siempre permanecen en inglés, o para secciones de texto más cortas como una frase u oración que deban permanecer en inglés.
 
 **Ejemplo:**
 
-* Con [!DNL Target], puede crear pruebas A/B para encontrar el óptimo
+* Con [!DNL Target], puede crear pruebas A/B para encontrar lo óptimo
 * Adobe Analytics es una potente solución para recopilar análisis en el sitio. [!DNL Analytics] también puede ayudarle con los informes para asimilar fácilmente esos datos.
 
 **Fuente:**
@@ -363,7 +363,7 @@ Estas son las codificaciones para las versiones &quot;inteligentes&quot; de esto
 
 Si utiliza antilambdas en un texto (que no sea código) del archivo, por ejemplo, para denotar un marcador de posición, debe codificarlos manualmente. De lo contrario, Markdown considera que se trata de una etiqueta HTML.
 
-Por ejemplo, codifique `<script name>` como  `&lt;script name&gt;`
+Por ejemplo, codifique `<script name>` como `&lt;script name&gt;`
 
 ### El símbolo &quot;et&quot; en los títulos
 
