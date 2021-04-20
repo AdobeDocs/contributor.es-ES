@@ -1,14 +1,14 @@
 ---
 title: Aspectos básicos de la documentación de Git y GitHub
 description: En este artículo se ofrece una descripción general de Git, del repositorio de GitHub y de cómo se organiza el contenido, así como las convenciones de nomenclatura utilizadas para la documentación de Adobe.
+exl-id: 2b2ec764-4201-4bcd-802d-a034d6675793
 translation-type: ht
-source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
 workflow-type: ht
 source-wordcount: '660'
 ht-degree: 100%
 
 ---
-
 
 # Aspectos básicos de la documentación de Git y GitHub
 
