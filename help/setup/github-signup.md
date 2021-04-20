@@ -1,14 +1,14 @@
 ---
 title: Pasos de configuración de la cuenta de GitHub
 description: Siga el proceso de configuración de cuentas para GitHub, necesario para contribuir a la documentación de Adobe.
+exl-id: 62be9e5a-bbbc-4a78-82e9-24cf658e6d35
 translation-type: ht
-source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
 workflow-type: ht
 source-wordcount: '207'
 ht-degree: 100%
 
 ---
-
 
 # Configuración de una cuenta de GitHub
 
