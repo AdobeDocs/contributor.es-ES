@@ -58,3 +58,4 @@ En el repositorio público, las etiquetas automatizadas se asignan a solicitudes
 
 * **Change sent to author**: la solicitud de extracción pendiente se ha notificado al autor.
 * **ready-to-merge**: listo para revisar por parte nuestro equipo de revisión de solicitudes de extracción.
+
