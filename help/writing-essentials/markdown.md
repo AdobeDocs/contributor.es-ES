@@ -3,9 +3,9 @@ title: Cómo utilizar Markdown para escribir documentación
 description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 4104aa1481263dabe20f2e3a117944f55a6fd800
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1504'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -181,7 +181,7 @@ Visualización:
 
 Markdown admite la colocación de bloques de código tanto en línea como en un bloque &quot;delimitado&quot; independiente entre frases. Para obtener más información, consulte [Compatibilidad nativa de Markdown para bloques de código (en inglés).](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Usar garrapatas ( &amp;grave; ) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, agregue tres comillas invertidas (&amp;grave;&amp;grave;&amp;grave;) antes y después del bloque de código (denominado &quot;bloque de código delimitado&quot; en Markdown y un componente de &quot;bloque de código&quot; en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: &amp;grave;&amp;grave;&amp;grave;javascript
+Utilice un acento grave ( &amp;grave; ) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, añada tres acentos graves (&amp;grave;&amp;grave;&amp;grave;) antes y después del bloque de código (denominado “bloque de código delimitado” en Markdown y solo componente de “bloque de código” en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: &amp;grave;&amp;grave;&amp;grave;javascript
 
 Ejemplos:
 
@@ -353,7 +353,7 @@ Estas son las codificaciones para las versiones &quot;inteligentes&quot; de esto
 
 Si utiliza antilambdas en un texto (que no sea código) del archivo, por ejemplo, para denotar un marcador de posición, debe codificarlos manualmente. De lo contrario, Markdown considera que se trata de una etiqueta HTML.
 
-Por ejemplo, codifique `<script name>` como  `&lt;script name&gt;`
+Por ejemplo, codifique `<script name>` como `&lt;script name&gt;`
 
 ### El símbolo &quot;et&quot; en los títulos
 
