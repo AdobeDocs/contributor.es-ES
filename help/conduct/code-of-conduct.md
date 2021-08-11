@@ -1,10 +1,11 @@
 ---
+title: Código de conducta de Adobe
+description: Código de conducta de Adobe para informar sobre problemas y enviar cambios de edición
 exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '431'
-ht-degree: 100%
+source-git-commit: 06b0a397f0612e5ecfca82fc7105a45ed167efc9
+workflow-type: tm+mt
+source-wordcount: '446'
+ht-degree: 98%
 
 ---
 
@@ -52,4 +53,4 @@ Los administradores del proyecto que no cumplan o hagan cumplir de buena fe el C
 
 ## Atribución
 
-El presente Código de conducta es una adaptación de la versión 1.4 del [Contributor Covenant](https://contributor-covenant.org), disponible en [https://contributor-covenant.org/version/1/4](https://www.contributor-covenant.org/es/version/1/4/code-of-conduct)
+El presente Código de conducta es una adaptación de la versión 1.4 del [Contributor Covenant](https://contributor-covenant.org), disponible en [https://www.contributor-covenant.org/es/version/1/4/code-of-conduct](https://www.contributor-covenant.org/es/version/1/4/code-of-conduct)
