@@ -2,10 +2,10 @@
 title: Cómo utilizar Markdown para escribir documentación
 description: En este artículo se proporcionan los conceptos básicos y la información de referencia del lenguaje Markdown utilizado para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 4104aa1481263dabe20f2e3a117944f55a6fd800
-workflow-type: ht
-source-wordcount: '1504'
-ht-degree: 100%
+source-git-commit: 9e70d10dc1ba27b593de7febf32a3ba3910bfe21
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -181,7 +181,7 @@ Visualización:
 
 Markdown admite la colocación de bloques de código tanto en línea como en un bloque &quot;delimitado&quot; independiente entre frases. Para obtener más información, consulte [Compatibilidad nativa de Markdown para bloques de código (en inglés).](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Utilice un acento grave ( &amp;grave; ) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, añada tres acentos graves (&amp;grave;&amp;grave;&amp;grave;) antes y después del bloque de código (denominado “bloque de código delimitado” en Markdown y solo componente de “bloque de código” en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: &amp;grave;&amp;grave;&amp;grave;javascript
+Use garrapatas (`` ` ``) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, agregue tres comillas invertidas (` ``` `) antes y después del bloque de código (denominado &quot;bloque de código delimitado&quot; en Markdown y un componente &quot;bloque de código&quot; en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: ` ```javascript`
 
 Ejemplos:
 
