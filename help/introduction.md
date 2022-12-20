@@ -1,32 +1,33 @@
 ---
 title: Guía del colaborador para la documentación de Adobe
-seo-title: Información general sobre la Guía del colaborador para la documentación técnica de Adobe Experience Cloud
+seo-title: Contributor guide overview for Adobe Experience Cloud technical documentation
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
-seo-description: La guía describe cómo puede contribuir a la documentación técnica de [!UICONTROL Adobe Experience Cloud].
+seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '836'
-ht-degree: 100%
+source-git-commit: 5a9bbe0663a1efa8a683e892a42faed18f072e8a
+workflow-type: tm+mt
+source-wordcount: '819'
+ht-degree: 87%
 
 ---
 
-# Información general sobre la Guía de colaborador para la documentación de Adobe
+# Guía del colaborador para la documentación de Adobe
+
+En esta guía se describe cómo puede contribuir a la ayuda empresarial de Adobe en Experience League.
 
 ## ¿Qué es la documentación colaborativa?
 
-La documentación técnica y el contenido de habilitación de Adobe Experience Cloud y otros productos de Adobe Enterprise se han trasladado a una nueva plataforma. Esta nueva plataforma se basa en principios de código abierto que utilizan las soluciones Github, Markdown y Adobe Experience Cloud.
+La documentación técnica y el contenido de habilitación de Adobe Experience Cloud y otros productos de Adobe Enterprise se basan en principios de código abierto que utilizan las soluciones GitHub, Markdown y Adobe Experience Cloud.
 
-Este modelo de código abierto mejora la calidad del contenido y la comunicación entre clientes, equipos de documentación y equipos de producto. Ahora, en cada una de las páginas es posible valorar la utilidad del contenido, registrar problemas e incluso contribuir con sugerencias de contenido mediante solicitudes de extracción (PR) Git. Los equipos de documentación de Adobe supervisan diariamente las contribuciones y los problemas, y realizan las actualizaciones, las modificaciones y los ajustes necesarios.
+Este modelo de código abierto mejora la calidad del contenido y la comunicación entre clientes, equipos de documentación y equipos de productos. Ahora, en cada una de las páginas es posible valorar la utilidad del contenido, registrar problemas e incluso contribuir con sugerencias de contenido mediante solicitudes de extracción (PR) Git. Los equipos de documentación de Adobe supervisan diariamente las contribuciones y los problemas, y realizan las actualizaciones, las modificaciones y los ajustes necesarios.
 
-## Uso de la documentación colaborativa
+## Uso de documentación colaborativa
 
 Como usuario de este material, e independientemente de si es empleado, socio, cliente o incluso cliente potencial, tiene la opción de contribuir a la documentación de varias formas sencillas:
 
-* Valorar la utilidad de la página
+* Valore la utilidad de la página
 * Registrar un problema en una página específica
-* Enviar desde pequeñas modificaciones hasta artículos completos con recursos y ejemplos de código
+* Envíe ediciones rápidas hasta la creación de artículos completos, con recursos y ejemplos de código
 
 En esta guía se describe todo lo que necesita saber para interactuar con este conjunto de materiales y contribuir a su creación.
 
