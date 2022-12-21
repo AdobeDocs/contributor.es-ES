@@ -1,12 +1,11 @@
 ---
 title: Flujo de trabajo de contribución en GitHub para cambios importantes
-description: Este artículo muestra cómo utilizar el flujo de trabajo de colaborador "principal" para contribuir a la documentación de Adobe.
+description: Aprenda a hacer contribuciones a la documentación de Adobe en Experience League.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '950'
-ht-degree: 100%
+source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
+workflow-type: tm+mt
+source-wordcount: '944'
+ht-degree: 82%
 
 ---
 
@@ -45,19 +44,19 @@ En este flujo de trabajo, los cambios fluyen en un ciclo repetitivo. Desde el re
 
 ### Utilizar el flujo de GitHub
 
-Recuerde de los [aspectos básicos de Git y GitHub](git-fundamentals.md) que un repositorio de Git contiene una rama maestra, además de cualquier ramificación adicional de trabajo en curso que no se haya integrado en la rama maestra. Siempre que introduce un conjunto de cambios relacionados lógicamente, es recomendable crear una *rama de trabajo* para administrar los cambios a través del flujo de trabajo. Nos referimos a ella como rama de trabajo porque es un espacio de trabajo para repetir o pulir cambios, hasta que se puedan integrar de nuevo en la rama maestra.
+Recuperar desde [Aspectos básicos de Git y GitHub](git-fundamentals.md) que un repositorio de Git contiene una rama principal, además de cualquier rama de trabajo en curso adicional que no se haya integrado en la rama principal. Siempre que introduce un conjunto de cambios relacionados lógicamente, es recomendable crear un *rama de trabajo* para administrar los cambios a través del flujo de trabajo. Nos referimos a ella como rama de trabajo porque es un espacio de trabajo para repetir o perfeccionar cambios, hasta que se puedan integrar de nuevo en la rama principal.
 
 Aislar los cambios relacionados en una rama específica permite controlar e introducir dichos cambios de forma independiente, dirigiéndolos a un tiempo de lanzamiento específico en el ciclo de publicación. En realidad, según el tipo de trabajo que realice, puede acabar fácilmente con varias ramas de trabajo en su repositorio. No es raro trabajar en varias ramas al mismo tiempo, representando cada una de ellas un proyecto diferente.
 
 >[!NOTE]
 >
->No es recomendable realizar los cambios en la rama *maestra*. Imagine que utiliza la rama maestra para introducir un conjunto de cambios para la publicación programada de una función. Finaliza los cambios y está esperando para publicarlos. Mientras tanto, recibe una solicitud urgente para corregir algo, por lo que realiza el cambio en un archivo de la rama maestra y después publica el cambio. En este ejemplo, publica inadvertidamente la corrección *y* los cambios que había retenido para publicar en una fecha específica.
+>Realización de cambios en la rama principal *no es una buena práctica*. Imagine que utiliza la rama principal para introducir un conjunto de cambios en el lanzamiento de una función temporizada. Finaliza los cambios y está esperando para publicarlos. Mientras tanto, tiene una solicitud urgente para corregir algo, por lo que realiza el cambio en un archivo en la rama principal y luego publica el cambio. En este ejemplo, publica inadvertidamente la corrección *y* los cambios que había retenido para publicar en una fecha específica.
 
 El siguiente paso es crear una nueva ramificación de trabajo en el repositorio local para capturar los cambios propuestos. Cada cliente Git es diferente, así que le aconsejamos que consulte la ayuda de su cliente preferido. Puede ver una descripción general del proceso en la Guía de GitHub sobre el [flujo de GitHub](https://guides.github.com/introduction/flow/).
 
 ## Procesamiento de solicitudes de extracción
 
-Los cambios propuestos se envían agrupados en una nueva solicitud de extracción (PR) que se agrega a la cola de PR del repositorio de destino. Una solicitud de extracción habilita el modelo de colaboración de GitHub, solicitando que los cambios de la rama de trabajo se extraigan y se fusionen en otra rama. En la mayoría de los casos, esa otra rama es la rama predeterminada o maestra en el repositorio principal.
+Los cambios propuestos se envían agrupados en una nueva solicitud de extracción (PR) que se agrega a la cola de PR del repositorio de destino. Una solicitud de extracción habilita el modelo de colaboración de GitHub, solicitando que los cambios de la rama de trabajo se extraigan y se fusionen en otra rama. En la mayoría de los casos, esa otra rama es la rama predeterminada/principal en el repositorio principal.
 
 ### Validación
 

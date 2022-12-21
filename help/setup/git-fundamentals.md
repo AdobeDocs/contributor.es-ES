@@ -2,11 +2,10 @@
 title: Aspectos básicos de la documentación de Git y GitHub
 description: En este artículo se ofrece una descripción general de Git, del repositorio de GitHub y de cómo se organiza el contenido, así como las convenciones de nomenclatura utilizadas para la documentación de Adobe.
 exl-id: 2b2ec764-4201-4bcd-802d-a034d6675793
-translation-type: ht
-source-git-commit: 1b1678b33059f4bc8f7aff4690f1d775e6aee2d6
-workflow-type: ht
+source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
+workflow-type: tm+mt
 source-wordcount: '660'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -29,7 +28,7 @@ Git ofrece un flujo de trabajo de contribución único y una terminología propi
 Git también utiliza una estructura jerárquica para almacenar y administrar el contenido de un proyecto:
 
 - *Repositorio*: también denominado *repo*, es la unidad de almacenamiento más alta. Un repositorio puede contener tanto una como varias ramas.
-- *Rama*: todos los repositorios contienen una rama predeterminada (generalmente denominada “maestra”) y una o varias ramas que se van a volver a fusionar con la maestra. La rama maestra sirve como la versión y la fuente actual desde la que se publica el contenido. Es el nivel superior desde el que se crean todas las demás ramas del repositorio.
+- *Rama*: Todos los repositorios contienen una rama predeterminada (generalmente denominada &quot;principal&quot;) y una o más ramas que se van a volver a fusionar en la rama principal. La rama principal sirve como la versión actual y la fuente desde la que se publica el contenido. Es el nivel superior desde el que se crean todas las demás ramas del repositorio.
 
 Los colaboradores interactúan con Git para actualizar y manipular repositorios en los niveles local y GitHub:
 
@@ -42,7 +41,7 @@ Todos los flujos de trabajo comienzan y finalizan en el nivel de GitHub, donde s
 
 ### Organización del directorio
 
-La rama maestra o predeterminada de un proyecto sirve como la versión actual del contenido del proyecto. El contenido en la rama maestra (y en las ramas creadas a partir de ella) se organiza como se expone en los temas del artículo. Los subdirectorios se utilizan para organizar contenido y recursos de imagen.
+La rama principal/predeterminada de un proyecto sirve como la versión actual del contenido del proyecto. El contenido de la rama principal (y de las ramas creadas a partir de ella) se alinea con la organización de los temas del artículo. Los subdirectorios se utilizan para organizar contenido y recursos de imagen.
 
 Normalmente, se puede encontrar un directorio `help` principal en la raíz del repositorio. El directorio de artículos contiene un conjunto de subdirectorios. Los artículos de los subdirectorios tienen el formato de archivos Markdown que utilizan la extensión *.md*.
 

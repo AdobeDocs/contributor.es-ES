@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 5a9bbe0663a1efa8a683e892a42faed18f072e8a
+source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 87%
+source-wordcount: '800'
+ht-degree: 67%
 
 ---
 
@@ -45,7 +45,7 @@ Realizar ediciones rápidas es una buena manera de solucionar pequeños errores 
 1. Si le parece aceptable, firme el [Acuerdo de licencia para colaboradores (CLA)](http://opensource.adobe.com/cla.html).
 
    Solo es necesario que envíe el CLA de Adobe una vez.
-1. Haga clic en el icono **`Edit this page`** en la columna derecha para ir al archivo Markdown de origen en GitHub.
+1. Haga clic en **[!UICONTROL Edit this page]** en la columna derecha para ir al archivo Markdown de origen en GitHub.
 
    ![Editar el icono de esta página](/help/assets/git_edit.png)
 
@@ -57,42 +57,48 @@ Realizar ediciones rápidas es una buena manera de solucionar pequeños errores 
 
    ![Ubicación del icono de lápiz](assets/edit-icon.png)
 
-1. Realice los cambios en el editor web. Puede hacer clic en la pestaña **Preview changes** para comprobar el formato del cambio.
-1. Una vez que haya realizado los cambios, desplácese hasta la parte inferior de la página. Introduzca un título y una descripción para su PR y haga clic en **Propose file change**, como se muestra en la siguiente ilustración:
+1. Realice los cambios en el editor web.
+
+   Puede hacer clic en la pestaña **[!UICONTROL Preview changes]** para comprobar el formato del cambio.
+1. Después de realizar los cambios, desplácese hasta la parte inferior de la página.
+
+   Introduzca un título y una descripción para su PR y, a continuación, haga clic en **[!UICONTROL Propose file change]** como se muestra en la siguiente figura:
 
    ![Propuesta de cambio](assets/submit-pull-request.png)
 
    >[!NOTE]
    >
-   >Si recibe un mensaje de error de validación relativo a la firma del Acuerdo de licencia para colaboradores (CLA), haga clic en **Detalles** para abrir el acuerdo de licencia. Si acepta las condiciones, firme el acuerdo. A continuación, cierre y abra la solicitud de extracción, y continúe.
+   >Si recibe un mensaje de error de validación relativo a la firma de un Acuerdo de licencia para colaboradores (CLA), haga clic en **[!UICONTROL Details]** para abrir el contrato de licencia. Si acepta las condiciones, firme el acuerdo. A continuación, cierre y abra la solicitud de extracción, y continúe.
 
-Es así de sencillo. ¡Gracias! Los integrantes del equipo de documentación revisarán y fusionarán la solicitud de extracción.
+Es así de sencillo. Los integrantes del equipo de documentación revisarán y fusionarán la solicitud de extracción. ¡Gracias! 
 
 ## Registrar un problema
 
-Otra manera de comunicarnos fácilmente un problema en algún contenido es &quot;Registrar un problema&quot;.
+Otra manera fácil de hacernos saber sobre un problema con un fragmento de contenido es usar **[!UICONTROL Log an Issue]**.
 
-1. Si encuentra algún problema en un fragmento de contenido, haga clic en el icono **`Log an Issue`** en la columna derecha.
+1. Si encuentra algún problema en un fragmento de contenido, haga clic en el icono **[!UICONTROL Log an Issue]** en la columna derecha.
 
    ![](assets/git_log_issue.png)
 
    >[!NOTE]
    >
-   >Para registrar un problema, debe acceder a su cuenta de GitHub o crear una nueva cuenta.
+   >Para registrar un problema, debe iniciar sesión en su cuenta de GitHub o crear una cuenta.
 
-   Si hace clic en este vínculo, podrá registrar una solicitud rápida mediante la interfaz de problemas de GitHub.
+   Al hacer clic en este vínculo, podrá registrar una incidencia rápida con el Experience League mediante la interfaz de problemas de GitHub.
 
-1. La dirección URL de la página con el problema se rellenará automáticamente en el campo de descripción. Añada el título, escriba una breve descripción del problema y haga clic en *Submit new issue*.
+   La dirección URL de la página con el problema se rellena automáticamente en el campo de descripción.
+
+1. Añada el título, escriba una breve descripción del problema y haga clic en *Submit new issue*.
 
    ![](assets/git_issue_example.png)
 
-Al enviar un problema, el equipo de contenido de esta página recibe una notificación para que se ponga manos a la obra. Cuando actualicemos el contenido, le avisaremos en la interfaz de problemas de GitHub y le notificaremos por correo electrónico cualquier actualización o cierre.
+Al enviar un problema, se notifica al equipo de contenido de esta página, que puede solucionar el problema. Cuando actualicemos el contenido, le avisaremos en la interfaz de problemas de GitHub y le notificaremos por correo electrónico cualquier actualización o cierre.
 
 ## Explicación de los permisos de GitHub
 
 La edición de la interfaz de usuario de GitHub se adapta a sus permisos de repositorio. Las imágenes anteriores son las adecuadas para los colaboradores que no tienen permisos de escritura en el repositorio de destino. GitHub crea automáticamente una ramificación del repositorio de destino en su cuenta. Si tiene acceso de escritura al repositorio de destino, GitHub crea una rama nueva en dicho repositorio.
 
-Adobe usa solicitudes de extracción para todos los cambios, incluso para los colaboradores que tienen acceso de escritura. La mayoría de los repositorios tienen la ramificación `master` protegida para que las actualizaciones deban enviarse como solicitudes de extracción.
+Adobe usa solicitudes de extracción para todos los cambios, incluso para los colaboradores que tienen acceso de escritura. La mayoría de los repositorios tienen la ramificación `main` protegida para que las actualizaciones deban enviarse como solicitudes de extracción.
 
 La edición en el navegador es mejor para cambios menores o poco frecuentes. Si realiza grandes contribuciones o utiliza características de Git avanzadas, le recomendamos [que ramifique el repositorio y trabaje de forma local](setup/full-workflow.md).
 
@@ -100,4 +106,4 @@ La edición en el navegador es mejor para cambios menores o poco frecuentes. Si 
 
 Con un conjunto de soluciones tan grande como el de Adobe, la documentación siempre está en constante evolución. Si encuentra errores, registre un problema; si tiene sugerencias sobre el material, háganoslo saber. Díganos qué información estaba buscando. Si no encontró lo que necesitaba, háganoslo saber. Si tiene dificultades para completar su tarea, indíquenos cómo podemos ayudarle a conocer nuestras soluciones.
 
-Gracias de parte del equipo de documentación colaborativa y de todos los redactores y productores de contenido de [!UICONTROL Adobe Experience Cloud].
+Gracias del equipo de documentación colaborativa y de todos los redactores y productores de contenido de Experience League.
