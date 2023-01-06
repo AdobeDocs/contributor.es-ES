@@ -1,10 +1,9 @@
 ---
 title: Contribución
 description: Información acerca de la contribución a la documentación de AdobeDocs.
-translation-type: ht
-source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
-workflow-type: ht
-source-wordcount: '303'
+source-git-commit: 99540be2c2310e2250a0ceb14fb133b630ec397e
+workflow-type: tm+mt
+source-wordcount: '301'
 ht-degree: 100%
 
 ---
@@ -21,7 +20,7 @@ Este proyecto se adhiere al [código de conducta](code-of-conduct.md) de Adobe. 
 
 ## Documentación de la Guía del colaborador
 
-Consulte la [Guía de colaborador](https://docs.adobe.com/content/help/es-ES/contributor/contributor-guide/introduction.html).
+Consulte la [Guía del colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=es).
 
 ## ¿Tiene alguna pregunta?
 
@@ -33,7 +32,7 @@ Todas las contribuciones de terceros a este proyecto deben estar acompañadas po
 
 ## Revisiones de código
 
-Todas las solicitudes deben llegar en forma de solicitudes “pull” y el comité de proyectos deberá revisarlas. Consulte la [documentación de las solicitudes “pull”](https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/about-pull-requests) para obtener más información sobre cómo enviar solicitudes “pull”.
+Todas las solicitudes deben llegar en forma de solicitudes “pull” y el comité de proyectos deberá revisarlas. Consulte la [documentación de las solicitudes “pull”](https://help.github.com/es/articles/about-pull-requests/) para obtener más información sobre cómo enviar solicitudes “pull”.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
