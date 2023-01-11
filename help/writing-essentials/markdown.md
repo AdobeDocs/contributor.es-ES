@@ -1,11 +1,11 @@
 ---
 title: Cómo utilizar Markdown para escribir documentación
-description: Descubra los conceptos básicos de la creación de Markdown. Busque información de referencia para el lenguaje Markdown utilizado para escribir artículos.
+description: Descubra los conceptos básicos de la creación de Markdown. Busque información de referencia para el lenguaje Markdown para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: e9cd46132a673d5acd1e3db2f05a9c3c8e5bc30b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1500'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -181,7 +181,7 @@ Visualización:
 
 ### Bloques de código
 
-Markdown admite la colocación de bloques de código tanto en línea como en un bloque &quot;delimitado&quot; independiente entre frases. Para obtener más información, consulte [Compatibilidad nativa de Markdown para bloques de código (en inglés).](https://daringfireball.net/projects/markdown/syntax#precode)
+Markdown admite la colocación de bloques de código tanto en línea como en un bloque “delimitado” independiente entre frases. Para obtener más información, consulte [Compatibilidad nativa de Markdown para bloques de código (en inglés).](https://daringfireball.net/projects/markdown/syntax#precode)
 
 Utilice comillas invertidas (`` ` ``) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, agregue tres comillas invertidas (` ``` `) antes y después del bloque de código (denominado “bloque de código delimitado” en Markdown y “componente de bloque de código” en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: ` ```javascript`
 
@@ -269,7 +269,7 @@ Visualización:
 
 ### Más como esto
 
-El componente &quot;Más como esto&quot; de AEM aparece al final de un artículo. Muestra vínculos relacionados. Cuando se representa el artículo, se le puede dar el mismo formato que a los encabezados de nivel 2 (##) sin que se agreguen al mini-TOC.
+El componente “Más como esto” de AEM aparece al final de un artículo. Muestra vínculos relacionados. Cuando se representa el artículo, se le puede dar el mismo formato que a los encabezados de nivel 2 (##) sin que se agreguen al mini-TOC.
 
 ```markdown
 >[!MORELIKETHIS]
@@ -342,9 +342,9 @@ Lo mejor es utilizar guiones (-) en lugar de guiones bajos (_) en los nombres de
 
 ### Apóstrofes y comillas
 
-Si copia texto en un editor de Markdown, el texto puede contener apóstrofos &quot;inteligentes&quot; (curvos) o comillas. Deben codificarse o cambiarse por apóstrofos básicos o comillas. De lo contrario, aparecerán caracteres extraños como este cuando se publique el archivo: Itâ€™s
+Si copia texto en un editor de Markdown, el texto puede contener apóstrofos “inteligentes” (curvos) o comillas. Deben codificarse o cambiarse por apóstrofos básicos o comillas. De lo contrario, aparecerán caracteres extraños como este cuando se publique el archivo: Itâ€™s
 
-Estas son las codificaciones para las versiones &quot;inteligentes&quot; de estos signos de puntuación:
+Estas son las codificaciones para las versiones “inteligentes” de estos signos de puntuación:
 
 * Comilla tipográfica izquierda (apertura): `&#8220;`
 * Comilla tipográfica derecha (cierre): `&#8221;`
@@ -357,9 +357,9 @@ Si utiliza antilambdas en un texto (que no sea código) del archivo, por ejemplo
 
 Por ejemplo, codifique `<script name>` como `&lt;script name&gt;`
 
-### El símbolo &quot;et&quot; en los títulos
+### El símbolo “et” en los títulos
 
-El símbolo &quot;et&quot; (&amp;) no se permite en los títulos. Utilice &quot;y&quot; o la codificación `&amp;`.
+El símbolo “et” (&amp;) no se permite en los títulos. Utilice “y” o la codificación `&amp;`.
 
 ## Consulte también
 
