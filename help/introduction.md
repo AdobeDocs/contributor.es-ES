@@ -1,33 +1,33 @@
 ---
 title: Guía del colaborador para la documentación de Adobe
 seo-title: Contributor guide overview for Adobe Experience Cloud technical documentation
-description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
+description: La guía describe cómo puede realizar sugerencias y aportes al sitio de documentación de Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '800'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
 # Guía del colaborador para la documentación de Adobe
 
-En esta guía se describe cómo puede contribuir a la ayuda empresarial de Adobe en Experience League.
+En esta guía se describe cómo puede contribuir a la ayuda de empresarial de Adobe en Experience League.
 
 ## ¿Qué es la documentación colaborativa?
 
-La documentación técnica y el contenido de habilitación de Adobe Experience Cloud y otros productos de Adobe Enterprise se basan en principios de código abierto que utilizan las soluciones GitHub, Markdown y Adobe Experience Cloud.
+La documentación técnica y el contenido de habilitación de Adobe Experience Cloud y otros productos de Adobe Enterprise se basan en los principios de código abierto que utilizan las soluciones GitHub, Markdown y Adobe Experience Cloud.
 
-Este modelo de código abierto mejora la calidad del contenido y la comunicación entre clientes, equipos de documentación y equipos de productos. Ahora, en cada una de las páginas es posible valorar la utilidad del contenido, registrar problemas e incluso contribuir con sugerencias de contenido mediante solicitudes de extracción (PR) Git. Los equipos de documentación de Adobe supervisan diariamente las contribuciones y los problemas, y realizan las actualizaciones, las modificaciones y los ajustes necesarios.
+Este modelo de código abierto mejora la calidad del contenido y la comunicación entre clientes y equipos de documentación y de producto. Ahora, en cada una de las páginas es posible valorar la utilidad del contenido, registrar problemas e incluso contribuir con sugerencias de contenido mediante solicitudes de extracción (PR) Git. Los equipos de documentación de Adobe supervisan diariamente las contribuciones y los problemas, y realizan las actualizaciones, las modificaciones y los ajustes necesarios.
 
-## Uso de documentación colaborativa
+## Uso de la documentación de colaborativa
 
 Como usuario de este material, e independientemente de si es empleado, socio, cliente o incluso cliente potencial, tiene la opción de contribuir a la documentación de varias formas sencillas:
 
 * Valore la utilidad de la página
-* Registrar un problema en una página específica
-* Envíe ediciones rápidas hasta la creación de artículos completos, con recursos y ejemplos de código
+* Registro un problema en una página específica
+* Desde una edición rápida hasta la creación de artículos completos, con recursos y ejemplos de código.
 
 En esta guía se describe todo lo que necesita saber para interactuar con este conjunto de materiales y contribuir a su creación.
 
@@ -45,7 +45,7 @@ Realizar ediciones rápidas es una buena manera de solucionar pequeños errores 
 1. Si le parece aceptable, firme el [Acuerdo de licencia para colaboradores (CLA)](http://opensource.adobe.com/cla.html).
 
    Solo es necesario que envíe el CLA de Adobe una vez.
-1. Haga clic en **[!UICONTROL Edit this page]** en la columna derecha para ir al archivo Markdown de origen en GitHub.
+1. Haga clic en **[!UICONTROL Edit this page]** en la columna de la derecha para ir al archivo origen de Markdown en GitHub.
 
    ![Editar el icono de esta página](/help/assets/git_edit.png)
 
@@ -62,19 +62,19 @@ Realizar ediciones rápidas es una buena manera de solucionar pequeños errores 
    Puede hacer clic en la pestaña **[!UICONTROL Preview changes]** para comprobar el formato del cambio.
 1. Después de realizar los cambios, desplácese hasta la parte inferior de la página.
 
-   Introduzca un título y una descripción para su PR y, a continuación, haga clic en **[!UICONTROL Propose file change]** como se muestra en la siguiente figura:
+   Introduzca un título y una descripción para su PR y, a continuación, haga clic en **[!UICONTROL Propose file change]** como se muestra en el siguiente gráfico:
 
-   ![Propuesta de cambio](assets/submit-pull-request.png)
+   ![proponga el cambio](assets/submit-pull-request.png)
 
    >[!NOTE]
    >
-   >Si recibe un mensaje de error de validación relativo a la firma de un Acuerdo de licencia para colaboradores (CLA), haga clic en **[!UICONTROL Details]** para abrir el contrato de licencia. Si acepta las condiciones, firme el acuerdo. A continuación, cierre y abra la solicitud de extracción, y continúe.
+   >Si recibe un mensaje de error de validación acerca la firma de un acuerdo de licencia de colaborador (Contributor License Agreement, CLA), haga clic en **[!UICONTROL Details]** para abrir el acuerdo de licencia. Si acepta las condiciones, firme el acuerdo. A continuación, cierre y abra la solicitud de extracción, y continúe.
 
 Es así de sencillo. Los integrantes del equipo de documentación revisarán y fusionarán la solicitud de extracción. ¡Gracias! 
 
-## Registrar un problema
+## Registro de un problema
 
-Otra manera fácil de hacernos saber sobre un problema con un fragmento de contenido es usar **[!UICONTROL Log an Issue]**.
+Otra forma sencilla de comunicar un problema con un contenido es utilizar **[!UICONTROL Log an Issue]**.
 
 1. Si encuentra algún problema en un fragmento de contenido, haga clic en el icono **[!UICONTROL Log an Issue]** en la columna derecha.
 
@@ -84,15 +84,15 @@ Otra manera fácil de hacernos saber sobre un problema con un fragmento de conte
    >
    >Para registrar un problema, debe iniciar sesión en su cuenta de GitHub o crear una cuenta.
 
-   Al hacer clic en este vínculo, podrá registrar una incidencia rápida con el Experience League mediante la interfaz de problemas de GitHub.
+   Al hacer clic en este vínculo, podrá registrar una incidencia rápida con Experience League mediante la interfaz de problemas de GitHub.
 
    La dirección URL de la página con el problema se rellena automáticamente en el campo de descripción.
 
-1. Añada el título, escriba una breve descripción del problema y haga clic en *Submit new issue*.
+1. Añada el título, escriba una breve descripción del problema y haga clic en *Enviar problema nuevo*.
 
    ![](assets/git_issue_example.png)
 
-Al enviar un problema, se notifica al equipo de contenido de esta página, que puede solucionar el problema. Cuando actualicemos el contenido, le avisaremos en la interfaz de problemas de GitHub y le notificaremos por correo electrónico cualquier actualización o cierre.
+Al enviar un problema, se notifica al equipo de contenido de esta página, que puede resolverlo. Cuando actualicemos el contenido, le avisaremos en la interfaz de problemas de GitHub y le notificaremos por correo electrónico cualquier actualización o cierre.
 
 ## Explicación de los permisos de GitHub
 
@@ -106,4 +106,4 @@ La edición en el navegador es mejor para cambios menores o poco frecuentes. Si 
 
 Con un conjunto de soluciones tan grande como el de Adobe, la documentación siempre está en constante evolución. Si encuentra errores, registre un problema; si tiene sugerencias sobre el material, háganoslo saber. Díganos qué información estaba buscando. Si no encontró lo que necesitaba, háganoslo saber. Si tiene dificultades para completar su tarea, indíquenos cómo podemos ayudarle a conocer nuestras soluciones.
 
-Gracias del equipo de documentación colaborativa y de todos los redactores y productores de contenido de Experience League.
+Gracias de parte del equipo de Documentación colaborativa y de todos los redactores y productores de contenidos de Experience League.
