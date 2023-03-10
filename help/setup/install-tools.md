@@ -2,8 +2,7 @@
 title: Instalación de las herramientas de creación
 description: Este artículo le ayuda a descargar e instalar las herramientas del cliente que necesitará para Git/GitHub y para editar archivos Markdown.
 exl-id: 930185cf-fff5-485a-9824-70c32c55800d
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
 workflow-type: ht
 source-wordcount: '345'
 ht-degree: 100%
@@ -18,7 +17,7 @@ ht-degree: 100%
 >
 >Si solo realiza cambios menores en un artículo, *no* necesita completar los pasos que aquí se explican. Simplemente puede realizar los cambios en el explorador Web.
 >
-> Se recomienda a los principales colaboradores que completen estos pasos, lo que permite utilizar el [flujo de trabajo de cambios importantes](local-repo.md). Incluso si tiene permisos de escritura en el repositorio principal, recomendamos encarecidamente (esta guía da por hecho que lo hace) que ramifique y clone el repositorio, de modo que tenga permisos de lectura y escritura para almacenar los cambios propuestos en la ramificación.
+>Se recomienda a los principales colaboradores que completen estos pasos, lo que permite utilizar el [flujo de trabajo de cambios importantes](local-repo.md). Incluso si tiene permisos de escritura en el repositorio principal, recomendamos encarecidamente (esta guía da por hecho que lo hace) que ramifique y clone el repositorio, de modo que tenga permisos de lectura y escritura para almacenar los cambios propuestos en la ramificación.
 
 ## Instalación de las herramientas de cliente Git
 
