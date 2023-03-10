@@ -2,9 +2,8 @@
 title: Configurar el repositorio de Git localmente
 description: Este artículo proporciona indicaciones para crear su repositorio local de Git y contribuir a la documentación de Adobe, incluidos los procesos de ramificación y clonación.
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 100%
 
@@ -71,7 +70,7 @@ Estos pasos dan por sentado que está utilizando GitHub Desktop. Si utiliza otro
 
 1. Haga clic en **Clone or download** y, a continuación, elija **Open in Desktop** para extraer una copia del repositorio (su ramificación) en su ordenador, en el directorio actual.
 
-  ![Clonar repo](assets/clone-pulldown.png)
+   ![Clonar repo](assets/clone-pulldown.png)
 
 1. Utilice GitHub Desktop para mantener los archivos locales sincronizados con el repositorio ramificado.
 

@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: La guía describe cómo puede realizar sugerencias y aportes al sitio de documentación de Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 8e7d5fb9dc5686df32f7d917ebfb290547d299be
-workflow-type: ht
-source-wordcount: '800'
-ht-degree: 100%
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+workflow-type: tm+mt
+source-wordcount: '904'
+ht-degree: 69%
 
 ---
 
@@ -23,11 +23,15 @@ Este modelo de código abierto mejora la calidad del contenido y la comunicació
 
 ## Uso de la documentación de colaborativa
 
-Como usuario de este material, e independientemente de si es empleado, socio, cliente o incluso cliente potencial, tiene la opción de contribuir a la documentación de varias formas sencillas:
+Como usuario de este material, independientemente de si es empleado, socio, cliente o incluso cliente potencial, tiene la opción de contribuir a esta documentación de varias formas sencillas.
 
-* Valore la utilidad de la página
-* Registro un problema en una página específica
-* Desde una edición rápida hasta la creación de artículos completos, con recursos y ejemplos de código.
+* Valore la utilidad del ❶ de página y escriba un comentario opcional ❷
+* Informar de un problema en una página específica (requiere inicio de sesión en Git) ❸
+* Envíe una edición rápida hasta la creación de artículos completos con recursos y muestras de código (requiere el inicio de sesión en Git) ❹
+
+![Comentarios](assets/feedback-options.png)
+
+Estas opciones aparecen en la parte inferior de la página unos segundos después de abrirla. Si descarta el área de comentarios, puede volver a cargar la página para devolverla.
 
 En esta guía se describe todo lo que necesita saber para interactuar con este conjunto de materiales y contribuir a su creación.
 
@@ -38,16 +42,23 @@ En esta guía se describe todo lo que necesita saber para interactuar con este c
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
 -->
 
+## Valore la utilidad de la página y escriba un comentario
+
+Unos segundos después de abrir una página, aparece un área de comentarios en la parte inferior de la página. Haga clic hacia arriba o hacia abajo para indicar si la página era útil.
+
+No dude en dejar un comentario para proporcionar comentarios adicionales.
+
 ## Realice ediciones rápidas en documentos existentes
 
-Realizar ediciones rápidas es una buena manera de solucionar pequeños errores y omisiones en los documentos. Si un artículo incluye un botón de edición como se muestra a continuación, puede realizar una corrección rápida. Cuando edita el documento, envía una solicitud de extracción (PR) para enviarnos la solución/sugerencia y nosotros podremos vetarla, aprobarla y publicarla.
+Si desea proporcionar comentarios más detallados, realizar ediciones rápidas es una buena manera de corregir pequeños errores y omisiones en los documentos. Cuando sugiere una edición, envía una solicitud de extracción (PR) para enviarnos la corrección/sugerencia y nosotros podremos vetarla, aprobarla y publicarla.
 
 1. Si le parece aceptable, firme el [Acuerdo de licencia para colaboradores (CLA)](http://opensource.adobe.com/cla.html).
 
    Solo es necesario que envíe el CLA de Adobe una vez.
-1. Haga clic en **[!UICONTROL Edit this page]** en la columna de la derecha para ir al archivo origen de Markdown en GitHub.
 
-   ![Editar el icono de esta página](/help/assets/git_edit.png)
+1. En el área de comentarios que aparece al final del artículo, haga clic en **[!UICONTROL Detailed feedback options]** y haga clic en **[!UICONTROL Suggest an edit]** para ir al archivo Markdown de origen en GitHub.
+
+   ![Editar el icono de esta página](/help/assets/feedback-suggest-edit.png)
 
 1. Haga clic en el icono de lápiz para editar el artículo.
 
@@ -55,11 +66,12 @@ Realizar ediciones rápidas es una buena manera de solucionar pequeños errores 
    >
    >Si el icono de lápiz está deshabilitado, debe iniciar sesión en su cuenta de GitHub o crear una nueva.
 
-   ![Ubicación del icono de lápiz](assets/edit-icon.png)
+   ![Ubicación del icono de lápiz](assets/git_edit.png)
 
 1. Realice los cambios en el editor web.
 
    Puede hacer clic en la pestaña **[!UICONTROL Preview changes]** para comprobar el formato del cambio.
+
 1. Después de realizar los cambios, desplácese hasta la parte inferior de la página.
 
    Introduzca un título y una descripción para su PR y, a continuación, haga clic en **[!UICONTROL Propose file change]** como se muestra en el siguiente gráfico:
@@ -72,17 +84,17 @@ Realizar ediciones rápidas es una buena manera de solucionar pequeños errores 
 
 Es así de sencillo. Los integrantes del equipo de documentación revisarán y fusionarán la solicitud de extracción. ¡Gracias! 
 
-## Registro de un problema
+## Informar de un problema
 
-Otra forma sencilla de comunicar un problema con un contenido es utilizar **[!UICONTROL Log an Issue]**.
+Otra forma sencilla de comunicar un problema con un contenido es utilizar **[!UICONTROL Report an issue]**.
 
-1. Si encuentra algún problema en un fragmento de contenido, haga clic en el icono **[!UICONTROL Log an Issue]** en la columna derecha.
+1. En el área de comentarios que aparece al final del artículo, haga clic en **[!UICONTROL Detailed feedback options]** y haga clic en **[!UICONTROL Report an issue]** para ir al archivo Markdown de origen en GitHub.
 
-   ![](assets/git_log_issue.png)
+   ![Informar de problema](assets/feedback-report-issue.png)
 
    >[!NOTE]
    >
-   >Para registrar un problema, debe iniciar sesión en su cuenta de GitHub o crear una cuenta.
+   >Para informar de un problema, debe iniciar sesión en su cuenta de GitHub o crear una cuenta.
 
    Al hacer clic en este vínculo, podrá registrar una incidencia rápida con Experience League mediante la interfaz de problemas de GitHub.
 

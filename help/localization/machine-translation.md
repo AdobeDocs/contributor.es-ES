@@ -2,11 +2,10 @@
 title: Compatibilidad de idiomas para la documentación de productos de Adobe Experience Cloud
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 exl-id: 6ba93c9f-15c3-47ba-aa41-d226f5d4e435
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+workflow-type: tm+mt
 source-wordcount: '828'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -36,7 +35,7 @@ Puede ver la documentación de productos de Adobe Experience Cloud en la mayorí
 
    El contenido puede mostrarse en su idioma automáticamente, o puede hacer clic en un enlace para activar la traducción. (Este escenario puede darse cuando haga clic en el hipervínculo para regresar a la fuente en inglés desde la página traducida. Le da la opción de ver la página traducida cuando quiera). En cualquier momento puede volver a la versión original en inglés.
 
-   En algunos casos, el contenido original podría variar debido a actualizaciones recientes o publicaciones realizadas antes de completar las traducciones. Al hacer clic en su idioma en el menú desplegable, verá una notificación (en la barra horizontal, de color azul claro, en la parte superior de la página) que le indica que la página se tradujo automáticamente de la versión anterior y que tiene contenido actualizado que estará disponible en breve. Se le ofrecerá la opción de ver el contenido original en inglés más reciente en una nueva ventana del navegador, si lo prefiere.
+   En algunos casos, el contenido original podría variar debido a actualizaciones recientes o publicaciones realizadas antes de completar las traducciones. Al hacer clic en su idioma en el menú desplegable, verá una notificación (en la barra horizontal, de color azul claro, en la parte superior de la página) que le indica que la página se tradujo automáticamente de la versión anterior y que tiene contenido actualizado que estará disponible próximamente. Se le ofrecerá la opción de ver el contenido original en inglés más reciente en una nueva ventana del navegador, si lo prefiere.
 
 ## Razones para usar la traducción automática
 
@@ -59,8 +58,7 @@ aquí:
 
 ### Comentarios
 
-Siempre que el contenido se traduce automáticamente, ya sea por defecto o por acción del usuario, existe la opción de proporcionar comentarios a Adobe sobre las traducciones. En la
-barra horizontal de color azul claro de la parte superior de la página, puede responder &quot;Sí&quot; o &quot;No&quot; a la pregunta &quot;¿Fue útil esta traducción?&quot;. Adobe recopila las valoraciones
+Siempre que el contenido se traduce automáticamente, ya sea por defecto o por acción del usuario, existe la opción de proporcionar comentarios a Adobe sobre las traducciones. En la barra horizontal de color azul claro de la parte superior de la página, puede responder &quot;Sí&quot; o &quot;No&quot; a la pregunta &quot;¿Fue útil esta traducción?&quot;. Adobe recopila las valoraciones
 y analiza los datos recopilados para tomar decisiones sobre la traducción de contenido. Valoramos sus comentarios y le animamos a que responda.
 
 ![Comentarios](assets/machine-translation-feedback.png)
