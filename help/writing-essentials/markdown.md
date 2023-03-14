@@ -2,10 +2,10 @@
 title: Cómo utilizar Markdown para escribir documentación
 description: Descubra los conceptos básicos de la creación de Markdown. Busque información de referencia para el lenguaje Markdown para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: e9cd46132a673d5acd1e3db2f05a9c3c8e5bc30b
-workflow-type: ht
-source-wordcount: '1500'
-ht-degree: 100%
+source-git-commit: 065e43d5251f80050deef02e9c18b3fb4e9c1204
+workflow-type: tm+mt
+source-wordcount: '1430'
+ht-degree: 97%
 
 ---
 
@@ -86,11 +86,13 @@ También puede incrustar listas dentro de listas y añadir contenido entre eleme
 1. Perform this step.
 
    ![screen](assets/no-localize/adobe_standard_logo.png)
+
 1. Make sure that your table looks like this: 
 
    | Hello | World |
    |---|---|
    | How | are you? |  
+
 1. This is the fourth step.
 
    >[!NOTE]
@@ -106,11 +108,13 @@ Visualización:
 1. Perform this step.
 
    ![pantalla](assets/no-localize/adobe_standard_logo.png)
+
 1. Make sure that your table looks like this:
 
    | Hello | World |
    |---|---|
    | How | are you? |
+
 1. This is the fourth step.
 
    >[!NOTE]
@@ -175,9 +179,7 @@ Para obtener más información sobre la vinculación, consulte el artículo [Ví
 
 Visualización:
 
-![Adobe Logo ](assets/no-localize/adobe_standard_logo.png " Hover text ")
-
-**NOTA:** Para aquellas imágenes que no deban localizarse, cree una carpeta independiente `do-not-localize` en la carpeta de recursos. Por lo general, las imágenes sin texto o las imágenes que solo contienen contenido de muestra se colocan allí. Esto elimina el ruido de la carpeta de recursos y reduce la cantidad de preguntas.
+![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
 ### Bloques de código
 
@@ -208,10 +210,10 @@ En los artículos de Adobe se utiliza la puntuación estándar para la mayoría 
 
 * Bloques de notas
 * Vídeos incrustados
-* No localizar
-* Propiedades del componente, como asignar un ID de encabezado diferente a un encabezado
+* Etiquetas de traducción
+* Propiedades del componente, como asignar un ID de encabezado diferente a un encabezado y especificar un tamaño de imagen
 
-Utilice el símbolo de citas de bloque de Markdown (>) al principio de cada línea para enlazar un componente ampliado, como una nota. Si necesita utilizar subcomponentes dentro de componentes, agregue un nivel adicional de citas de bloque (>  >) para esa sección de subcomponentes. Por ejemplo, una NOTA dentro de una sección DONOTLOCALIZE debe comenzar por >    >.
+Utilice el símbolo de citas de bloque de Markdown (>) al principio de cada línea para enlazar un componente ampliado, como una nota.
 
 Algunos elementos comunes de Markdown, como encabezados y bloques de código, incluyen propiedades ampliadas. Si necesita cambiar las propiedades predeterminadas, agregue los parámetros entre llaves /{ /} después del componente. Las propiedades ampliadas se describen en contexto.
 
@@ -229,7 +231,6 @@ Puede elegir entre estos tipos de bloques de notas para llamar la atención sobr
 * `[!PREREQUISITES]`
 
 En general, los bloques de notas deben usarse con moderación porque pueden resultar molestos. Aunque también se admiten bloques de código, imágenes, listas y vínculos, intente que los bloques de notas sean simples y directos.
-
 
 ```markdown
 >[!NOTE]
@@ -273,6 +274,7 @@ El componente “Más como esto” de AEM aparece al final de un artículo. Mues
 
 ```markdown
 >[!MORELIKETHIS]
+>
 >* [Article 1](https://helpx.adobe.com/support/analytics.html)
 >* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 ```
@@ -280,6 +282,7 @@ El componente “Más como esto” de AEM aparece al final de un artículo. Mues
 Visualización:
 
 >[!MORELIKETHIS]
+>
 >* [Article 1](https://helpx.adobe.com/es/support/analytics.html)
 >* [Article 2](https://helpx.adobe.com/es/support/audience-manager.html)
 
