@@ -1,13 +1,13 @@
 ---
 title: Guía del colaborador para la documentación de Adobe
 seo-title: Contributor guide overview for Adobe Experience Cloud technical documentation
-description: La guía describe cómo puede realizar sugerencias y aportes al sitio de documentación de Adobe.
+description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
 workflow-type: tm+mt
 source-wordcount: '904'
-ht-degree: 69%
+ht-degree: 98%
 
 ---
 
@@ -23,15 +23,15 @@ Este modelo de código abierto mejora la calidad del contenido y la comunicació
 
 ## Uso de la documentación de colaborativa
 
-Como usuario de este material, independientemente de si es empleado, socio, cliente o incluso cliente potencial, tiene la opción de contribuir a esta documentación de varias formas sencillas.
+Como usuario de este material, e independientemente de si es empleado, socio, cliente o incluso cliente potencial, tiene la opción de contribuir a la documentación de varias formas sencillas.
 
-* Valore la utilidad del ❶ de página y escriba un comentario opcional ❷
-* Informar de un problema en una página específica (requiere inicio de sesión en Git) ❸
-* Envíe una edición rápida hasta la creación de artículos completos con recursos y muestras de código (requiere el inicio de sesión en Git) ❹
+* Valore la utilidad de la página ❶ y escriba un comentario opcional.
+* Informe de un problema en una página específica (requiere iniciar la sesión en Git) ❸
+* Envíe desde una edición rápida hasta la creación de artículos completos, con recursos y ejemplos de código (requiere iniciar la sesión en Git) ❹
 
 ![Comentarios](assets/feedback-options.png)
 
-Estas opciones aparecen en la parte inferior de la página unos segundos después de abrirla. Si descarta el área de comentarios, puede volver a cargar la página para devolverla.
+Estas opciones aparecen en la parte inferior de la página unos segundos después de abrirla. Si descarta el área de comentarios, puede volver a cargar la página para que vuelva a aparecer.
 
 En esta guía se describe todo lo que necesita saber para interactuar con este conjunto de materiales y contribuir a su creación.
 
@@ -44,19 +44,19 @@ En esta guía se describe todo lo que necesita saber para interactuar con este c
 
 ## Valore la utilidad de la página y escriba un comentario
 
-Unos segundos después de abrir una página, aparece un área de comentarios en la parte inferior de la página. Haga clic hacia arriba o hacia abajo para indicar si la página era útil.
+Unos segundos después de abrir una página, aparece un área de comentarios en la parte inferior de la página. Haga clic en el botón hacia arriba o hacia abajo para indicar si la página era útil.
 
 No dude en dejar un comentario para proporcionar comentarios adicionales.
 
 ## Realice ediciones rápidas en documentos existentes
 
-Si desea proporcionar comentarios más detallados, realizar ediciones rápidas es una buena manera de corregir pequeños errores y omisiones en los documentos. Cuando sugiere una edición, envía una solicitud de extracción (PR) para enviarnos la corrección/sugerencia y nosotros podremos vetarla, aprobarla y publicarla.
+Si desea proporcionar comentarios más detallados, realizar ediciones rápidas es una buena manera de corregir pequeños errores y omisiones en los documentos. Cuando se sugiere una edición, se envía una solicitud de extracción (PR) para enviarnos la solución/sugerencia y nosotros podemos vetar, aprobar y publicar dicha sugerencia.
 
 1. Si le parece aceptable, firme el [Acuerdo de licencia para colaboradores (CLA)](http://opensource.adobe.com/cla.html).
 
    Solo es necesario que envíe el CLA de Adobe una vez.
 
-1. En el área de comentarios que aparece al final del artículo, haga clic en **[!UICONTROL Detailed feedback options]** y haga clic en **[!UICONTROL Suggest an edit]** para ir al archivo Markdown de origen en GitHub.
+1. En el área de comentarios que aparece al final del artículo, haga clic en **[!UICONTROL Detailed feedback options]** y haga clic en **[!UICONTROL Suggest an edit]** para ir al archivo de origen Markdown en GitHub.
 
    ![Editar el icono de esta página](/help/assets/feedback-suggest-edit.png)
 
@@ -88,9 +88,9 @@ Es así de sencillo. Los integrantes del equipo de documentación revisarán y f
 
 Otra forma sencilla de comunicar un problema con un contenido es utilizar **[!UICONTROL Report an issue]**.
 
-1. En el área de comentarios que aparece al final del artículo, haga clic en **[!UICONTROL Detailed feedback options]** y haga clic en **[!UICONTROL Report an issue]** para ir al archivo Markdown de origen en GitHub.
+1. En el área de comentarios que aparece al final del artículo, haga clic en **[!UICONTROL Detailed feedback options]** y haga clic en **[!UICONTROL Report an issue]** para ir al archivo de origen Markdown en GitHub.
 
-   ![Informar de problema](assets/feedback-report-issue.png)
+   ![Informar de un problema](assets/feedback-report-issue.png)
 
    >[!NOTE]
    >
