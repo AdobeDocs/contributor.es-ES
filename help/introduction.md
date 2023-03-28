@@ -5,9 +5,9 @@ description: La guía describe cómo puede realizar sugerencias y aportaciones a
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '904'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Este modelo de código abierto mejora la calidad del contenido y la comunicació
 
 Como usuario de este material, e independientemente de si es empleado, socio, cliente o incluso cliente potencial, tiene la opción de contribuir a la documentación de varias formas sencillas.
 
-* Valore la utilidad de la página ❶ y escriba un comentario opcional.
+* Valore la utilidad de la página ❶ y escriba un comentario opcional ❷
 * Informe de un problema en una página específica (requiere iniciar la sesión en Git) ❸
 * Envíe desde una edición rápida hasta la creación de artículos completos, con recursos y ejemplos de código (requiere iniciar la sesión en Git) ❹
 
