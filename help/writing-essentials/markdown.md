@@ -3,9 +3,9 @@ title: Cómo utilizar Markdown para escribir documentación
 description: Descubra los conceptos básicos de la creación de Markdown. Busque información de referencia para el lenguaje Markdown para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 065e43d5251f80050deef02e9c18b3fb4e9c1204
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1430'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -125,7 +125,7 @@ Visualización:
 
 ### Tablas
 
-Las tablas no forman parte de la especificación principal de Markdown, pero Adobe las admite en cierta medida. Markdown no admite listas de líneas múltiples en celdas. Lo mejor es evitar el uso de varias líneas en las tablas. Puede crear tablas utilizando la barra vertical (|) para definir columnas y filas. Los guiones crean el encabezado de cada columna, mientras que las barras verticales separan las columnas. Incluya una línea en blanco antes de la tabla para que se muestre correctamente.
+Las tablas no forman parte de la especificación principal de Markdown, pero Adobe las admite en cierta medida. Markdown no admite listas de líneas múltiples en celdas. La práctica recomendada es evitar el uso de varias líneas en las tablas. Puede crear tablas utilizando la barra vertical (|) para definir columnas y filas. Los guiones crean el encabezado de cada columna, mientras que las barras verticales separan las columnas. Incluya una línea en blanco antes de la tabla para que se muestre correctamente.
 
 ```markdown
 | Header | Another header | Yet another header |
@@ -337,7 +337,7 @@ El texto alternativo que contiene guiones bajos no se representa correctamente. 
 ![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
-Lo mejor es utilizar guiones (-) en lugar de guiones bajos (_) en los nombres de archivo.
+La práctica recomendada es utilizar guiones (-) en lugar de guiones bajos (_) en los nombres de archivo.
 
 ```markdown
 ![Settings-Step-2](/assets/settings-step-2.png)
