@@ -2,10 +2,10 @@
 title: Cómo utilizar Markdown para escribir documentación
 description: Descubra los conceptos básicos de la creación de Markdown. Busque información de referencia para el lenguaje Markdown para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 065e43d5251f80050deef02e9c18b3fb4e9c1204
-workflow-type: ht
-source-wordcount: '1430'
-ht-degree: 100%
+source-git-commit: 19ea281ffce60c91edd0a47449152fc1138031c5
+workflow-type: tm+mt
+source-wordcount: '1420'
+ht-degree: 99%
 
 ---
 
@@ -229,32 +229,35 @@ Puede elegir entre estos tipos de bloques de notas para llamar la atención sobr
 * `[!ADMINISTRATION]`
 * `[!AVAILABILITY]`
 * `[!PREREQUISITES]`
+* `[!ERROR]`
+* `[!ADMINISTRATION]`
+* `[!INFO]`
+* `[!SUCCESS]`
 
 En general, los bloques de notas deben usarse con moderación porque pueden resultar molestos. Aunque también se admiten bloques de código, imágenes, listas y vínculos, intente que los bloques de notas sean simples y directos.
 
+
 ```markdown
 >[!NOTE]
 >
 >This is a standard NOTE block.
 ```
 
-Visualización:
-
->[!NOTE]
->
->This is a standard NOTE block.
-
 ```markdown
 >[!TIP]
 >
->This is a standard tip.
+>This is a standard TIP.
+```
+
+```markdown
+>[!IMPORTANT]
+>
+>This is an IMPORTANT note.
 ```
 
 Visualización:
 
->[!TIP]
->
->This is a standard tip.
+![Notas procesadas](assets/notes-rendered.png)
 
 ### Vídeos
 
