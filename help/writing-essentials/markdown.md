@@ -2,10 +2,10 @@
 title: Cómo utilizar Markdown para escribir documentación
 description: Descubra los conceptos básicos de la creación de Markdown. Busque información de referencia para el lenguaje Markdown para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 19ea281ffce60c91edd0a47449152fc1138031c5
+source-git-commit: aec38dde9195855f96e7469c91c28d50ad516ae6
 workflow-type: tm+mt
-source-wordcount: '1420'
-ht-degree: 99%
+source-wordcount: '1419'
+ht-degree: 97%
 
 ---
 
@@ -77,7 +77,7 @@ Visualización:
 
 * First item in an unordered list.
 * Another item.
-* Here we go again.
+* Aquí vamos de nuevo.
 
 También puede incrustar listas dentro de listas y añadir contenido entre elementos de la lista.
 
@@ -119,7 +119,7 @@ Visualización:
 
    >[!NOTE]
    >
-   >This is note text.
+   >Esto es texto de nota.
 
 1. Do another step.
 
@@ -285,9 +285,8 @@ El componente “Más como esto” de AEM aparece al final de un artículo. Mues
 Visualización:
 
 >[!MORELIKETHIS]
->
->* [Article 1](https://helpx.adobe.com/es/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/es/support/audience-manager.html)
+* [Artículo 1](https://helpx.adobe.com/es/support/analytics.html)
+* [Artículo 2](https://helpx.adobe.com/es/support/audience-manager.html)
 
 
 ### UICONTROL y DNL
@@ -312,7 +311,8 @@ Durante la traducción automática, los elementos etiquetados con `` se contra
 1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
 
-**NOTA:** De las tres opciones de etiquetado, esta es la más importante para ofrecer alta calidad y es obligatoria.
+>[!NOTE]
+De las tres opciones de etiquetado, esta es la más crucial para ofrecer alta calidad y es obligatoria.
 
 **`[!DNL]`**
 
