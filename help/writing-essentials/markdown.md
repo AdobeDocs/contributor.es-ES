@@ -2,9 +2,9 @@
 title: Cómo utilizar Markdown para escribir documentación
 description: Descubra los conceptos básicos de la creación de Markdown. Busque información de referencia para el lenguaje Markdown para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: aec38dde9195855f96e7469c91c28d50ad516ae6
+source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
 workflow-type: tm+mt
-source-wordcount: '1419'
+source-wordcount: '1421'
 ht-degree: 97%
 
 ---
@@ -275,12 +275,7 @@ Visualización:
 
 El componente “Más como esto” de AEM aparece al final de un artículo. Muestra vínculos relacionados. Cuando se representa el artículo, se le puede dar el mismo formato que a los encabezados de nivel 2 (##) sin que se agreguen al mini-TOC.
 
-```markdown
->[!MORELIKETHIS]
->
->* [Article 1](https://helpx.adobe.com/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
-```
+![morelikethis sintaxis](assets/more-like-this-syntax.png)
 
 Visualización:
 
