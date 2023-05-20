@@ -3,7 +3,7 @@ title: Código de conducta de Adobe
 description: Código de conducta de Adobe para informar sobre problemas y enviar cambios de edición
 exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
 source-git-commit: 06b0a397f0612e5ecfca82fc7105a45ed167efc9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ Ejemplos de comportamiento inaceptable por parte de los participantes:
 * Comentarios insultantes o despectivos (trolling) y ataques personales o políticos
 * Acoso público o privado
 * Publicación de información privada de terceros sin su consentimiento, como direcciones físicas o electrónicas
-* Otros tipos de conducta que pudieran considerarse inapropiadas en un entorno profesional.
+* Otros tipos de conducta que pudieran considerarse inapropiadas en un entorno profesional
 
 ## Nuestras responsabilidades
 

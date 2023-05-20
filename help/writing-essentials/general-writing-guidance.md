@@ -4,8 +4,8 @@ title: Creación de guías de estilo para colaboradores externos
 description: Obtenga información sobre la creación y las directrices editoriales para colaboradores externos para Experience League.
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
 source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
-workflow-type: ht
-source-wordcount: '2227'
+workflow-type: tm+mt
+source-wordcount: '2224'
 ht-degree: 100%
 
 ---
@@ -162,7 +162,7 @@ A continuación se indican formas sencillas de mejorar el diseño, la claridad y
 | Cambie _hacer clic_ por _ir a_ o _seleccionar_. | _Hacer clic_ es una palabra específica del dispositivo (con problemas de accesibilidad) y la tendencia es no usarla. A continuación se ofrecen sugerencias para cambiarla:<ul><li>Navegación: _Vaya al Archivo > Imprimir_.</li><li>Haga clic en: _Seleccionar Archivo > Imprimir_ o _Seleccionar OK_. </li></ul>Consulte [Descripción de las interacciones con la interfaz de usuario](https://docs.microsoft.com/es-es/style-guide/procedures-instructions/describing-interactions-with-ui) para obtener más ideas sobre la mejor opción de palabras en diversas situaciones. |
 | Ejecutar Acrolinx en VSC | Acrolinx comprueba los problemas de estilo y gramática. Comprueba las direcciones URL, la terminología, la ortografía, etc. Le ayuda a mejorar su claridad y la traducción del contenido de Experience League. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 Más prácticas recomendadas y recursos:
 

@@ -77,7 +77,7 @@ Visualización:
 
 * First item in an unordered list.
 * Another item.
-* Aquí vamos de nuevo.
+* Aquí vamos otra vez.
 
 También puede incrustar listas dentro de listas y añadir contenido entre elementos de la lista.
 
@@ -119,7 +119,7 @@ Visualización:
 
    >[!NOTE]
    >
-   >Esto es texto de nota.
+   >Este es el texto de la nota.
 
 1. Do another step.
 
@@ -275,7 +275,7 @@ Visualización:
 
 El componente “Más como esto” de AEM aparece al final de un artículo. Muestra vínculos relacionados. Cuando se representa el artículo, se le puede dar el mismo formato que a los encabezados de nivel 2 (##) sin que se agreguen al mini-TOC.
 
-![morelikethis sintaxis](assets/more-like-this-syntax.png)
+![más similar a esta sintaxis](assets/more-like-this-syntax.png)
 
 Visualización:
 
@@ -307,7 +307,7 @@ Durante la traducción automática, los elementos etiquetados con `` se contra
 ```
 
 >[!NOTE]
-De las tres opciones de etiquetado, esta es la más crucial para ofrecer alta calidad y es obligatoria.
+De las tres opciones de etiquetado, esta es la más importante para ofrecer alta calidad y es obligatoria.
 
 **`[!DNL]`**
 
