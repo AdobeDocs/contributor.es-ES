@@ -5,7 +5,7 @@ exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
 workflow-type: tm+mt
 source-wordcount: '1421'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ Visualización:
 
 * First item in an unordered list.
 * Another item.
-* Aquí vamos otra vez.
+* Y otro más.
 
 También puede incrustar listas dentro de listas y añadir contenido entre elementos de la lista.
 
@@ -275,7 +275,7 @@ Visualización:
 
 El componente “Más como esto” de AEM aparece al final de un artículo. Muestra vínculos relacionados. Cuando se representa el artículo, se le puede dar el mismo formato que a los encabezados de nivel 2 (##) sin que se agreguen al mini-TOC.
 
-![más similar a esta sintaxis](assets/more-like-this-syntax.png)
+![sintaxis como esto](assets/more-like-this-syntax.png)
 
 Visualización:
 
