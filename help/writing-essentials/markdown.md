@@ -185,7 +185,7 @@ Visualización:
 
 Markdown admite la colocación de bloques de código tanto en línea como en un bloque “delimitado” independiente entre frases. Para obtener más información, consulte [Compatibilidad nativa de Markdown para bloques de código (en inglés).](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Utilice comillas invertidas (`` ` ``) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, agregue tres comillas invertidas (` ``` `) antes y después del bloque de código (denominado “bloque de código delimitado” en Markdown y “componente de bloque de código” en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: ` ```javascript`
+Utilice comillas invertidas (`` ` ``) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, agregue tres comillas invertidas (` ` `` `) antes y después del bloque de código (denominado “bloque de código delimitado” en Markdown y “componente de bloque de código” en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: ` `` `javascript`
 
 Ejemplos:
 
@@ -280,17 +280,17 @@ El componente “Más como esto” de AEM aparece al final de un artículo. Mues
 Visualización:
 
 >[!MORELIKETHIS]
-* [Artículo 1](https://helpx.adobe.com/es/support/analytics.html)
-* [Artículo 2](https://helpx.adobe.com/es/support/audience-manager.html)
+>* [Artículo 1](https://helpx.adobe.com/es/support/analytics.html)
+>* [Artículo 2](https://helpx.adobe.com/es/support/audience-manager.html)
 
 
 ### UICONTROL y DNL
 
 Todo el contenido de ayuda de Markdown se traduce inicialmente mediante traducción automática. Si la ayuda nunca se ha traducido antes, se conserva la traducción automática. Pero si el contenido de ayuda se había traducido anteriormente, el contenido derivado de la traducción automática actuará como referencia mientras el contenido esté en proceso de traducción humana.
 
-**``**
+**&grave;&grave;**
 
-Durante la traducción automática, los elementos etiquetados con `` se contrastan con el contenido de una base de datos de localización para garantizar su correcta interpretación. En caso de que la IU no esté traducida, esta etiqueta permite que el sistema deje la referencia de la IU en inglés para ese idioma en particular (por ejemplo, las referencias de Analytics en italiano).
+Durante la traducción automática, los elementos etiquetados con &grave;&grave; se contrastan con el contenido de una base de datos de localización para garantizar su correcta interpretación. En caso de que la IU no esté traducida, esta etiqueta permite que el sistema deje la referencia de la IU en inglés para ese idioma en particular (por ejemplo, las referencias de Analytics en italiano).
 
 **Ejemplo:**
 
@@ -307,7 +307,7 @@ Durante la traducción automática, los elementos etiquetados con `` se contra
 ```
 
 >[!NOTE]
-De las tres opciones de etiquetado, esta es la más importante para ofrecer alta calidad y es obligatoria.
+>De las tres opciones de etiquetado, esta es la más importante para ofrecer alta calidad y es obligatoria.
 
 **`[!DNL]`**
 
