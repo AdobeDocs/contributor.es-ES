@@ -2,10 +2,10 @@
 title: Cómo utilizar Markdown para escribir documentación
 description: Descubra los conceptos básicos de la creación de Markdown. Busque información de referencia para el lenguaje Markdown para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
+source-git-commit: bd0a7b34320435e1cebae95bc267ddf05b06a0f9
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 100%
+source-wordcount: '1431'
+ht-degree: 96%
 
 ---
 
@@ -185,7 +185,7 @@ Visualización:
 
 Markdown admite la colocación de bloques de código tanto en línea como en un bloque “delimitado” independiente entre frases. Para obtener más información, consulte [Compatibilidad nativa de Markdown para bloques de código (en inglés).](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Utilice comillas invertidas (`` ` ``) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, agregue tres comillas invertidas (` ` `` `) antes y después del bloque de código (denominado “bloque de código delimitado” en Markdown y “componente de bloque de código” en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: ` `` `javascript`
+Utilice comillas invertidas (`` ` ``) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, agregue tres comillas invertidas (` ``` `) antes y después del bloque de código (denominado “bloque de código delimitado” en Markdown y “componente de bloque de código” en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: ` ```javascript`
 
 Ejemplos:
 
@@ -280,34 +280,35 @@ El componente “Más como esto” de AEM aparece al final de un artículo. Mues
 Visualización:
 
 >[!MORELIKETHIS]
->* [Artículo 1](https://helpx.adobe.com/es/support/analytics.html)
->* [Artículo 2](https://helpx.adobe.com/es/support/audience-manager.html)
-
+>
+* [Artículo 1](https://helpx.adobe.com/es/support/analytics.html)
+* [Artículo 2](https://helpx.adobe.com/es/support/audience-manager.html)
 
 ### UICONTROL y DNL
 
 Todo el contenido de ayuda de Markdown se traduce inicialmente mediante traducción automática. Si la ayuda nunca se ha traducido antes, se conserva la traducción automática. Pero si el contenido de ayuda se había traducido anteriormente, el contenido derivado de la traducción automática actuará como referencia mientras el contenido esté en proceso de traducción humana.
 
-**&grave;&grave;**
+**``**
 
-Durante la traducción automática, los elementos etiquetados con &grave;&grave; se contrastan con el contenido de una base de datos de localización para garantizar su correcta interpretación. En caso de que la IU no esté traducida, esta etiqueta permite que el sistema deje la referencia de la IU en inglés para ese idioma en particular (por ejemplo, las referencias de Analytics en italiano).
+Durante la traducción automática, los elementos etiquetados con `` se contrastan con el contenido de una base de datos de localización para garantizar su correcta interpretación. En caso de que la IU no esté traducida, esta etiqueta permite que el sistema deje la referencia de la IU en inglés para ese idioma en particular (por ejemplo, las referencias de Analytics en italiano).
 
 **Ejemplo:**
 
-1. Vaya a la pantalla **[!UICONTROL Run Process]**.
-1. Seleccione **[!UICONTROL File > Print > Print All]** para imprimir todos los archivos del servidor.
-1. Aparece el cuadro de diálogo [!UICONTROL Processing Rules].
+1. Vaya a la **Ejecutar proceso** pantalla.
+1. Elegir **Archivo** > **Imprimir** > **Imprimir todo** para imprimir todos los archivos del servidor.
+1. Aparecerá el cuadro de diálogo Reglas de procesamiento.
 
 **Fuente:**
 
 ```markdown
-1. Go to the **[!UICONTROL Run Process]** screen.
-1. Choose **[!UICONTROL File > Print > Print All]** to print all the files on your server.
-1. The [!UICONTROL Processing Rules] dialog box appears.
+1. Go to the **&lbrack;!UICONTROL Run Process&rbrack;** screen.
+1. Choose **&lbrack;!UICONTROL File&rbrack; > &lbrack;!UICONTROL Print&rbrack; > &lbrack;!UICONTROL Print All&rbrack;** to print all the files on your server.
+1. The &lbrack;!UICONTROL Processing Rules&rbrack; dialog box appears.
 ```
 
 >[!NOTE]
->De las tres opciones de etiquetado, esta es la más importante para ofrecer alta calidad y es obligatoria.
+>
+De las tres opciones de etiquetado, esta es la más importante para ofrecer alta calidad y es obligatoria.
 
 **`[!DNL]`**
 
@@ -315,14 +316,14 @@ Como regla general, se utiliza la lista No traducir para indicar a los motores d
 
 **Ejemplo:**
 
-* Con [!DNL Target], puede crear pruebas A/B para encontrar lo óptimo
-* Adobe Analytics es una potente solución para recopilar análisis en el sitio. [!DNL Analytics] también puede ayudarle con los informes para asimilar fácilmente esos datos.
+* Con Target, puede crear pruebas A/B para encontrar lo óptimo
+* Adobe Analytics es una potente solución para recopilar análisis en el sitio. Analytics también puede ayudarle con los informes para asimilar fácilmente esos datos.
 
 **Fuente:**
 
 ```markdown
-* With [!DNL Target], you can create A/B tests to find the optimal 
-* Adobe Analytics is a powerful solution to collect analytics on your site. [!DNL Analytics] can also help you with reporting to easily digest that data.
+* With &lbrack;!DNL Target&rbrack;, you can create A/B tests to find the optimal 
+* Adobe Analytics is a powerful solution to collect analytics on your site. &lbrack;!DNL Analytics&rbrack; can also help you with reporting to easily digest that data.
 ```
 
 ## Problemas y soluciones
