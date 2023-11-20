@@ -2,10 +2,10 @@
 title: Cómo utilizar Markdown para escribir documentación
 description: Descubra los conceptos básicos de la creación de Markdown. Busque información de referencia para el lenguaje Markdown para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: bd0a7b34320435e1cebae95bc267ddf05b06a0f9
+source-git-commit: d3d478f8745c14ee500a43021597eecfebc7b06b
 workflow-type: tm+mt
-source-wordcount: '1431'
-ht-degree: 96%
+source-wordcount: '1466'
+ht-degree: 92%
 
 ---
 
@@ -292,23 +292,25 @@ Todo el contenido de ayuda de Markdown se traduce inicialmente mediante traducci
 
 Durante la traducción automática, los elementos etiquetados con `` se contrastan con el contenido de una base de datos de localización para garantizar su correcta interpretación. En caso de que la IU no esté traducida, esta etiqueta permite que el sistema deje la referencia de la IU en inglés para ese idioma en particular (por ejemplo, las referencias de Analytics en italiano).
 
-**Ejemplo:**
+**Ejemplo de contenido de origen:**
 
-1. Vaya a la **Ejecutar proceso** pantalla.
-1. Elegir **Archivo** > **Imprimir** > **Imprimir todo** para imprimir todos los archivos del servidor.
-1. Aparecerá el cuadro de diálogo Reglas de procesamiento.
+1. Vaya a la **&amp;lbrack;!UICONTROL Ejecutar proceso&amp;rbrack;** pantalla.
+1. Elegir **&amp;lbrack;!UICONTROL Archivo&amp;rbrack; > &amp;lbrack;!UICONTROL Imprimir&amp;rbrack; > &amp;lbrack;!UICONTROL Imprimir todo&amp;rbrack;** para imprimir todos los archivos del servidor.
+1. Aparecerá el cuadro de diálogo &amp;brack;!UICONTROL Processing Rules&amp;brack;.
 
-**Fuente:**
+<!--
+**Source:**
 
 ```markdown
 1. Go to the **&lbrack;!UICONTROL Run Process&rbrack;** screen.
 1. Choose **&lbrack;!UICONTROL File&rbrack; > &lbrack;!UICONTROL Print&rbrack; > &lbrack;!UICONTROL Print All&rbrack;** to print all the files on your server.
 1. The &lbrack;!UICONTROL Processing Rules&rbrack; dialog box appears.
 ```
+-->
 
 >[!NOTE]
 >
-De las tres opciones de etiquetado, esta es la más importante para ofrecer alta calidad y es obligatoria.
+De las dos opciones de etiquetado, esta es la más importante para ofrecer alta calidad y es obligatoria.
 
 **`[!DNL]`**
 
@@ -316,15 +318,17 @@ Como regla general, se utiliza la lista No traducir para indicar a los motores d
 
 **Ejemplo:**
 
-* Con Target, puede crear pruebas A/B para encontrar lo óptimo
-* Adobe Analytics es una potente solución para recopilar análisis en el sitio. Analytics también puede ayudarle con los informes para asimilar fácilmente esos datos.
+* Con &amp;lbrack;!DNL Target&amp;rbrack;, puede crear pruebas A/B para encontrar lo óptimo
+* Adobe Analytics es una potente solución para recopilar análisis en el sitio. &amp;lbrack;!DNL Analytics&amp;brack; también puede ayudarle con los informes para asimilar fácilmente esos datos.
 
-**Fuente:**
+<!--
+**Source:**
 
 ```markdown
 * With &lbrack;!DNL Target&rbrack;, you can create A/B tests to find the optimal 
 * Adobe Analytics is a powerful solution to collect analytics on your site. &lbrack;!DNL Analytics&rbrack; can also help you with reporting to easily digest that data.
 ```
+-->
 
 ## Problemas y soluciones
 
