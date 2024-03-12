@@ -3,9 +3,9 @@ title: Cómo utilizar Markdown para escribir documentación
 description: Descubra los conceptos básicos de la creación de Markdown. Busque información de referencia para el lenguaje Markdown para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: fff920c9e98ca821a4180157174c2a2ee1b84cb8
-workflow-type: tm+mt
-source-wordcount: '1361'
-ht-degree: 99%
+workflow-type: ht
+source-wordcount: '1340'
+ht-degree: 100%
 
 ---
 
@@ -145,7 +145,7 @@ Las tablas sencillas funcionan correctamente en Markdown. Sin embargo, es difíc
 
 Para obtener más información sobre cómo crear tablas, consulte:
 
-* [Organización de información con tablas de GitHub](https://docs.github.com/es/github/writing-on-github/organizing-information-with-tables)
+* [Organización de la información con tablas](https://docs.github.com/es/github/writing-on-github/organizing-information-with-tables) de GitHub
 * La aplicación web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 * [Convertir tablas HTML a Markdown](https://jmalarcon.github.io/markdowntables/)
 
@@ -183,7 +183,7 @@ Visualización:
 
 ### Bloques de código
 
-Markdown admite la colocación de bloques de código tanto en línea como en un bloque “delimitado” independiente entre frases. Para obtener más información, consulte [Compatibilidad nativa de Markdown para bloques de código (en inglés).](https://daringfireball.net/projects/markdown/syntax#precode)
+Markdown admite la colocación de bloques de código tanto en línea como en un bloque “delimitado” independiente entre frases. Para obtener más información, consulte [Compatibilidad nativa de Markdown para bloques de código](https://daringfireball.net/projects/markdown/syntax#precode).
 
 Utilice comillas invertidas (`` ` ``) para crear estilos de código en línea dentro de un párrafo. Para crear un bloque de código multilínea específico, agregue tres comillas invertidas (` ``` `) antes y después del bloque de código (denominado “bloque de código delimitado” en Markdown y “componente de bloque de código” en AEM). Para bloques de código delimitado, agregue el lenguaje del código después del primer conjunto de comillas invertidas para que Markdown resalte correctamente la sintaxis del código. Ejemplo: ` ```javascript`
 
@@ -281,8 +281,8 @@ Visualización:
 
 >[!MORELIKETHIS]
 >
-* [Artículo 1](https://helpx.adobe.com/es/support/analytics.html)
-* [Artículo 2](https://helpx.adobe.com/es/support/audience-manager.html)
+>* [Artículo 1](https://helpx.adobe.com/es/support/analytics.html)
+>* [Artículo 2](https://helpx.adobe.com/es/support/audience-manager.html)
 
 ### UICONTROL y DNL
 
@@ -294,7 +294,7 @@ Durante la traducción automática, los elementos etiquetados con `` se contra
 
 **Ejemplo de contenido de origen:**
 
-![texto de uicontrol de muestra](assets/sample-uicontrol.png)
+![texto uicontrol de muestra](assets/sample-uicontrol.png)
 
 <!--
 **Source:**
@@ -349,7 +349,7 @@ Si copia texto en un editor de Markdown, el texto puede contener apóstrofos “
 
 Estas son las codificaciones para las versiones “inteligentes” de estos signos de puntuación:
 
-* Comilla tipográfica izquierda (apertura): `&#8220;`
+* Comilla tipográfica izquierda (apertura):`&#8220;`
 * Comilla tipográfica derecha (cierre): `&#8221;`
 * Comilla tipográfica derecha simple (cierre) a la derecha o apóstrofo: `&#8217;`
 * Comilla tipográfica izquierda simple (apertura; poco usada): `&#8216;`
