@@ -4,8 +4,8 @@ description: Este artículo proporciona indicaciones para crear su repositorio l
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
 workflow-type: tm+mt
-source-wordcount: '653'
-ht-degree: 100%
+source-wordcount: '652'
+ht-degree: 98%
 
 ---
 
@@ -28,7 +28,7 @@ Para contribuir a la documentación de Adobe, puede ramificar el repositorio apr
 
 ## Determine el repositorio
 
-El repositorio adecuado se ramifica a su cuenta de GitHub para obtener permisos de lectura y escritura con el fin de almacenar los cambios propuestos. La documentación de [!UICONTROL Adobe Experience Cloud] reside en varios repositorios distintos en [github.com](https://www.github.com/adobedocs).
+El repositorio adecuado se ramifica a su cuenta de GitHub para obtener permisos de lectura y escritura con el fin de almacenar los cambios propuestos. La documentación de [!UICONTROL Adobe Experience Cloud] reside en varios repositorios diferentes en [github.com](https://www.github.com/adobedocs).
 
 1. Si no está seguro del repositorio que debe utilizar, visite el artículo con su explorador Web. Seleccione el vínculo **Editar** (icono de lápiz) en la esquina superior derecha del artículo. (Si no ve un vínculo Editar, significa que ese contenido aún no está disponible en GitHub.)
 

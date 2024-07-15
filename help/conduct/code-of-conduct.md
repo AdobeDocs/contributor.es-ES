@@ -1,11 +1,11 @@
 ---
 title: Código de conducta de Adobe
-description: Código de conducta de Adobe para informar sobre problemas y enviar cambios de edición
+description: Código de conducta del Adobe para informar sobre problemas y enviar cambios de edición
 exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
 source-git-commit: 06b0a397f0612e5ecfca82fc7105a45ed167efc9
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 100%
+source-wordcount: '442'
+ht-degree: 97%
 
 ---
 

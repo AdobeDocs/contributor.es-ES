@@ -35,27 +35,27 @@ Para crear un vínculo en línea desde un artículo a otro dentro del mismo repo
 
 - Un artículo en un directorio vincula a otro artículo en el mismo directorio:
 
-   `[link text](article-name.md)`
+  `[link text](article-name.md)`
 
 - Un artículo vincula desde un subdirectorio a un artículo en el directorio raíz:
 
-   `[link text](../article-name.md)`
+  `[link text](../article-name.md)`
 
 - Un artículo vincula desde un subdirectorio a un artículo en el directorio raíz:
 
-   `[link text](../../article-name.md)`
+  `[link text](../../article-name.md)`
 
 - Un artículo en el directorio raíz vincula a un artículo en un subdirectorio:
 
-   `[link text](./directory/article-name.md)`
+  `[link text](./directory/article-name.md)`
 
 - Un artículo en un subdirectorio vincula a un artículo en otro subdirectorio:
 
-   `[link text](../directory/article-name.md)`
+  `[link text](../directory/article-name.md)`
 
 - Un artículo en un sub-subdirectorio vincula a un artículo en otro subdirectorio:
 
-   `[link text](../../directory/article-name.md)`
+  `[link text](../../directory/article-name.md)`
 
 ## Vínculo a anclajes
 
@@ -63,21 +63,21 @@ No es necesario crear anclajes. Se generan automáticamente al publicar todos lo
 
 - Para vincular a un encabezado dentro del mismo artículo:
 
-   `[link](#the-text-of-the-level2-section-separated-by-hyphens)`
+  `[link](#the-text-of-the-level2-section-separated-by-hyphens)`
 
-   `[Link to anchors](#links-to-anchors)`
+  `[Link to anchors](#links-to-anchors)`
 
 - Para vincular a un anclaje en otro artículo del mismo subdirectorio:
 
-   `[link text](article-name.md#anchor-name)`
+  `[link text](article-name.md#anchor-name)`
 
-   `[Configure your profile](overview.md#getting-started)`
+  `[Configure your profile](overview.md#getting-started)`
 
 - Para vincular a un anclaje en otro subdirectorio de servicio:
 
-   `[link text](../directory/article-name.md#anchor-name)`
+  `[link text](../directory/article-name.md#anchor-name)`
 
-   `[Configure your profile](../overview.md#configure-your-profile)`
+  `[Configure your profile](../overview.md#configure-your-profile)`
 
 ## Vínculo a imágenes
 
@@ -85,8 +85,8 @@ Como práctica recomendada, las imágenes y los archivos se almacenan en un dire
 
 - Un artículo vincula a una imagen en el subdirectorio `assets`:
 
-   `![alt text](assets/image-name.png)`
+  `![alt text](assets/image-name.png)`
 
 - Un artículo vincula a una imagen en el subdirectorio `assets/no-localize`:
 
-   `![alt text](assets/no-localize/image-name.png)`
+  `![alt text](assets/no-localize/image-name.png)`

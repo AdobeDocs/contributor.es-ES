@@ -4,7 +4,7 @@ description: Siga este conjunto de directrices al contribuir a este proyecto.
 exl-id: 01dc5fd4-4676-41b1-be7b-aa4a9ea2fe14
 source-git-commit: 758ff966b959b614dd9250017c2a4eb5df47ffd2
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '284'
 ht-degree: 100%
 
 ---
@@ -43,4 +43,4 @@ submitting a pull request!
 
 ## Problemas de seguridad
 
-Los problemas de seguridad no deben enviarse a este rastreador de problemas. Envíe [el problema a nuestros expertos en seguridad](https://helpx.adobe.com/es/security/alertus.html)
+Los problemas de seguridad no deben enviarse a este rastreador de problemas. En su lugar, [presente un problema a nuestros expertos en seguridad](https://helpx.adobe.com/es/security/alertus.html)

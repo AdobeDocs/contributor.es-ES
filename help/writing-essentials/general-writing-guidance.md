@@ -5,8 +5,8 @@ description: Obtenga información sobre la creación y las directrices editorial
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
 source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
 workflow-type: tm+mt
-source-wordcount: '2224'
-ht-degree: 100%
+source-wordcount: '2203'
+ht-degree: 99%
 
 ---
 
@@ -24,7 +24,7 @@ Esta página proporciona directrices editoriales para autores externos que crean
 Tenga en cuenta lo siguiente al escribir documentación.
 
 * **Escriba de forma concisa**: no malgaste palabras. Utilice frases cortas y concisas. Mantenga el artículo centrado. Utilice un número mínimo de notas.
-* **Céntrese en la audiencia y el fin**: antes de comenzar a escribir, determine claramente quién es el cliente y qué tarea intenta llevar a cabo. Escriba el artículo para ayudar a ese cliente a realizar esa tarea.
+* **Céntrese en el público y el fin**: antes de comenzar a escribir, determine claramente quién es el cliente y qué tarea intenta llevar a cabo. Escriba el artículo para ayudar a ese cliente a realizar esa tarea.
 * **Utilice ejemplos**: ponga ejemplos para explicar los conceptos.
 * **Organice el contenido**: cree secciones para dividir las instrucciones en grupos de pasos más manejables. Utilice una captura de pantalla para aclarar cuestiones.
 
@@ -188,17 +188,17 @@ No es necesario preocuparse por si el producto está localizado o por los idioma
 
 * `DNL`
 
-   DNL significa _no localizar_. Usted lo utiliza solo para nombres de productos de Adobe de marca comercial, todos los cuales deben permanecer en inglés.
+  DNL significa _no localizar_. Usted lo utiliza solo para nombres de productos de Adobe de marca comercial, todos los cuales deben permanecer en inglés.
 
-   Ejemplos de sintaxis: `[!DNL Adobe Campaign]` o `[!DNL Workfront]`
+  Ejemplos de sintaxis: `[!DNL Adobe Campaign]` o `[!DNL Workfront]`
 
-   DNL no aplica para nombres de archivo ni para las URL.
+  DNL no aplica para nombres de archivo ni para las URL.
 
 * `UICONTROL`
 
-   UICONTROL indica un control de interfaz (como una opción, campo, pestaña, página, grupo de opciones o nombre de función en la interfaz de usuario).
+  UICONTROL indica un control de interfaz (como una opción, campo, pestaña, página, grupo de opciones o nombre de función en la interfaz de usuario).
 
-   Ejemplo de sintaxis: `Select **[!UICONTROL Project]**, then select **[!UICONTROL Save]**.`
+  Ejemplo de sintaxis: `Select **[!UICONTROL Project]**, then select **[!UICONTROL Save]**.`
 
 >[!IMPORTANT]
 >
@@ -214,11 +214,11 @@ El primer párrafo debe definir el tema y describir lo que el lector aprende al 
 
 Primer párrafo de muestra (concepto):
 
-_Las audiencias son recopilaciones de visitantes (una lista de ID de visitantes). Los servicios de audiencia de Adobe administran la traducción de datos sobre visitantes en segmentación de audiencia. De este modo, la creación y gestión de audiencias es similar a la creación y uso de segmentos, con la capacidad añadida de compartir segmentos de audiencia en Experience Cloud._
+_Los públicos son recopilaciones de visitantes (una lista de ID de visitantes). Los servicios de público de Adobe administran la traducción de datos sobre visitantes en segmentación de público. De este modo, la creación y gestión de públicos es similar a la creación y uso de segmentos, con la capacidad añadida de compartir segmentos de público en Experience Cloud._
 
 Primer párrafo de muestra (tarea):
 
-_Crear un origen de atributos del cliente (archivos CSV y FIN) y cargar los datos. Puede activar el origen de los datos cuando esté preparado. Una vez que esté listo el origen de los datos, comparta los datos del atributo con Analytics y Target._
+_Crear un origen de atributos del cliente (archivos CSV y FIN) y cargar los datos. Puede activar el origen de los datos cuando esté preparado. Una vez que el origen de datos esté activo, comparta los datos del atributo con Analytics y Target._
 
 ### Sugerencias de SEO para los primeros párrafos {#seo}
 
