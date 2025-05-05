@@ -84,7 +84,7 @@ La redacción de un procedimiento (el tipo de contenido de la _tarea_) no es un 
 **Directrices para los pasos**
 
 * Un procedimiento es una serie de pasos. Un paso es breve, numerado, un comando de una _sola oración_.
-* Empiece cada paso con un verbo o con el infinitivo _Para_ (para orientar al lector hacia el objetivo, como en, _Para permanecer conectado, habilite **Permanecer conectado**_). Si un paso tiene un objetivo específico dentro del procedimiento general, mencione el objetivo antes de la acción.
+* Empiece cada paso con un verbo o con el infinitivo _Para_ (para orientar al lector hacia el objetivo, como en, _Para permanecer conectado, habilite **Permanecer conectado**&#x200B;_). Si un paso tiene un objetivo específico dentro del procedimiento general, mencione el objetivo antes de la acción.
 * Si tiene información sobre el paso (un tipo de contenido llamado _información del paso_), añádalo después del paso (con sangría en el paso) o después del recurso (una captura de pantalla, un vídeo o una lista de descripciones de la interfaz).
 * Si el paso tiene dos acciones (por ejemplo, _Seleccione esto y luego_), escríbalo como una sola frase breve.
 * Limite la tarea entre siete y diez pasos. Si va a crear más de diez pasos en una tarea, es probable que tenga que dividirla en dos tareas. Use su mejor criterio aquí.
