@@ -37,7 +37,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Cambios importantes de los empleados de Adobe
 
-Si es redactor técnico, administrador de programa o desarrollador del equipo de producto para una solución de [!UICONTROL  Adobe Experience Cloud], y es su trabajo contribuir a artículos técnicos o crearlos, debe utilizar el repositorio privado que hay en `https://git.corp.adobe.com/AdobeDocs`. Consulte la [Guía de colaboración interna](https://experienceleague.adobe.com/docs/collaborative-doc-instructions/collaboration-guide/home.html?lang=es).
+Si es redactor técnico, administrador de programa o desarrollador del equipo de producto para una solución de [!UICONTROL &#x200B; Adobe Experience Cloud], y es su trabajo contribuir a artículos técnicos o crearlos, debe utilizar el repositorio privado que hay en `https://git.corp.adobe.com/AdobeDocs`. Consulte la [Guía de colaboración interna](https://experienceleague.adobe.com/docs/collaborative-doc-instructions/collaboration-guide/home.html?lang=es).
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
@@ -59,4 +59,4 @@ Todos los artículos de este repositorio utilizan GitHub Flavored Markdown. Si n
 En el repositorio público, las etiquetas automatizadas se asignan a solicitudes de extracción para ayudarnos a administrar el flujo de trabajo de la solicitud de extracción y para saber qué sucede con su solicitud de extracción:
 
 * **Change sent to author**: se ha notificado al autor de la solicitud de extracción pendiente.
-* Listo para combinar: listo para que el equipo de revisión de solicitudes de extracción lo revise.****
+* Listo para combinar: listo para que el equipo de revisión de solicitudes de extracción lo revise.**&#x200B;**
