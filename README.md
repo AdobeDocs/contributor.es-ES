@@ -1,8 +1,8 @@
 ---
-source-git-commit: 99540be2c2310e2250a0ceb14fb133b630ec397e
+source-git-commit: 2b359dd199979fbba8c0491490d9d071b0e5db50
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 100%
+source-wordcount: '405'
+ht-degree: 99%
 
 ---
 # Artículo sobre colaboración
@@ -15,11 +15,12 @@ Este proyecto ha adoptado el [Código de conducta de Adobe Open Source](code-of-
 
 ## Acerca de las contribuciones al contenido de Adobe
 
+
 Consulte la [Guía del colaborador de Adobe Docs](https://docs.adobe.com/help/es-ES/contributor/contributor-guide/introduction.html).
 
 La manera en que contribuye depende de quién es usted y del tipo de cambios con los que desee contribuir:
 
-### Cambios menores o solicitudes
+### Cambios o solicitudes menores
 
 Si desea enviar una solicitud, haga clic en el vínculo **Registrar un problema** de un artículo para crear un caso en GitHub. Especifique un título y una descripción y, a continuación, haga clic en **Enviar nuevo problema**.
 
@@ -37,7 +38,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Cambios importantes de los empleados de Adobe
 
-Si es redactor técnico, administrador de programas o desarrollador del equipo de producto de una solución de [!UICONTROL Adobe Experience Cloud] y debe contribuir a redactar o ampliar artículos técnicos, utilice el repositorio privado que hay en `https://git.corp.adobe.com/AdobeDocs`. Consulte la [Guía de colaboración interna](https://experienceleague.adobe.com/docs/collaborative-doc-instructions/collaboration-guide/home.html?lang=es).
+Si es redactor técnico, administrador de programa o desarrollador del equipo de producto para una solución de [!UICONTROL  Adobe Experience Cloud], y es su trabajo contribuir a artículos técnicos o crearlos, debe utilizar el repositorio privado que hay en `https://git.corp.adobe.com/AdobeDocs`. Consulte la [Guía de colaboración interna](https://experienceleague.adobe.com/docs/collaborative-doc-instructions/collaboration-guide/home.html?lang=es).
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
@@ -59,4 +60,4 @@ Todos los artículos de este repositorio utilizan GitHub Flavored Markdown. Si n
 En el repositorio público, las etiquetas automatizadas se asignan a solicitudes de extracción para ayudarnos a administrar el flujo de trabajo de la solicitud de extracción y para saber qué sucede con su solicitud de extracción:
 
 * **Change sent to author**: se ha notificado al autor de la solicitud de extracción pendiente.
-* **ready-to-merge**: listo para su revisión por nuestro equipo de revisión de solicitud de extracción.
+* Listo para combinar: listo para que el equipo de revisión de solicitudes de extracción lo revise.****
