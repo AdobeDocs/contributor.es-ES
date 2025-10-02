@@ -1,11 +1,11 @@
 ---
 title: Código de conducta de Adobe
-description: Código de conducta del Adobe para informar sobre problemas y enviar cambios de edición
+description: Código de conducta de Adobe para informar sobre problemas y enviar cambios de edición
 exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
-source-git-commit: 06b0a397f0612e5ecfca82fc7105a45ed167efc9
+source-git-commit: 9b3e4e2a7a007d4e417a5bf156d2290ea60b64ec
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 97%
+source-wordcount: '441'
+ht-degree: 93%
 
 ---
 
@@ -45,7 +45,8 @@ Este código de conducta se aplica tanto a espacios del proyecto como a espacios
 
 ## Aplicación
 
-Los casos de abuso, acoso u otro tipo de comportamiento inaceptable pueden denunciarse poniéndose en contacto con el equipo del proyecto en Grp-opensourceoffice@adobe.com. Todas las quejas se revisarán e investigarán, y tendrán como resultado la respuesta que se considere necesaria y adecuada a las circunstancias. El equipo del proyecto
+Los casos de comportamiento abusivo, acosador o inaceptable pueden ser
+se informó al contactar al equipo del proyecto en <Grp-opensourceoffice@adobe.com>. Todas las quejas se revisarán e investigarán, y tendrán como resultado la respuesta que se considere necesaria y adecuada a las circunstancias. El equipo del proyecto
 está obligado a mantener la confidencialidad respecto a la persona que denunció el incidente.
 Pueden publicarse separadamente más detalles sobre políticas de aplicación específicas.
 
