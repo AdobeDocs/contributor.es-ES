@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
+source-git-commit: 355ed3b7e1873272dd4c0626b51a48f37a026680
 workflow-type: tm+mt
 source-wordcount: '927'
-ht-degree: 88%
+ht-degree: 82%
 
 ---
 
@@ -26,8 +26,8 @@ Este modelo de código abierto mejora la calidad del contenido y la comunicació
 Como usuario de este material, e independientemente de si es empleado, socio, cliente o incluso cliente potencial, tiene la opción de contribuir a la documentación de varias formas sencillas.
 
 * Valore la utilidad de la página ❶ y escriba un comentario opcional ❷
-* Informe de un problema en una página específica (requiere iniciar la sesión en Git) ❸
-* Envíe desde una edición rápida hasta la creación de artículos completos, con recursos y ejemplos de código (requiere iniciar la sesión en Git) ❹
+* Informar de un problema en una página específica (requiere el inicio de sesión en Git) ❸
+* Envíe una edición rápida hasta la creación de artículos completos con recursos y ejemplos de código (requiere el inicio de sesión en Git) ❹
 
 ![Comentarios](assets/feedback-options.png)
 
@@ -82,7 +82,7 @@ Si desea proporcionar comentarios más detallados, realizar ediciones rápidas e
    >
    >Si recibe un mensaje de error de validación relativo a la firma del Acuerdo de licencia para colaboradores (CLA), haga clic en **[!UICONTROL Detalles]** para abrir el acuerdo de licencia. Si acepta las condiciones, firme el acuerdo. A continuación, cierre y abra la solicitud de extracción, y continúe.
 
-Es así de sencillo. Los integrantes del equipo de documentación revisarán y fusionarán la solicitud de extracción. ¡Gracias! 
+Es así de sencillo. Los miembros del equipo de documentación revisarán y combinarán la solicitud de extracción. ¡Gracias! 
 
 ## Informar de un problema
 
@@ -118,4 +118,4 @@ La edición en el navegador es mejor para cambios menores o poco frecuentes. Si 
 
 Con un conjunto de soluciones tan grande como el de Adobe, la documentación siempre está en constante evolución. Si encuentra errores, registre un problema; si tiene sugerencias sobre el material, háganoslo saber. Díganos qué información estaba buscando. Si no encontró lo que necesitaba, háganoslo saber. Si tiene dificultades para completar su tarea, indíquenos cómo podemos ayudarle a conocer nuestras soluciones.
 
-Gracias de parte del equipo de Documentación colaborativa y de todos los redactores y productores de contenidos de Experience League.
+Gracias de parte del equipo de documentación colaborativa y de todos los redactores y productores de contenido de Experience League. Agradecemos su ayuda.
