@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 355ed3b7e1873272dd4c0626b51a48f37a026680
+source-git-commit: 077555cf4e2c5559f19b8e38ba140ecdad9e5c29
 workflow-type: tm+mt
-source-wordcount: '927'
-ht-degree: 82%
+source-wordcount: '906'
+ht-degree: 93%
 
 ---
 
@@ -56,7 +56,7 @@ Si desea proporcionar comentarios más detallados, realizar ediciones rápidas e
 
    Solo es necesario que envíe el CLA de Adobe una vez.
 
-1. En el área de comentarios que aparece al final del artículo, haga clic en **[!UICONTROL Opciones de comentarios detalladas]** y, a continuación, haga clic en **[!UICONTROL Sugerir una edición]** para ir al archivo de código fuente Markdown en GitHub.
+1. En el área de comentarios que aparece al final del artículo, haga clic en **[!UICONTROL Detailed feedback options]** y haga clic en **[!UICONTROL Suggest an edit]** para ir al archivo de origen Markdown en GitHub.
 
    ![Editar el icono de esta página](/help/assets/feedback-suggest-edit.png)
 
@@ -74,21 +74,21 @@ Si desea proporcionar comentarios más detallados, realizar ediciones rápidas e
 
 1. Después de realizar los cambios, desplácese hasta la parte inferior de la página.
 
-   Escriba un título y una descripción para su PR y, a continuación, haga clic en **[!UICONTROL Proponer cambio de archivo]**, como se muestra en la siguiente ilustración:
+   Introduzca un título y una descripción para su PR y, a continuación, haga clic en **[!UICONTROL Propose file change]** como se muestra en el siguiente gráfico:
 
    ![proponga el cambio](assets/submit-pull-request.png)
 
    >[!NOTE]
    >
-   >Si recibe un mensaje de error de validación relativo a la firma del Acuerdo de licencia para colaboradores (CLA), haga clic en **[!UICONTROL Detalles]** para abrir el acuerdo de licencia. Si acepta las condiciones, firme el acuerdo. A continuación, cierre y abra la solicitud de extracción, y continúe.
+   >Si recibe un mensaje de error de validación acerca la firma de un acuerdo de licencia de colaborador (Contributor License Agreement, CLA), haga clic en **[!UICONTROL Details]** para abrir el acuerdo de licencia. Si acepta las condiciones, firme el acuerdo. A continuación, cierre y abra la solicitud de extracción, y continúe.
 
 Es así de sencillo. Los miembros del equipo de documentación revisarán y combinarán la solicitud de extracción. ¡Gracias! 
 
 ## Informar de un problema
 
-Otra manera fácil de avisarnos de un problema con un fragmento de contenido es usar **[!UICONTROL Informar de un problema]**.
+Otra forma sencilla de comunicar un problema con un contenido es utilizar **[!UICONTROL Report an issue]**.
 
-1. En el área de comentarios que aparece al final del artículo, haga clic en **[!UICONTROL Opciones de comentarios detalladas]** y, a continuación, haga clic en **[!UICONTROL Informar de un problema]** para ir al archivo de código fuente Markdown en GitHub.
+1. En el área de comentarios que aparece al final del artículo, haga clic en **[!UICONTROL Detailed feedback options]** y haga clic en **[!UICONTROL Report an issue]** para ir al archivo de origen Markdown en GitHub.
 
    ![Informar de un problema](assets/feedback-report-issue.png)
 
@@ -118,4 +118,4 @@ La edición en el navegador es mejor para cambios menores o poco frecuentes. Si 
 
 Con un conjunto de soluciones tan grande como el de Adobe, la documentación siempre está en constante evolución. Si encuentra errores, registre un problema; si tiene sugerencias sobre el material, háganoslo saber. Díganos qué información estaba buscando. Si no encontró lo que necesitaba, háganoslo saber. Si tiene dificultades para completar su tarea, indíquenos cómo podemos ayudarle a conocer nuestras soluciones.
 
-Gracias de parte del equipo de documentación colaborativa y de todos los redactores y productores de contenido de Experience League. Agradecemos su ayuda.
+Gracias de parte del equipo de documentación colaborativa y de todos los redactores y productores de contenido de Experience League. Gracias por tu ayuda.
