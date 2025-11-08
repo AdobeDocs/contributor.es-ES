@@ -25,7 +25,7 @@ Las palabras que incluya en el texto del vínculo deben ser el título de la pá
 
 **Ejemplos:**
 
-- `For more information, see the [overview article](https://github.com/AdobeDocs/target.en/help/overview.md).`
+- `For more information, see the [overview article](https://github.com/AdobeDocs/target.es-ES/help/overview.md).`
 
 - `For more details, see [Adobe Legal Concerns](https://www.adobe.com/legal).`
 
