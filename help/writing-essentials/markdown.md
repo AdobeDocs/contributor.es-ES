@@ -2,9 +2,9 @@
 title: Cómo utilizar Markdown para escribir documentación
 description: Descubra los conceptos básicos de la creación de Markdown. Busque información de referencia para el lenguaje Markdown para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: fff920c9e98ca821a4180157174c2a2ee1b84cb8
+source-git-commit: 7a14bde440f011f94b9eded63512362146336a9d
 workflow-type: tm+mt
-source-wordcount: '1340'
+source-wordcount: '1333'
 ht-degree: 100%
 
 ---
@@ -104,12 +104,12 @@ También puede incrustar listas dentro de listas y añadir contenido entre eleme
 
 Visualización:
 
-1. Set up your table and code blocks.
+1. Configure su tabla y bloques de código.
 1. Perform this step.
 
    ![pantalla](assets/no-localize/adobe_standard_logo.png)
 
-1. Make sure that your table looks like this:
+1. Asegúrese de que su tabla tenga este aspecto:
 
    | Hello | World |
    |---|---|
@@ -146,7 +146,6 @@ Las tablas sencillas funcionan correctamente en Markdown. Sin embargo, es difíc
 Para obtener más información sobre cómo crear tablas, consulte:
 
 * [Organización de la información con tablas](https://docs.github.com/es/github/writing-on-github/organizing-information-with-tables) de GitHub
-* La aplicación web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 * [Convertir tablas HTML a Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Vínculos
