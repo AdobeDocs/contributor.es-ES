@@ -1,8 +1,8 @@
 ---
 source-git-commit: 540aa4213e4fe4cb15d065262d88095c977b7b5f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 99%
+source-wordcount: '402'
+ht-degree: 100%
 
 ---
 # Artículo sobre colaboración
@@ -37,7 +37,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Cambios importantes de los empleados de Adobe
 
-Si es redactor técnico, administrador de programa o desarrollador del equipo de producto para una solución de [!UICONTROL &#x200B; Adobe Experience Cloud], y es su trabajo contribuir a artículos técnicos o crearlos, debe utilizar el repositorio privado que hay en `https://git.corp.adobe.com/AdobeDocs`. Consulte la [Guía de colaboración interna](https://experienceleague.adobe.com/docs/collaborative-doc-instructions/collaboration-guide/home.html?lang=es).
+Si es redactor técnico, administrador de programas o desarrollador del equipo de producto de una solución de [!UICONTROL Adobe Experience Cloud] y debe contribuir a redactar o ampliar artículos técnicos, utilice el repositorio privado que hay en `https://git.corp.adobe.com/AdobeDocs`. Consulte la [Guía de colaboración interna](https://experienceleague.adobe.com/docs/collaborative-doc-instructions/collaboration-guide/home.html?lang=es).
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
