@@ -2,10 +2,10 @@
 title: Configurar el repositorio de Git localmente
 description: Este artículo proporciona indicaciones para crear su repositorio local de Git y contribuir a la documentación de Adobe, incluidos los procesos de ramificación y clonación.
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
-source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+source-git-commit: df75e37ceec55476cc8b558e3bcccb474d329586
 workflow-type: tm+mt
-source-wordcount: '652'
-ht-degree: 98%
+source-wordcount: '656'
+ht-degree: 95%
 
 ---
 
@@ -18,7 +18,7 @@ Este artículo describe los pasos para configurar un repositorio de Git en el eq
 
 ## Información general
 
-Para contribuir a la documentación de Adobe, puede ramificar el repositorio apropiado en su cuenta de GitHub para obtener permisos de lectura y escritura. A continuación, puede crear y editar archivos Markdown localmente mediante la clonación del repositorio de documentación correspondiente. A continuación, utilice solicitudes de extracción para fusionar (enviar) los cambios en el repositorio compartido central de solo lectura.
+Para contribuir a la documentación de Adobe, puede ramificar el repositorio apropiado en su cuenta de GitHub para obtener permisos de lectura y escritura. A continuación, puede crear y editar archivos Markdown localmente mediante la clonación del repositorio de documentación correspondiente. A continuación, utilice solicitudes de extracción para combinar (enviar) los cambios en el repositorio compartido central de solo lectura.
 
 * Determinar el repositorio adecuado
 * Ramificar el repositorio a su cuenta de GitHub
@@ -28,13 +28,13 @@ Para contribuir a la documentación de Adobe, puede ramificar el repositorio apr
 
 ## Determine el repositorio
 
-El repositorio adecuado se ramifica a su cuenta de GitHub para obtener permisos de lectura y escritura con el fin de almacenar los cambios propuestos. La documentación de [!UICONTROL Adobe Experience Cloud] reside en varios repositorios diferentes en [github.com](https://www.github.com/adobedocs).
+You fork the appropriate repository into your own GitHub account so that you have read/write permissions there to store your proposed changes. [!UICONTROL Adobe Experience Cloud] documentation resides in several different repositories at [github.com](https://www.github.com/adobedocs).
 
 1. Si no está seguro del repositorio que debe utilizar, visite el artículo con su explorador Web. Seleccione el vínculo **Editar** (icono de lápiz) en la esquina superior derecha del artículo. (Si no ve un vínculo Editar, significa que ese contenido aún no está disponible en GitHub.)
 
-Para contribuir a la documentación de Adobe, puede crear y editar archivos Markdown localmente mediante la clonación del repositorio de documentación correspondiente. A continuación, utilice solicitudes de extracción para fusionar cambios en el repositorio compartido central de solo lectura.
+Para contribuir a la documentación de Adobe, puede crear y editar archivos Markdown localmente mediante la clonación del repositorio de documentación correspondiente. A continuación, utilice solicitudes de extracción para combinar cambios en el repositorio compartido central de solo lectura.
 
-<!---
+<!--
 ![GitHub Triangle](/assets/git-and-github-initial-setup.png)
 
 If you're new to GitHub, watch the following video for a conceptual overview of the forking and cloning process:
@@ -64,7 +64,7 @@ Se requiere una ramificación personal, ya que todos los repositorios de documen
 
 ## Crear un clon local del repositorio
 
-Al crear un clon del repositorio ramificado, se descarga una copia de los archivos en su ordenador. Cuando esté listo, puede enviar ediciones desde la unidad local al repositorio ramificado en el servidor. A continuación, puede enviar una solicitud de extracción para fusionar las ediciones en la rama ascendente al repositorio principal.
+Al crear un clon del repositorio ramificado, se descarga una copia de los archivos en su ordenador. Cuando esté listo, puede enviar ediciones desde la unidad local al repositorio ramificado en el servidor. A continuación, puede enviar una solicitud de extracción para combinar las ediciones en la rama ascendente al repositorio principal.
 
 Estos pasos dan por sentado que está utilizando GitHub Desktop. Si utiliza otro cliente, realice los ajustes correspondientes.
 

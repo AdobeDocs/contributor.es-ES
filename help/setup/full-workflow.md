@@ -2,10 +2,10 @@
 title: Flujo de trabajo de contribución en GitHub para cambios importantes
 description: Aprenda a hacer contribuciones a la documentación de Adobe en Experience League.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+source-git-commit: df75e37ceec55476cc8b558e3bcccb474d329586
 workflow-type: tm+mt
-source-wordcount: '941'
-ht-degree: 100%
+source-wordcount: '951'
+ht-degree: 96%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 100%
 >All repositories that publish to docs.adobe.com have adopted the [Adobe Open Source Code of Conduct](../../code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](../../contributing.md) article.
 >
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
---->
+-->
 
 ## Información general
 
-Este flujo de trabajo es adecuado para un colaborador que necesita realizar un cambio importante o que sea colaborador frecuente en un repositorio. Los colaboradores frecuentes suelen tener en marcha cambios continuos que pasan por varios ciclos de compilación/validación/ensayo, o abarcan varios días antes de extraerse la solicitud de desactivación y fusión.
+Este flujo de trabajo es adecuado para un colaborador que necesita realizar un cambio importante o que sea colaborador frecuente en un repositorio. Los colaboradores frecuentes suelen tener en marcha cambios continuos que pasan por varios ciclos de compilación/validación/ensayo, o abarcan varios días antes de extraerse la solicitud de desactivación y combinación.
 
 ### Terminología
 
@@ -47,7 +47,7 @@ En este flujo de trabajo, los cambios fluyen en un ciclo repetitivo. Desde el re
 
 Recordemos de [Fundamentos de Git y GitHub](git-fundamentals.md) que un repositorio Git contiene una rama principal, más cualquier rama adicional de trabajo en progreso que no se haya integrado en la principal. Siempre que introduzca un conjunto/establecer de cambios relacionados lógicamente, es una práctica recomendada crear una *rama de trabajo* para administrar los cambios a través del flujo de trabajo. Nos referimos a ella como rama de trabajo porque es un espacio de trabajo para repetir o pulir cambios, hasta que se puedan integrar de nuevo en la rama maestra.
 
-Aislar los cambios relacionados en una rama específica permite controlar e introducir dichos cambios de forma independiente, dirigiéndolos a un tiempo de lanzamiento específico en el ciclo de publicación. En realidad, según el tipo de trabajo que realice, puede acabar fácilmente con varias ramas de trabajo en su repositorio. No es raro trabajar en varias ramas al mismo tiempo, representando cada una de ellas un proyecto diferente.
+Aislar los cambios relacionados en una rama específica permite controlar e introducir dichos cambios de forma independiente, segmentándolos a un tiempo de lanzamiento específico en el ciclo de publicación. En realidad, según el tipo de trabajo que realice, puede acabar fácilmente con varias ramas de trabajo en su repositorio. No es raro trabajar en varias ramas al mismo tiempo, representando cada una de ellas un proyecto diferente.
 
 >[!NOTE]
 >
@@ -65,7 +65,7 @@ Antes de poder fusionar la solicitud de extracción en su rama de destino, es po
 
 ### Revisar y desconectar
 
-Una vez completado el procesamiento de todas las PR, deberá revisar los resultados (comentarios PR, URL de vista previa, etc.) para determinar si son necesarios cambios adicionales en los archivos antes de desactivar la fusión. Si un revisor de PR ha revisado la solicitud de extracción, también puede realizar comentarios si quedan problemas o preguntas pendientes por resolver antes de la fusión.
+After all PR processing is completed, you should review the results (PR comments, preview URLs, etc.) to determine if additional changes to its files are required before you sign off for merging. Si un revisor de PR ha revisado la solicitud de extracción, también puede realizar comentarios si quedan problemas o preguntas pendientes por resolver antes de la combinación.
 
 Cuando en la solicitud de extracción no existen problemas y se desactiva, los cambios se vuelven a fusionar en la rama principal y se cierra la solicitud de extracción.
 
