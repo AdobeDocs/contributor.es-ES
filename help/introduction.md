@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: f0552fbba1aac1b8ffd4116bd66f6c06afab0d39
+source-git-commit: 5ee22aee7299bfbe04bc29866f7a0ac0486cf07a
 workflow-type: tm+mt
-source-wordcount: '906'
-ht-degree: 93%
+source-wordcount: '910'
+ht-degree: 91%
 
 ---
 
@@ -19,7 +19,7 @@ En esta guía se describe cómo puede contribuir a la ayuda de empresarial de Ad
 
 La documentación técnica y el contenido de habilitación de Adobe Experience Cloud y otros productos de Adobe Enterprise se basan en los principios de código abierto que utilizan las soluciones GitHub, Markdown y Adobe Experience Cloud.
 
-Este modelo de código abierto mejora la calidad del contenido y la comunicación entre clientes y equipos de documentación y de producto. Ahora, en cada una de las páginas es posible valorar la utilidad del contenido, registrar problemas e incluso contribuir con sugerencias de contenido mediante solicitudes de extracción (PR) Git. Los equipos de documentación de Adobe supervisan diariamente las contribuciones y los problemas, y realizan las actualizaciones, las modificaciones y los ajustes necesarios.
+Este modelo de código abierto mejora la calidad del contenido y la comunicación entre clientes y equipos de documentación y de producto. Ahora, en cada una de las páginas es posible valorar la utilidad del contenido, registrar problemas e incluso contribuir con sugerencias de contenido mediante solicitudes de extracción (PR) Git. Los equipos de documentación de Adobe monitorizan diariamente las contribuciones y los problemas, y realizan las actualizaciones, las modificaciones y los ajustes necesarios.
 
 ## Uso de la documentación de colaborativa
 
@@ -33,14 +33,7 @@ Como usuario de este material, e independientemente de si es empleado, socio, cl
 
 Estas opciones aparecen en la parte inferior de la página unos segundos después de abrirla. Si descarta el área de comentarios, puede volver a cargar la página para que vuelva a aparecer.
 
-En esta guía se describe todo lo que necesita saber para interactuar con este conjunto de materiales y contribuir a su creación.
-
-<!--
->[!IMPORTANT]
->All repositories that publish to docs.adobe.com have adopted the [Adobe Open Source Code of Conduct](../code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](../contributing.md) article.
->
-> Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
--->
+Esta guía describe lo que necesita saber para interactuar con este conjunto de materiales y contribuir a su creación.
 
 ## Valore la utilidad de la página y escriba un comentario
 
@@ -82,7 +75,7 @@ Si desea proporcionar comentarios más detallados, realizar ediciones rápidas e
    >
    >Si recibe un mensaje de error de validación acerca la firma de un acuerdo de licencia de colaborador (Contributor License Agreement, CLA), haga clic en **[!UICONTROL Details]** para abrir el acuerdo de licencia. Si acepta las condiciones, firme el acuerdo. A continuación, cierre y abra la solicitud de extracción, y continúe.
 
-Es así de sencillo. Los miembros del equipo de documentación revisarán y combinarán la solicitud de extracción. ¡Gracias! 
+Es así de sencillo. Los miembros del equipo de documentación revisarán y combinarán la solicitud de extracción. ¡Gracias!
 
 ## Informar de un problema
 
