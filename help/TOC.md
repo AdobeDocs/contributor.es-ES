@@ -7,7 +7,7 @@ cloud: Experience Cloud
 user-guide-title: Guía del colaborador
 user-guide-description: Instrucciones para los colaboradores de la documentación de Adobe
 index: true
-source-git-commit: 68728714de2ef9acf198b5ce14599e7b5ae647be
+source-git-commit: dad6d9b7633f6dea1786504c9e741c1aed5754a1
 workflow-type: tm+mt
 source-wordcount: 101
 ht-degree: 66%
