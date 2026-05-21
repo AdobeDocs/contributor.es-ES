@@ -2,7 +2,7 @@
 title: Flujo de trabajo de contribución en GitHub para cambios importantes
 description: Aprenda a hacer contribuciones a la documentación de Adobe en Experience League.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-source-git-commit: df75e37ceec55476cc8b558e3bcccb474d329586
+source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
 workflow-type: tm+mt
 source-wordcount: '951'
 ht-degree: 96%
@@ -65,7 +65,7 @@ Antes de poder fusionar la solicitud de extracción en su rama de destino, es po
 
 ### Revisar y desconectar
 
-After all PR processing is completed, you should review the results (PR comments, preview URLs, etc.) to determine if additional changes to its files are required before you sign off for merging. Si un revisor de PR ha revisado la solicitud de extracción, también puede realizar comentarios si quedan problemas o preguntas pendientes por resolver antes de la combinación.
+Una vez completado el procesamiento de todas las PR, deberá revisar los resultados (comentarios PR, URL de vista previa, etc.) para determinar si se requieren cambios adicionales en sus archivos antes de desactivar la fusión. Si un revisor de PR ha revisado la solicitud de extracción, también puede realizar comentarios si quedan problemas o preguntas pendientes por resolver antes de la combinación.
 
 Cuando en la solicitud de extracción no existen problemas y se desactiva, los cambios se vuelven a fusionar en la rama principal y se cierra la solicitud de extracción.
 

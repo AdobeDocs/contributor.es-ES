@@ -4,7 +4,7 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: La guía describe cómo puede realizar sugerencias y aportaciones al sitio de documentación de Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 5ee22aee7299bfbe04bc29866f7a0ac0486cf07a
+source-git-commit: 6474661d6b2494cff3dd02b507f407181143d4a0
 workflow-type: tm+mt
 source-wordcount: '910'
 ht-degree: 91%
@@ -51,7 +51,7 @@ Si desea proporcionar comentarios más detallados, realizar ediciones rápidas e
 
 1. En el área de comentarios que aparece al final del artículo, haga clic en **[!UICONTROL Detailed feedback options]** y haga clic en **[!UICONTROL Suggest an edit]** para ir al archivo de origen Markdown en GitHub.
 
-   ![Editar el icono de esta página](/help/assets/feedback-suggest-edit.png)
+   ![Editar el icono de esta página](/help/guide/assets/feedback-suggest-edit.png)
 
 1. Haga clic en el icono de lápiz para editar el artículo.
 

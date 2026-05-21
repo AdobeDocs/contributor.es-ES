@@ -2,10 +2,10 @@
 title: Recursos de aprendizaje de Git y GitHub
 description: Recursos de aprendizaje para Git y GitHub.
 exl-id: a112954a-76d9-4ee7-86be-676c5bd92994
-source-git-commit: 7a14bde440f011f94b9eded63512362146336a9d
+source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '121'
+ht-degree: 96%
 
 ---
 

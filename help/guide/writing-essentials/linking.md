@@ -5,9 +5,9 @@ seo-title: Using links in Adobe Git/Markdown documentation
 description: En este artículo se explica cómo crear vínculos a contenido e imágenes.
 seo-description: This article provides guidance on creating links to content and images for Adobe documentation.
 exl-id: f9d61aa9-931c-4654-ab21-c6e47936954e
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
+source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '321'
 ht-degree: 100%
 
 ---

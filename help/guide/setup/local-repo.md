@@ -2,10 +2,10 @@
 title: Configurar el repositorio de Git localmente
 description: Este artículo proporciona indicaciones para crear su repositorio local de Git y contribuir a la documentación de Adobe, incluidos los procesos de ramificación y clonación.
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
-source-git-commit: df75e37ceec55476cc8b558e3bcccb474d329586
+source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
 workflow-type: tm+mt
 source-wordcount: '656'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Para contribuir a la documentación de Adobe, puede ramificar el repositorio apr
 
 ## Determine el repositorio
 
-You fork the appropriate repository into your own GitHub account so that you have read/write permissions there to store your proposed changes. [!UICONTROL Adobe Experience Cloud] documentation resides in several different repositories at [github.com](https://www.github.com/adobedocs).
+El repositorio adecuado se ramifica a su cuenta de GitHub para obtener permisos de lectura y escritura con el fin de almacenar los cambios propuestos. La documentación de [!UICONTROL Adobe Experience Cloud] reside en varios repositorios distintos en [github.com](https://www.github.com/adobedocs).
 
 1. Si no está seguro del repositorio que debe utilizar, visite el artículo con su explorador Web. Seleccione el vínculo **Editar** (icono de lápiz) en la esquina superior derecha del artículo. (Si no ve un vínculo Editar, significa que ese contenido aún no está disponible en GitHub.)
 
