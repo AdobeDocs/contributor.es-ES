@@ -3,8 +3,8 @@ title: Código de conducta de Adobe
 description: Código de conducta de Adobe
 source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 100%
+source-wordcount: '451'
+ht-degree: 87%
 
 ---
 
@@ -26,11 +26,11 @@ Algunos ejemplos de comportamiento que contribuyen a la creación de un entorno 
 
 Ejemplos de comportamiento inaceptable por parte de los participantes:
 
-* Uso de lenguaje o imágenes sexuales y atención sexual no deseada
+* El uso de lenguaje o imágenes sexualizadas, así como la atención o insinuaciones sexuales no deseadas
 * Comentarios insultantes o despectivos (trolling) y ataques personales o políticos
 * Acoso público o privado
 * Publicación de información privada de terceros sin su consentimiento, como direcciones físicas o electrónicas
-* Otros tipos de conducta que pudieran considerarse inapropiadas en un entorno profesional.
+* Otros tipos de conducta que pudieran considerarse inapropiadas en un entorno profesional
 
 ## Nuestras responsabilidades
 
@@ -40,12 +40,13 @@ Los administradores de proyectos tienen el derecho y la responsabilidad de elimi
 
 ## Ámbito
 
-Este código de conducta se aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto son el uso de la cuenta oficial de correo electrónico, publicaciones a través de los medios sociales oficiales, o presentaciones con personas designadas en eventos en línea u sin conexión. Los administradores del proyecto pueden definir o clarificar aún más la representación del proyecto.
+Este código de conducta se aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Algunos ejemplos de representación de un proyecto o comunidad son el uso de un correo electrónico oficial del proyecto
+dirección, publicación a través de una cuenta oficial de medios sociales o actuación como representante designado en un evento en línea o sin conexión. Los administradores del proyecto pueden definir o clarificar aún más la representación del proyecto.
 
 ## Aplicación
 
-Los casos de abuso, acoso u otro tipo de comportamiento inaceptable pueden denunciarse poniéndose en contacto con el equipo del proyecto en Grp-opensourceoffice@adobe.com. Todas las quejas se revisarán e investigarán, y tendrán como resultado la respuesta que se considere necesaria y adecuada a las circunstancias. El equipo del proyecto
-está obligado a mantener la confidencialidad respecto a la persona que denunció el incidente. Pueden publicarse separadamente más detalles sobre políticas de aplicación específicas.
+Los casos de comportamiento abusivo, acosador o inaceptable pueden denunciarse poniéndose en contacto con el equipo del proyecto en Grp-opensourceoffice@adobe.com. Todas las quejas se revisarán e investigarán y darán lugar a una respuesta que
+se considere necesario y adecuado a las circunstancias. El equipo del proyecto está obligado a mantener la confidencialidad respecto a la persona que denunció el incidente. Pueden publicarse separadamente más detalles sobre políticas de aplicación específicas.
 
 Los administradores del proyecto que no cumplan o hagan cumplir de buena fe el Código de conducta pueden sufrir repercusiones temporales o permanentes, según el criterio de los demás miembros del equipo de administración del proyecto.
 
