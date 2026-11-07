@@ -263,12 +263,12 @@ Visualización:
 Los vídeos incrustados no se representan de forma nativa en Markdown, pero puede utilizar esta extensión de Markdown.
 
 ```markdown
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507553/?captions=spa&quality=12)
 ```
 
 Visualización:
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507553/?captions=spa&quality=12)
 
 ### Más como esto
 
