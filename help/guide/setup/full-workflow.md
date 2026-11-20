@@ -2,13 +2,11 @@
 title: Flujo de trabajo de contribución en GitHub para cambios importantes
 description: Aprenda a hacer contribuciones a la documentación de Adobe en Experience League.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
+source-git-commit: a1466cb4bcbef51689c659e25d56d5cb0d4843a6
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '860'
 ht-degree: 96%
-
 ---
-
 # Flujo de trabajo de contribución en GitHub para cambios importantes
 
 <!--
@@ -49,9 +47,11 @@ Recordemos de [Fundamentos de Git y GitHub](git-fundamentals.md) que un reposito
 
 Aislar los cambios relacionados en una rama específica permite controlar e introducir dichos cambios de forma independiente, segmentándolos a un tiempo de lanzamiento específico en el ciclo de publicación. En realidad, según el tipo de trabajo que realice, puede acabar fácilmente con varias ramas de trabajo en su repositorio. No es raro trabajar en varias ramas al mismo tiempo, representando cada una de ellas un proyecto diferente.
 
+<!--
 >[!NOTE]
 >
->Hacer los cambios en la rama principal *no es una práctica recomendada*. Imagine que utiliza la rama principal para introducir un conjunto de cambios para la publicación programada de una funcionalidad. Finaliza los cambios y está esperando para publicarlos. Mientras tanto, recibe una solicitud urgente para corregir algo, por lo que realiza el cambio en un archivo de la rama principal y después lo publica. En este ejemplo, publica inadvertidamente la corrección *y* los cambios que había retenido para publicar en una fecha específica.
+>Making your changes in the main branch *is not a good practice*. Imagine that you use the main branch to introduce a set of changes for a timed feature release. You finish the changes and are waiting to release them. Then in the interim, you have an urgent request to fix something, so you make the change to a file in the main branch and then publish the change. In this example, you inadvertently publish both the fix *and* the changes that you were holding for release on a specific date.
+-->
 
 El siguiente paso es crear una nueva ramificación de trabajo en el repositorio local para capturar los cambios propuestos. Cada cliente Git es diferente, así que le aconsejamos que consulte la ayuda de su cliente preferido. Puede ver una descripción general del proceso en la Guía de GitHub sobre el [flujo de GitHub](https://guides.github.com/introduction/flow/).
 
