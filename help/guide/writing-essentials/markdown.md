@@ -287,9 +287,9 @@ Visualización:
 
 Todo el contenido de ayuda de Markdown se traduce inicialmente mediante traducción automática. Si la ayuda nunca se ha traducido antes, se conserva la traducción automática. Pero si el contenido de ayuda se había traducido anteriormente, el contenido derivado de la traducción automática actuará como referencia mientras el contenido esté en proceso de traducción humana.
 
-**``**
+**&grave;&grave;**
 
-Durante la traducción automática, los elementos etiquetados con `` se contrastan con el contenido de una base de datos de localización para garantizar su correcta interpretación. En caso de que la interfaz de usuario no esté localizada, esta etiqueta permite al sistema dejar la referencia de la interfaz de usuario en inglés para ese idioma en particular (es decir, las referencias de Analytics en italiano).
+Durante la traducción automática, los elementos etiquetados con &grave;&grave; se contrastan con el contenido de una base de datos de localización para garantizar su correcta interpretación. En caso de que la interfaz de usuario no esté localizada, esta etiqueta permite al sistema dejar la referencia de la interfaz de usuario en inglés para ese idioma en particular (es decir, las referencias de Analytics en italiano).
 
 **Ejemplo de contenido de origen:**
 
