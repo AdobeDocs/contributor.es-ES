@@ -153,12 +153,12 @@ La sintaxis Markdown para un vínculo en línea consiste en la parte `[link text
 `[link text](file-name.md)`
 
 ```markdown
-[Adobe](https://www.adobe.com)
+[Adobe](https://www.adobe.com/es)
 ```
 
 Visualización:
 
-[Adobe](https://www.adobe.com)
+[Adobe](https://www.adobe.com/es)
 
 Para vínculos a artículos (referencias cruzadas) dentro del repositorio, utilice vínculos relativos. Puede utilizar todos los operandos de vínculos relativos, como ./ (directorio actual), ../ (atrás un directorio) y ../../ (atrás dos directorios).
 
