@@ -2,16 +2,16 @@
 title: Cómo utilizar Markdown para escribir documentación
 description: Descubra los conceptos básicos de la creación de Markdown. Busque información de referencia para el lenguaje Markdown para escribir artículos.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 67075e2ca1ac4f63c0bdc30507dbb0444a922afd
+source-git-commit: a1466cb4bcbef51689c659e25d56d5cb0d4843a6
 workflow-type: tm+mt
-source-wordcount: '1309'
-ht-degree: 92%
+source-wordcount: '1310'
+ht-degree: 88%
 ---
 # Cómo utilizar Markdown para escribir documentación técnica
 
 Los artículos técnicos de Adobe están escritos con un lenguaje de marcado ligero llamado [Markdown](https://daringfireball.net/projects/markdown/), que es fácil de leer y aprender.
 
-Como el contenido Adobe Docs se almacena en GitHub, puede utilizar una versión de Markdown denominada [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/), que proporciona funcionalidad adicional para satisfacer necesidades comunes de aplicación de formato. Además, el Adobe Markdown ampliado proporciona varias formas que admiten determinadas funciones relacionadas con la ayuda, como notas, sugerencias y vídeos incrustados.
+Como el contenido Adobe Docs se almacena en GitHub, se basa en una versión de Markdown denominada [GitHub Flavored Markdown (GFM)](https://help.github.com/categories/writing-on-github/), que proporciona funcionalidad adicional para satisfacer necesidades comunes de aplicación de formato. Además, Adobe amplía Markdown de varias formas para admitir determinadas funciones relacionadas con la ayuda, como notas, sugerencias y vídeos incrustados.
 
 ## Conceptos básicos de Markdown
 
@@ -153,12 +153,12 @@ La sintaxis Markdown para un vínculo en línea consiste en la parte `[link text
 `[link text](file-name.md)`
 
 ```markdown
-[Adobe](https://www.adobe.com/es)
+[Adobe](https://www.adobe.com)
 ```
 
 Visualización:
 
-[Adobe](https://www.adobe.com/es)
+[Adobe](https://www.adobe.com)
 
 Para vínculos a artículos (referencias cruzadas) dentro del repositorio, utilice vínculos relativos. Puede utilizar todos los operandos de vínculos relativos, como ./ (directorio actual), ../ (atrás un directorio) y ../../ (atrás dos directorios).
 
@@ -263,12 +263,12 @@ Visualización:
 Los vídeos incrustados no se representan de forma nativa en Markdown, pero puede utilizar esta extensión de Markdown.
 
 ```markdown
->[!VIDEO](https://video.tv.adobe.com/v/3507553/?captions=spa&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
 ```
 
 Visualización:
 
->[!VIDEO](https://video.tv.adobe.com/v/3507553/?captions=spa&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
 
 ### Más como esto
 
@@ -287,9 +287,9 @@ Visualización:
 
 Todo el contenido de ayuda de Markdown se traduce inicialmente mediante traducción automática. Si la ayuda nunca se ha traducido antes, se conserva la traducción automática. Pero si el contenido de ayuda se había traducido anteriormente, el contenido derivado de la traducción automática actuará como referencia mientras el contenido esté en proceso de traducción humana.
 
-**&grave;&grave;**
+**``**
 
-Durante la traducción automática, los elementos etiquetados con &grave;&grave; se contrastan con el contenido de una base de datos de localización para garantizar su correcta interpretación. En caso de que la interfaz de usuario no esté localizada, esta etiqueta permite al sistema dejar la referencia de la interfaz de usuario en inglés para ese idioma en particular (es decir, las referencias de Analytics en italiano).
+Durante la traducción automática, los elementos etiquetados con `` se contrastan con el contenido de una base de datos de localización para garantizar su correcta interpretación. En caso de que la interfaz de usuario no esté localizada, esta etiqueta permite al sistema dejar la referencia de la interfaz de usuario en inglés para ese idioma en particular (es decir, las referencias de Analytics en italiano).
 
 **Ejemplo de contenido de origen:**
 
